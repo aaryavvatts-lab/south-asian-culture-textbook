@@ -1,0 +1,80 @@
+{
+  "title": "India Explorer",
+  "description": "A tile cartogram (not a traced map) with one equal tile for each of India's 28 states and 8 union territories. Tiles can be colored by the language family of each place's main official language or by informal region. Tapping a tile shows its capital, official languages, language family and a short note. A caption marks it as schematic, and a note states that the wider Kashmir region is disputed.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-22",
+  "subject": [
+    "South Asian cultures",
+    "Geography",
+    "India",
+    "Civics",
+    "Languages"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/south-asian-culture-textbook/sims/ch17-india-explorer/",
+  "publisher": "Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, South Asian student club leaders",
+  "version": "1.0.0",
+  "chapter": "17-india",
+  "learningObjectives": [
+    "Name India's states and union territories and find their capitals.",
+    "Explain how many state borders were drawn around languages (linguistic states).",
+    "Classify states by the language family of their official languages and by region."
+  ],
+  "bloomLevel": [
+    "Understand"
+  ],
+  "concepts": [
+    "Republic of India",
+    "New Delhi",
+    "States and Union Territories",
+    "Linguistic States",
+    "Northeast India",
+    "South India",
+    "Unity in Diversity"
+  ],
+  "prerequisites": [
+    "Knowing the eight countries of South Asia (Chapter 1)",
+    "Knowing the main language families of South Asia (Chapter 6)"
+  ],
+  "keyQuestions": [
+    "What is the difference between a state and a union territory?",
+    "Why do so many states have their own official language?",
+    "Where in India are Dravidian and Tibeto-Burman languages the main official languages?"
+  ],
+  "misconceptions": [
+    "India has one culture.",
+    "Hindi is spoken everywhere in India.",
+    "India's capital is Mumbai.",
+    "A bigger tile means a bigger state."
+  ],
+  "controls": [
+    "Color by menu (Language family, Region)",
+    "Highlight the 8 union territories checkbox",
+    "Click or tap a tile"
+  ],
+  "dataSources": [
+    "National Portal of India, India State/UTs & Districts (28 states, 8 UTs, capitals): https://www.india.gov.in/explore-india/facts-of-india/states-ut-districts",
+    "Integrated Government Online Directory, State/UT Government list: https://igod.gov.in/sg/states",
+    "World Bank, Population, total (SP.POP.TOTL), 2025: https://data.worldbank.org/indicator/SP.POP.TOTL",
+    "Constitution of India, Article 343 and Eighth Schedule: https://www.constitutionofindia.net/schedules/languages",
+    "All India Radio News, Ladakh Official Languages Regulation 2025: https://www.newsonair.gov.in/president-murmu-promulgates-ladakh-official-languages-regulation-2025"
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10"
+}

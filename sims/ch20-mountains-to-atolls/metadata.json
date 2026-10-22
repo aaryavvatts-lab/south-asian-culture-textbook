@@ -1,0 +1,79 @@
+{
+  "title": "Mountains to Atolls",
+  "description": "A schematic elevation staircase from a Maldives coral atoll across the Indian Ocean, through Nepal's Terai, Kathmandu and Bhutan's capital Thimphu, to Mount Everest (8,848.86 m). A sea-level slider (0 to 2 m) shows that a rise invisible at mountain scale floods a large share of a sample low atoll island, with the IPCC AR6 likely 2100 ranges shaded.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-22",
+  "subject": [
+    "South Asian cultures",
+    "Geography",
+    "Nepal",
+    "Bhutan",
+    "Maldives",
+    "Sea-level rise"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/south-asian-culture-textbook/sims/ch20-mountains-to-atolls/",
+  "publisher": "Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, South Asian student club leaders",
+  "version": "1.0.0",
+  "chapter": "20-nepal-bhutan-maldives",
+  "learningObjectives": [
+    "Compare the elevations of the Maldives, the Terai, Kathmandu, Thimphu and Mount Everest on one schematic profile.",
+    "Explain why a sea-level rise of under a meter is invisible at mountain scale but serious for low atoll islands.",
+    "Relate the IPCC's likely sea-level rise ranges for 2100 to the height of Maldivian islands."
+  ],
+  "bloomLevel": [
+    "Analyze"
+  ],
+  "concepts": [
+    "Nepal",
+    "Kathmandu Valley",
+    "Mount Everest",
+    "Bhutan",
+    "Maldives",
+    "Atolls",
+    "Sea-Level Rise"
+  ],
+  "prerequisites": [
+    "Reading a graph with a labeled vertical axis in meters",
+    "Knowing where the Himalaya and the Indian Ocean are (Chapter 1)"
+  ],
+  "keyQuestions": [
+    "How many times higher is Mount Everest than the Maldives' highest natural ground?",
+    "Why does a 1 m sea-level rise barely show on the mountain panel?",
+    "How much of a low atoll island could lie below sea level under the IPCC's 2100 ranges?"
+  ],
+  "misconceptions": [
+    "A sea-level rise of under a meter is too small to matter.",
+    "The Maldives is just a resort, not a country where people live.",
+    "Mountain countries face no climate risk from warming."
+  ],
+  "controls": [
+    "Sea-level rise slider (0 to 2.0 m)",
+    "Place menu",
+    "Show IPCC 2100 ranges checkbox",
+    "Click or tap a place marker"
+  ],
+  "dataSources": [
+    "IPCC AR6 WGI Summary for Policymakers (2021), B.5.3 likely sea-level rise by 2100: https://www.ipcc.ch/report/ar6/wg1/chapter/summary-for-policymakers/",
+    "University of Illinois CSAMES, Maldives country page (average ground about 1.5 m, highest natural point about 2.4 m): https://csames.illinois.edu/sas/sa-resources/countries/maldives",
+    "Mount Everest 8,848.86 m, 2020 joint China-Nepal measurement (book canonical value)"
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10"
+}

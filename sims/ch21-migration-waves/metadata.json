@@ -1,0 +1,87 @@
+{
+  "title": "Migration Waves",
+  "description": "A schematic diagram of labeled region tiles (not a map) with South Asia in the center. A year slider from 1830 to 2020 lights up arcs for the major waves of South Asian migration: indenture to Mauritius, the Caribbean and Fiji; East Africa; the early United States; Britain; the 1972 Uganda expulsion to Britain; the Gulf; and the United States after 1965. A card gives each wave's dates, cause and one sourced fact.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-22",
+  "subject": [
+    "South Asian cultures",
+    "Migration",
+    "South Asian diaspora",
+    "World history",
+    "Immigration history"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/south-asian-culture-textbook/sims/ch21-migration-waves/",
+  "publisher": "Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, South Asian student club leaders",
+  "version": "1.0.0",
+  "chapter": "21-the-diaspora",
+  "learningObjectives": [
+    "Identify the major waves of South Asian migration and when each was active.",
+    "Explain the main cause of each wave, from plantation labor after the abolition of slavery to the Gulf oil boom and the US Immigration Act of 1965.",
+    "Recognize that some migrations, such as the 1972 move from Uganda to Britain, did not start in South Asia."
+  ],
+  "bloomLevel": [
+    "Understand"
+  ],
+  "concepts": [
+    "Diaspora",
+    "Indentured Labor",
+    "Indo-Caribbean Communities",
+    "South Asians in East Africa",
+    "Uganda Expulsion of 1972",
+    "British South Asians",
+    "Gulf Migrant Workers",
+    "Remittances",
+    "Punjabi Pioneers in California",
+    "Immigration Act of 1965"
+  ],
+  "prerequisites": [
+    "Knowing the eight countries of South Asia",
+    "A basic idea of the British Empire and Indian independence in 1947"
+  ],
+  "keyQuestions": [
+    "When did the first large waves of South Asian migration begin, and why?",
+    "Which waves were tied to the British Empire?",
+    "Why did South Asian migration to the United States grow so much after 1965?",
+    "Which waves were active in 1975?"
+  ],
+  "misconceptions": [
+    "South Asians only came to the United States after 1965.",
+    "Indenture was simply voluntary migration for better jobs.",
+    "The South Asian diaspora is all Indian.",
+    "Every migration started directly from South Asia."
+  ],
+  "controls": [
+    "Play / Pause button",
+    "Reset button",
+    "Year slider (1830 to 2020)",
+    "Wave menu",
+    "Click or tap a region tile"
+  ],
+  "dataSources": [
+    "Royal Historical Society, 29 January 1838: Indian Indentured Trade and the First Crossing: https://blog.royalhistsoc.org/2020/01/29/beyond-this-day-29-january-1838-indian-indentured-trade-and-the-first-crossing/",
+    "Runnymede Trust, Remembering the Ugandan Asian expulsion 50 years on: https://runnymedetrust.org/blog/remembering-the-ugandan-asian-expulsion-50-years-on",
+    "UK Government, Ethnicity facts and figures, Population of England and Wales (2021 Census): https://www.ethnicity-facts-figures.service.gov.uk/uk-population-by-ethnicity/national-and-regional-populations/population-of-england-and-wales/latest/",
+    "World Bank, Personal remittances, received (current US$), 2025: https://data.worldbank.org/indicator/BX.TRF.PWKR.CD.DT",
+    "Pew Research Center, Asian American fact sheets (2023 data): https://www.pewresearch.org/race-and-ethnicity/fact-sheet/asian-americans-indians-in-the-u-s/",
+    "US Customs and Border Protection, Immigration Act of 1965: https://www.cbp.gov/about/history/timeline/timeline-date/1965"
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10"
+}

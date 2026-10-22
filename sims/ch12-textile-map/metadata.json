@@ -1,0 +1,83 @@
+{
+  "title": "Textile Map",
+  "description": "A schematic tile map of the eight countries of South Asia with ten dots for famous textiles and garments: Jamdani, ajrak, the perahan tunban, Kashmir pashmina, Chyangra Pashmina, Bhutanese kira weaving, Banarasi silk, ikat, Kanjivaram silk and the Kandyan osariya. Learners see each one's place, fiber and technique with a garment drawing and a procedural pattern swatch, then test themselves in a quiz mode.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-22",
+  "subject": [
+    "South Asian cultures",
+    "Textiles",
+    "Clothing",
+    "Weaving and dyeing",
+    "Geography of craft"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/south-asian-culture-textbook/sims/ch12-textile-map/",
+  "publisher": "Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, South Asian student club leaders",
+  "version": "1.0.0",
+  "chapter": "12-clothing-and-textiles",
+  "learningObjectives": [
+    "Connect ten South Asian textiles and garments to the regions where they are made.",
+    "Identify the fiber (cotton, silk or wool) used in each textile.",
+    "Explain the difference between patterns woven in (Jamdani, brocade), dyed into the thread before weaving (ikat) and printed on (ajrak)."
+  ],
+  "bloomLevel": [
+    "Remember",
+    "Understand"
+  ],
+  "concepts": [
+    "Cotton in South Asia",
+    "Silk Weaving",
+    "Jamdani",
+    "Ikat",
+    "Pashmina",
+    "Saree",
+    "Shalwar Kameez",
+    "Gho and Kira"
+  ],
+  "prerequisites": [
+    "Knowing the eight countries of South Asia (Chapter 1)",
+    "Knowing that cloth is woven from warp and weft threads"
+  ],
+  "keyQuestions": [
+    "Where are Jamdani, ajrak, ikat and Kanjivaram made?",
+    "Why does pashmina come from high mountain regions?",
+    "How is a woven pattern different from a tie-dyed or block-printed one?"
+  ],
+  "misconceptions": [
+    "The saree is only Indian.",
+    "Every South Asian textile pattern is printed onto the cloth.",
+    "Pashmina is a brand name rather than a fiber from Himalayan goats.",
+    "A garment always tells you which country someone is from."
+  ],
+  "controls": [
+    "Textile menu",
+    "Previous and Next buttons",
+    "Quiz me / Stop quiz button",
+    "Show place names checkbox",
+    "Click or tap a dot"
+  ],
+  "dataSources": [
+    "UNESCO, Traditional art of Jamdani weaving (2013): https://ich.unesco.org/en/RL/traditional-art-of-jamdani-weaving-00879",
+    "Ministry of Statistics and Programme Implementation (India), Statistical Year Book, Sericulture chapter: https://www.mospi.gov.in/sites/default/files/Statistical_year_book_india_chapters/SERICULTURE-WRITEUP_0.pdf",
+    "Enhanced Integrated Framework, Wool Creatives Nepal (Chyangra Pashmina): https://enhancedif.org/en/impact-story/wool-creatives-nepal-making-all-right-connections-key",
+    "Royal Textile Academy of Bhutan: https://www.rtabhutan.org/"
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10"
+}

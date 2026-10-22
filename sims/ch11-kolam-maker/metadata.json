@@ -1,0 +1,76 @@
+{
+  "title": "Kolam Maker",
+  "description": "A dot-grid drawing pad for making kolam designs. Learners choose a 3 by 3 to 7 by 7 grid of dots (pulli), draw with a mouse or finger, and see each stroke copied with 4-fold rotational symmetry. A computed demo traces a pulli kolam whose line loops around every dot without touching it, using one continuous line on odd grids.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-22",
+  "subject": [
+    "South Asian cultures",
+    "Visual art and craft",
+    "Kolam and rangoli",
+    "Symmetry",
+    "Patterns and symmetry"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/south-asian-culture-textbook/sims/ch11-kolam-maker/",
+  "publisher": "Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, South Asian student club leaders",
+  "version": "1.0.0",
+  "chapter": "11-art-architecture-craft",
+  "learningObjectives": [
+    "Create a symmetric design on a grid of dots in the style of a pulli kolam.",
+    "Explain how the dot grid guides where lines go in a kolam.",
+    "Explain what 4-fold rotational symmetry is and identify it in a design."
+  ],
+  "bloomLevel": [
+    "Create",
+    "Understand"
+  ],
+  "concepts": [
+    "Kolam",
+    "Rangoli"
+  ],
+  "prerequisites": [
+    "Knowing what a grid is",
+    "Basic idea of turning a shape around a point"
+  ],
+  "keyQuestions": [
+    "What job do the dots do in a pulli kolam?",
+    "How can one continuous line loop around every dot without touching any?",
+    "What makes a design have 4-fold rotational symmetry?"
+  ],
+  "misconceptions": [
+    "Kolam and rangoli are exactly the same thing.",
+    "Kolam designs are drawn freehand without any plan.",
+    "Folk art like kolam is less skilled or less mathematical than fine art."
+  ],
+  "controls": [
+    "Grid size menu (3 x 3 to 7 x 7 dots)",
+    "Ink color menu",
+    "4-fold symmetry checkbox",
+    "Trace demo / Pause button",
+    "Clear button",
+    "Save button",
+    "Draw with mouse or finger on the ground"
+  ],
+  "dataSources": [
+    "Sahapedia, Significance of Kolam in Tamil Culture (rice flour, dot grid of pullis, lines looped around dots): https://www.sahapedia.org/significance-of-kolam-tamil-culture",
+    "G. Siromoney, R. Siromoney and K. Krithivasan, Array Grammars and Kolam, Computer Graphics and Image Processing 3 (1974): 63-82, https://doi.org/10.1016/0146-664x(74)90011-2"
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10"
+}

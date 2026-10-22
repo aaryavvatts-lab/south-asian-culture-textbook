@@ -1,0 +1,80 @@
+{
+  "title": "Script Family Tree",
+  "description": "A simplified family tree of South Asian scripts. Brahmi branches through the Gupta, Sharada, Nagari, Gaudi, Kadamba and Pallava scripts to Gurmukhi, Devanagari, Gujarati, Bengali-Assamese, Odia, Tibetan, Kannada, Telugu, Tamil, Malayalam and Sinhala. A second root, Aramaic, leads to Kharoshthi and, through Arabic, to the Perso-Arabic script and Thaana. Learners click a script to see how it writes ka, ki, ku and a bare k in real Unicode characters, and which languages use it.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-22",
+  "subject": [
+    "South Asian cultures",
+    "Languages",
+    "Writing systems",
+    "Brahmi script",
+    "Abugida"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/south-asian-culture-textbook/sims/ch06-script-family-tree/",
+  "publisher": "Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, South Asian student club leaders",
+  "version": "1.0.0",
+  "chapter": "06-languages-and-scripts",
+  "learningObjectives": [
+    "Explain that many South Asian scripts share Brahmi as a common ancestor.",
+    "Explain how an abugida writes a consonant with an inherent vowel that vowel marks can change or remove.",
+    "Distinguish scripts of the Brahmi family from the Perso-Arabic script and Thaana."
+  ],
+  "bloomLevel": [
+    "Understand"
+  ],
+  "concepts": [
+    "Brahmi Script",
+    "Abugida",
+    "Devanagari",
+    "Gurmukhi",
+    "Perso-Arabic Script",
+    "Bengali Language",
+    "Tamil Language",
+    "Hindi-Urdu (Hindustani)"
+  ],
+  "prerequisites": [
+    "Knowing that a script (a way of writing) and a language (a way of speaking) are different things",
+    "Knowing what consonants and vowels are"
+  ],
+  "keyQuestions": [
+    "Why do Bangla, Hindi, Punjabi and Tamil letters look so different if their scripts are related?",
+    "How does one base letter become ka, ki, ku or a bare k in an abugida?",
+    "Which South Asian scripts do not come from Brahmi?"
+  ],
+  "misconceptions": [
+    "A script and a language are the same thing.",
+    "Scripts that look different cannot be related.",
+    "Hindi and Urdu are unrelated because they use different scripts.",
+    "Dravidian languages such as Tamil and Telugu must use a script unrelated to Hindi's."
+  ],
+  "controls": [
+    "Script menu",
+    "Sound menu (ka, ki, ku, k with no vowel)",
+    "Show debated link checkbox",
+    "Click or tap any script on the tree"
+  ],
+  "dataSources": [
+    "Unicode Standard code charts (Brahmi, Devanagari, Bengali, Gurmukhi, Gujarati, Oriya, Tamil, Telugu, Kannada, Malayalam, Sinhala, Tibetan, Arabic, Thaana, Imperial Aramaic, Kharoshthi): https://www.unicode.org/charts/",
+    "Brahmi script and its descendants (overview with scholarly citations): https://en.wikipedia.org/wiki/Brahmi_script",
+    "Thaana origins (letters from Arabic and Dhivehi numerals): https://en.wikipedia.org/wiki/Thaana"
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10"
+}

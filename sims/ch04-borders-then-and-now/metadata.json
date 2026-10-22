@@ -1,0 +1,82 @@
+{
+  "title": "Borders Then and Now",
+  "description": "A schematic block diagram (not a map) that steps through 1857, 1858, 1947, 1948, 1971 and 1972 to show how East India Company territory and British India, the princely states and Ceylon became India, Pakistan, Bangladesh and Sri Lanka. An event panel gives dates and sourced ranges for Partition and the 1971 war.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-22",
+  "subject": [
+    "South Asian cultures",
+    "History",
+    "Colonialism",
+    "Partition of 1947",
+    "Bangladesh Liberation War"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/south-asian-culture-textbook/sims/ch04-borders-then-and-now/",
+  "publisher": "Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, South Asian student club leaders",
+  "version": "1.0.0",
+  "chapter": "04-colonialism-and-partition",
+  "learningObjectives": [
+    "Explain how British India became India and Pakistan in 1947 and how East Pakistan became Bangladesh in 1971.",
+    "Describe how the princely states, including Hyderabad and Jammu and Kashmir, joined or were disputed after 1947.",
+    "Contrast Ceylon's peaceful independence in 1948 with the violence of Partition and the 1971 war."
+  ],
+  "bloomLevel": [
+    "Understand"
+  ],
+  "concepts": [
+    "British Raj",
+    "Princely States",
+    "Partition of 1947",
+    "Radcliffe Line",
+    "Partition Migration",
+    "Kashmir Dispute",
+    "Sri Lankan Independence",
+    "Bangladesh Liberation War"
+  ],
+  "prerequisites": [
+    "Knowing the eight countries of South Asia (Chapter 1)",
+    "Knowing what the East India Company was (Chapter 3)"
+  ],
+  "keyQuestions": [
+    "How did one colonial territory become several countries?",
+    "Was Bangladesh created by Partition?",
+    "Why did some princely states join quickly while Kashmir became disputed?"
+  ],
+  "misconceptions": [
+    "Partition in 1947 created Bangladesh.",
+    "Britain ruled every part of South Asia directly.",
+    "Partition violence happened on only one side.",
+    "Pakistan was always one block of land."
+  ],
+  "controls": [
+    "Back and Next buttons",
+    "Play / Pause button",
+    "Year slider (1857 to 1972)",
+    "Show 1947 migration arrows checkbox",
+    "Tap the diagram to advance"
+  ],
+  "dataSources": [
+    "Stanford University Libraries, The 1947 Partition of South Asia (about 14 million refugees): https://guides.library.stanford.edu/c.php?g=1002801",
+    "Bharadwaj, Khwaja and Mian, The Big March, Economic and Political Weekly 2008 (14.5 million inflows, 17.9 million outflows): https://collaborate.princeton.edu/en/publications/the-big-march-migratory-flows-after-the-partition-of-india/",
+    "Adhikari, Islam and Jalal, PLOS ONE 2025 (about 9.9 million refugees in 1971; range of death toll estimates): https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320760",
+    "The National Archives (UK), Partition of British India (17 August 1947 announcement): https://www.nationalarchives.gov.uk/education/teaching-resources/partition-of-british-india/"
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10"
+}

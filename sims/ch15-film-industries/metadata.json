@@ -1,0 +1,78 @@
+{
+  "title": "Film Industries Map and Cricket Basics",
+  "description": "Two views. A schematic tile map of eleven language-based film industries in South Asia (Hindi, Telugu, Tamil, Kannada, Malayalam, Bengali in Kolkata, Bangla in Dhaka, Urdu and Punjabi in Pakistan, Nepali, Dzongkha and Sri Lankan cinema), each with its language, center and a landmark film with year; and an animated cricket over of 6 legal balls plus one wide, with runs adding up to 14 for 1 wicket.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-22",
+  "subject": [
+    "South Asian cultures",
+    "Film and media",
+    "Popular culture",
+    "Cricket",
+    "Sports"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/south-asian-culture-textbook/sims/ch15-film-industries/",
+  "publisher": "Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, South Asian student club leaders",
+  "version": "1.0.0",
+  "chapter": "15-cinema-cricket-pop-culture",
+  "learningObjectives": [
+    "Explain that Bollywood is the Hindi-language industry in Mumbai and only one of many language-based film industries in South Asia.",
+    "Identify film industries in at least five South Asian countries and the languages they use.",
+    "Describe the structure of a cricket over: 6 legal balls, runs from running and boundaries, and wides that add a run but do not count as a ball."
+  ],
+  "bloomLevel": [
+    "Understand"
+  ],
+  "concepts": [
+    "Bollywood",
+    "Regional Cinemas",
+    "Pakistani Cinema",
+    "Satyajit Ray",
+    "Cricket"
+  ],
+  "prerequisites": [
+    "Knowing that South Asia has many languages (Chapter 6)",
+    "Basic map reading"
+  ],
+  "keyQuestions": [
+    "Why is Bollywood not the same as all Indian or South Asian film?",
+    "Why do Kolkata and Dhaka both have Bengali-language film industries?",
+    "What is an over, and why does a wide not count as one of its six balls?"
+  ],
+  "misconceptions": [
+    "Bollywood means all Indian films.",
+    "Cricket is only an Indian sport.",
+    "Every delivery in an over counts as one of the six balls."
+  ],
+  "controls": [
+    "Film industries tab button",
+    "Cricket: one over tab button",
+    "Start / Pause button (cricket tab)",
+    "Reset button (cricket tab)",
+    "Click or tap a film tile"
+  ],
+  "dataSources": [
+    "MCC Laws of Cricket, Law 17 The Over and Law 22 Wide Ball: https://www.lords.org/mcc/the-laws/the-over",
+    "MCC Laws of Cricket, Law 6 The Pitch (22 yards / 20.12 m): https://www.lords.org/mcc/the-laws/the-pitch",
+    "Central Board of Film Certification, List of feature films certified in 2023: https://cbfcindia.gov.in/cbfcAdmin/assets/pdf/Films_certified_2023.pdf",
+    "Academy of Motion Picture Arts and Sciences, 95th Academy Awards: https://www.oscars.org/oscars/ceremonies/2023"
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10"
+}

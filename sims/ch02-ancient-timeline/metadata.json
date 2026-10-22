@@ -1,0 +1,86 @@
+{
+  "title": "Ancient Timeline",
+  "description": "A scrubbable timeline of South Asian history from about 7000 BCE (Mehrgarh) to about 550 CE (the end of the Gupta Empire), linked to a schematic map. As the year changes, eleven places across Pakistan, Afghanistan, India, Nepal, Bangladesh and Sri Lanka light up and an event card explains what was happening.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-22",
+  "subject": [
+    "South Asian cultures",
+    "Ancient history",
+    "South Asia",
+    "Indus Valley Civilization",
+    "Maurya and Gupta empires"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/south-asian-culture-textbook/sims/ch02-ancient-timeline/",
+  "publisher": "Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, South Asian student club leaders",
+  "version": "1.0.0",
+  "chapter": "02-ancient-roots",
+  "learningObjectives": [
+    "Put the major ancient periods of South Asia in order, from Mehrgarh to the Gupta Empire.",
+    "Connect each period to the places where it happened and to the present-day countries those places are in.",
+    "Recognize that some periods overlapped, such as the Kushan Empire in the north and the Sangam Age in the Tamil south."
+  ],
+  "bloomLevel": [
+    "Remember",
+    "Understand"
+  ],
+  "concepts": [
+    "Mehrgarh",
+    "Indus Valley Civilization",
+    "Harappa and Mohenjo-daro",
+    "Vedic Period",
+    "Mahajanapadas",
+    "Rise of Buddhism and Jainism",
+    "Maurya Empire",
+    "Ashoka",
+    "Edicts of Ashoka",
+    "Kushan Empire",
+    "Sangam Age",
+    "Gupta Empire",
+    "Nalanda"
+  ],
+  "prerequisites": [
+    "Reading BCE and CE dates (bigger BCE numbers are older)",
+    "The Indus and Ganga rivers and the Indo-Gangetic Plain from Chapter 1"
+  ],
+  "keyQuestions": [
+    "Which came first: the Indus cities, the Vedas or the Buddha?",
+    "Which ancient sites are in Pakistan, Nepal, Bangladesh and Sri Lanka rather than India?",
+    "Which powers existed at the same time around 100 CE?"
+  ],
+  "misconceptions": [
+    "South Asian history begins with the Vedas.",
+    "Ancient South Asian history happened only in present-day India.",
+    "One empire always ruled the whole region at a time."
+  ],
+  "controls": [
+    "Year slider (about 7000 BCE to 550 CE)",
+    "Play / Pause button",
+    "Jump to an era menu",
+    "Click or tap a dot on the map"
+  ],
+  "dataSources": [
+    "Encyclopaedia Britannica, Indus civilization: https://www.britannica.com/topic/Indus-civilization",
+    "Encyclopaedia Britannica, Mauryan empire: https://www.britannica.com/place/Mauryan-Empire",
+    "Encyclopaedia Britannica, Gupta dynasty: https://www.britannica.com/topic/Gupta-dynasty",
+    "UNESCO World Heritage Centre listings for Moenjodaro, Taxila, Lumbini, Anuradhapura and Nalanda: https://whc.unesco.org/en/list/"
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10"
+}

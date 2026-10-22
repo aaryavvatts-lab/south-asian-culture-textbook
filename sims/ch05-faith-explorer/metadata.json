@@ -1,0 +1,90 @@
+{
+  "title": "Faith Explorer",
+  "description": "Eight equal-sized, alphabetically ordered tiles for faith traditions of South Asia (Buddhism, Christianity, Hinduism, Islam, Jainism, Sikhism, Jewish communities and Zoroastrians (Parsis)). Learners choose a faith and one of five lenses (Origins, Sacred texts, Place of worship, A major festival, A core idea) to read a short card in followers' own terms, and use Compare mode to see two faiths side by side through the same lens, without ranking.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-22",
+  "subject": [
+    "South Asian cultures",
+    "World religions",
+    "South Asia",
+    "Religious pluralism",
+    "Comparative study of religion"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/south-asian-culture-textbook/sims/ch05-faith-explorer/",
+  "publisher": "Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, South Asian student club leaders",
+  "version": "1.0.0",
+  "chapter": "05-faiths-of-south-asia",
+  "learningObjectives": [
+    "Compare South Asian faith traditions on the same five dimensions: origins, sacred texts, place of worship, a major festival and a core idea.",
+    "Describe each faith in the terms its followers use, without ranking.",
+    "Identify similarities and differences between two faiths through a single lens."
+  ],
+  "bloomLevel": [
+    "Analyze"
+  ],
+  "concepts": [
+    "Hinduism",
+    "Dharma",
+    "Karma and Rebirth",
+    "Puja",
+    "Buddhism",
+    "Theravada and Vajrayana",
+    "Jainism",
+    "Ahimsa",
+    "Islam in South Asia",
+    "Sikhism",
+    "Guru Granth Sahib",
+    "Langar",
+    "Christianity in South Asia",
+    "Zoroastrians (Parsis)",
+    "Jewish Communities",
+    "Religious Pluralism"
+  ],
+  "prerequisites": [
+    "Chapter 3: Empires and Encounters (early Islam in South Asia, the Bhakti movement, Sufism and Guru Nanak)",
+    "Willingness to describe beliefs neutrally, in followers' own terms"
+  ],
+  "keyQuestions": [
+    "Where did each faith begin, and what texts does it treasure?",
+    "How are two faiths alike and different when viewed through the same lens?",
+    "Why does fair comparison mean describing, not ranking?"
+  ],
+  "misconceptions": [
+    "Hinduism has one holy book.",
+    "Sikhism is a mix of Hinduism and Islam.",
+    "All Buddhists are the same.",
+    "Religion and country map one-to-one."
+  ],
+  "controls": [
+    "Faith 1 menu",
+    "Faith 2 menu",
+    "Lens menu (Origins, Sacred texts, Place of worship, A major festival, A core idea)",
+    "Compare checkbox",
+    "Click or tap a faith tile"
+  ],
+  "dataSources": [
+    "The Pluralism Project, Harvard University (Hinduism, Sikhism): https://pluralism.org/",
+    "UNESCO World Heritage Centre (Lumbini, Mahabodhi Temple, Churches and Convents of Goa): https://whc.unesco.org/en/list/",
+    "Pew Research Center, Religion in India: Tolerance and Segregation (2021): https://www.pewresearch.org/religion/2021/06/29/religion-in-india-tolerance-and-segregation/",
+    "Card facts checked against the sources listed in the Chapter 5 fact log (Guru Granth Sahib, Khalsa, Jainism, Mahavira, Paradesi Synagogue, Parsis, Iranshah Atash Behram and others)"
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10"
+}

@@ -1,0 +1,87 @@
+{
+  "title": "Thali Builder",
+  "description": "A round thali plate with a staple grain in the center and six katori (bowls) for dal, vegetable, main dish, side, sweet and spices. Learners switch among seven regions (Punjab, Bengal, Kerala, Gujarat, Sindh, Sri Lanka, Nepal), click each bowl to read about the dish, and read how grain, climate, geography, faith and trade shape each region's food. A checkbox swaps the main dish between common vegetarian and non-vegetarian examples.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-22",
+  "subject": [
+    "South Asian cultures",
+    "Food and foodways",
+    "Regional cuisines",
+    "Geography of food"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/south-asian-culture-textbook/sims/ch08-thali-builder/",
+  "publisher": "Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, South Asian student club leaders",
+  "version": "1.0.0",
+  "chapter": "08-food-and-the-table",
+  "learningObjectives": [
+    "Compare the everyday thalis of seven South Asian regions slot by slot.",
+    "Explain how staple grains, rainfall, coasts and mountains shape regional cuisines.",
+    "Identify ingredients that reached South Asia through the Columbian Exchange.",
+    "Explain how faith and food rules affect whether a regional plate is usually vegetarian."
+  ],
+  "bloomLevel": [
+    "Analyze",
+    "Understand"
+  ],
+  "concepts": [
+    "Staple Grains",
+    "Regional Cuisines",
+    "Thali",
+    "Dal",
+    "Masala",
+    "Tadka",
+    "Roti and Naan",
+    "Biryani",
+    "Columbian Exchange",
+    "Mithai",
+    "Vegetarianism in South Asia",
+    "Halal"
+  ],
+  "prerequisites": [
+    "Knowing where the rivers, deltas, coasts and mountains of South Asia are (Chapter 1)",
+    "Knowing that different faiths in South Asia have different food rules (Chapter 5)"
+  ],
+  "keyQuestions": [
+    "Why is rice the staple in Bengal, Kerala and Sri Lanka, while bread is the staple in Punjab?",
+    "Which regions in the sim cross modern national borders?",
+    "Which ingredients on these plates came from the Americas?",
+    "Why is a Gujarati thali usually vegetarian, while a Bengali thali often includes fish?"
+  ],
+  "misconceptions": [
+    "Curry is one dish eaten everywhere in South Asia.",
+    "All South Asian food is very spicy.",
+    "Most South Asians are vegetarian.",
+    "Chili peppers are native to South Asia.",
+    "Naan is the everyday bread of every South Asian family."
+  ],
+  "controls": [
+    "Region menu",
+    "Previous and Next region buttons",
+    "Non-vegetarian version checkbox",
+    "Click or tap the center or any katori on the plate"
+  ],
+  "dataSources": [
+    "Pew Research Center, Eight-in-ten Indians limit meat in their diets, and four-in-ten consider themselves vegetarian (2021): https://www.pewresearch.org/short-reads/2021/07/08/eight-in-ten-indians-limit-meat-in-their-diets-and-four-in-ten-consider-themselves-vegetarian/",
+    "FAO, International Year of Millets 2023: https://www.fao.org/millets-2023/en",
+    "Dish descriptions checked against regional cuisine articles listed in logs/08-factcheck.md"
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10"
+}

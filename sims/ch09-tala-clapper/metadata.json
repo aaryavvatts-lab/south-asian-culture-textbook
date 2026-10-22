@@ -1,0 +1,76 @@
+{
+  "title": "Tala Clapper",
+  "description": "A circle of beat dots shows one cycle of a South Asian tala: Teentaal (16 beats), Rupak (7), Dadra (6) or the Carnatic Adi tala (8). Learners press Start to light each beat in turn, follow the clap, wave and finger-count gestures, adjust the tempo, and find sam, the first beat. Short synthesized WebAudio clicks, with a distinct low tone on sam, play only after the user presses Start.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-22",
+  "subject": [
+    "South Asian cultures",
+    "Music",
+    "Rhythm",
+    "Hindustani and Carnatic music"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/south-asian-culture-textbook/sims/ch09-tala-clapper/",
+  "publisher": "Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, South Asian student club leaders",
+  "version": "1.0.0",
+  "chapter": "09-music",
+  "learningObjectives": [
+    "Count through a full cycle of Teentaal, Rupak, Dadra and Adi tala.",
+    "Perform the clap, wave and finger-count gestures on the correct beats.",
+    "Identify sam, the first beat of the cycle, and khali, the wave, by sight and sound.",
+    "Compare how Hindustani and Carnatic musicians keep a tala with their hands."
+  ],
+  "bloomLevel": [
+    "Apply"
+  ],
+  "concepts": [
+    "Tala",
+    "Hindustani Music",
+    "Carnatic Music",
+    "Tabla"
+  ],
+  "prerequisites": [
+    "Counting a steady beat",
+    "Knowing that South Asia has northern (Hindustani) and southern (Carnatic) classical music traditions"
+  ],
+  "keyQuestions": [
+    "Where is sam in each tala, and how can you tell when it is coming?",
+    "Why does Rupak begin with a wave instead of a clap?",
+    "How does keeping Adi tala with finger counts differ from clapping Teentaal?"
+  ],
+  "misconceptions": [
+    "Indian classical music is improvised with no rules.",
+    "The first beat of a cycle is always the loudest.",
+    "Every tala has four beats per bar like most pop songs."
+  ],
+  "controls": [
+    "Tala menu",
+    "Start / Pause button",
+    "Tempo slider (40-160 beats per minute)",
+    "Sound on checkbox",
+    "Click or tap a beat dot"
+  ],
+  "dataSources": [
+    "Teentaal structure: https://en.wikipedia.org/wiki/Teental",
+    "Rupak and Dadra structures: https://digitabla.com/reference/tals-and-thekas/rupak-tal/ and https://digitabla.com/reference/tals-and-thekas/dadra-tal/",
+    "Adi tala hand gestures: https://karnatik.com/ctaala.shtml"
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10"
+}

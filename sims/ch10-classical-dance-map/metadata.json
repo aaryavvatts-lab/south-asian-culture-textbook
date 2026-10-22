@@ -1,0 +1,88 @@
+{
+  "title": "Classical Dance Map",
+  "description": "A schematic tile map of the eight classical dances recognized by India's Sangeet Natak Akademi in roughly their home regions, with an optional Chhau tile from the Ministry of Culture list and a Beyond India row (Kandyan dance, Attan, Bhangra and Luddi, Manipuri in Bangladesh). A second view draws six single-hand mudras (Pataka, Tripataka, Ardhapataka, Kartarimukha, Mayura, Alapadma) with meanings from the Abhinaya Darpana.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-22",
+  "subject": [
+    "South Asian cultures",
+    "Dance",
+    "Indian classical dance",
+    "Folk dance",
+    "Mudra"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/south-asian-culture-textbook/sims/ch10-classical-dance-map/",
+  "publisher": "Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, South Asian student club leaders",
+  "version": "1.0.0",
+  "chapter": "10-dance-and-theater",
+  "learningObjectives": [
+    "Distinguish the eight classical dances recognized by the Sangeet Natak Akademi by home region, movement features and costume.",
+    "Explain why lists of classical dances differ (the Akademi's eight versus the Ministry of Culture's inclusion of Chhau).",
+    "Name dance traditions from Sri Lanka, Afghanistan, Pakistan and Bangladesh.",
+    "Identify six single-hand mudras and some of their meanings."
+  ],
+  "bloomLevel": [
+    "Remember",
+    "Understand"
+  ],
+  "concepts": [
+    "Classical Dance",
+    "Bharatanatyam",
+    "Kathak",
+    "Odissi",
+    "Kathakali",
+    "Kuchipudi",
+    "Manipuri Dance",
+    "Mohiniyattam",
+    "Sattriya",
+    "Mudra",
+    "Kandyan Dance",
+    "Attan",
+    "Folk Dance"
+  ],
+  "prerequisites": [
+    "Basic map reading (north and south)",
+    "Knowing that South Asia includes eight countries (Chapter 1)"
+  ],
+  "keyQuestions": [
+    "How can you tell one classical dance from another?",
+    "Who decides which dances count as classical, and why do lists differ?",
+    "How can a single hand gesture carry many meanings?"
+  ],
+  "misconceptions": [
+    "All Indian dance is Bollywood dance.",
+    "There is one official list of classical dances.",
+    "Bharatanatyam and Kuchipudi are the same dance.",
+    "Folk dances are less skilled than classical dances."
+  ],
+  "controls": [
+    "Dance map button",
+    "Hand gestures button",
+    "Dance or mudra menu",
+    "Show Chhau (Ministry of Culture list) checkbox",
+    "Click or tap a tile or hand"
+  ],
+  "dataSources": [
+    "Sangeet Natak Akademi (founded 1953): https://www.sangeetnatak.gov.in/about-us",
+    "UNESCO Intangible Cultural Heritage, Chhau dance (2010): https://ich.unesco.org/en/RL/chhau-dance-00337",
+    "Coomaraswamy and Duggirala, The Mirror of Gesture (Abhinaya Darpana), 1917: https://archive.org/details/mirrorofgesture00unse"
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10"
+}

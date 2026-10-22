@@ -1,0 +1,81 @@
+{
+  "title": "Delta and Island: Bangladesh and Sri Lanka",
+  "description": "Two schematic panels. A Bengal Delta where the Padma, Jamuna and Meghna rivers meet, with a monsoon slider that floods the lowest land first (illustrative; presets match the documented average of about 21% and the more than two-thirds flooded in 1998). Beside it, a stylized island of Sri Lanka with central highlands and tappable cards for Jaffna, Anuradhapura, Kandy, Sri Pada, Colombo and Galle.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-22",
+  "subject": [
+    "South Asian cultures",
+    "Geography",
+    "Bangladesh",
+    "Sri Lanka",
+    "Rivers and floods"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/south-asian-culture-textbook/sims/ch19-bangladesh-srilanka-compare/",
+  "publisher": "Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, South Asian student club leaders",
+  "version": "1.0.0",
+  "chapter": "19-bangladesh-and-sri-lanka",
+  "learningObjectives": [
+    "Explain how the Bengal Delta's rivers and monsoon floods shape life in Bangladesh.",
+    "Describe how Sri Lanka's central highlands, coasts and ancient capitals are arranged on the island.",
+    "Compare how water and land shape the two countries."
+  ],
+  "bloomLevel": [
+    "Understand"
+  ],
+  "concepts": [
+    "Bengal Delta",
+    "Rivers and Floods",
+    "Dhaka",
+    "Sundarbans",
+    "Sri Lanka",
+    "Colombo",
+    "Anuradhapura",
+    "Sri Pada (Adam's Peak)"
+  ],
+  "prerequisites": [
+    "Knowing the eight countries of South Asia and the monsoon (Chapter 1)",
+    "Knowing that Bangladesh became independent in 1971 (Chapter 4)"
+  ],
+  "keyQuestions": [
+    "Why does so much of Bangladesh flood each year?",
+    "How can floods be both harmful and helpful?",
+    "Where are Sri Lanka's highlands, ports and ancient capitals?"
+  ],
+  "misconceptions": [
+    "Bangladesh is mostly desert or dry.",
+    "Sri Lanka is part of India.",
+    "All flooding is a disaster with no benefit."
+  ],
+  "controls": [
+    "Monsoon river level slider",
+    "Average year button",
+    "Extreme year (1998) button",
+    "Dry season button",
+    "Click or tap a dot"
+  ],
+  "dataSources": [
+    "World Bank, Population, total (SP.POP.TOTL), 2025: https://data.worldbank.org/indicator/SP.POP.TOTL",
+    "Floods in Bangladesh (average 21% flooded; over two-thirds in 1998; about 80% of streamflow from outside the country): https://en.wikipedia.org/wiki/Floods_in_Bangladesh",
+    "UNESCO World Heritage List, The Sundarbans: https://whc.unesco.org/en/list/798",
+    "UNESCO World Heritage List, Sacred City of Anuradhapura: https://whc.unesco.org/en/list/200"
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10"
+}

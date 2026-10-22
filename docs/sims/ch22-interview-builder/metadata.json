@@ -1,0 +1,80 @@
+{
+  "title": "Interview Builder",
+  "description": "Learners choose a chapter theme, a narrator and an interview length, and the sim assembles an ethical oral history interview plan: a consent script adjusted for the narrator, 6 to 10 questions from a plain-text bank written from each chapter's Ask Your Elders topics, follow-up prompts for active listening, and a note-taking grid. A Print plan button prints a clean version of the plan.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-22",
+  "subject": [
+    "South Asian cultures",
+    "Oral history",
+    "Informed consent",
+    "Active listening",
+    "Cultural preservation"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/south-asian-culture-textbook/sims/ch22-interview-builder/",
+  "publisher": "Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, South Asian student club leaders",
+  "version": "1.0.0",
+  "chapter": "22-bring-it-home",
+  "learningObjectives": [
+    "Design an oral history interview plan for a chosen theme, narrator and length.",
+    "Write and explain a consent script that tells the narrator their rights.",
+    "Use open questions and follow-up prompts to practice active listening.",
+    "Plan how interview notes will be recorded, stored and shared only with permission."
+  ],
+  "bloomLevel": [
+    "Create"
+  ],
+  "concepts": [
+    "Oral History",
+    "Informed Consent",
+    "Active Listening",
+    "Cultural Preservation",
+    "Intergenerational Dialogue"
+  ],
+  "prerequisites": [
+    "At least one Ask Your Elders section from an earlier chapter",
+    "Knowing what informed consent means"
+  ],
+  "keyQuestions": [
+    "What does a narrator need to know before agreeing to an interview?",
+    "How do the questions change when an interview is shorter or longer?",
+    "Why does a plan start with warm-up questions and end with a closing question?",
+    "What should happen to a story the narrator does not want shared?"
+  ],
+  "misconceptions": [
+    "Once someone agrees to an interview, you can share anything they say.",
+    "A good interviewer sticks only to the written questions.",
+    "You must speak the narrator's language fluently to interview them.",
+    "One person's story speaks for a whole community."
+  ],
+  "controls": [
+    "Theme menu",
+    "Narrator menu",
+    "Length menu (10, 20 or 30 minutes)",
+    "New questions button",
+    "Print plan button",
+    "Click or tap the Consent, Questions and Notes tabs"
+  ],
+  "dataSources": [
+    "Oral History Association, Principles and Best Practices (2018) and Statement on Ethics: https://oralhistory.org/oha-statement-on-ethics/",
+    "Roots & Rivers Ask Your Elders topics for Chapters 1-21 (Materials/chapter-plan.md) and the Oral History Project page"
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10"
+}

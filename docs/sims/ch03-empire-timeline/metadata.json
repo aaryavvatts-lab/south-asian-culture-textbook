@@ -1,0 +1,79 @@
+{
+  "title": "Empire Swim Lanes",
+  "description": "A swim-lane timeline of South Asia from 600 to 1800 CE with ten lanes: the Cholas, Sri Lankan kingdoms, the Delhi Sultanate, the Bengal Sultanate, the Vijayanagara Empire, the Deccan sultanates, the Mughal Empire, the Maratha Empire, the Durrani Empire and European trading companies. A moving year line shows which powers existed at the same time, and each bar opens a card with dates, capital and one key fact.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-22",
+  "subject": [
+    "South Asian cultures",
+    "World history",
+    "South Asia",
+    "Empires and kingdoms",
+    "Timelines"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/south-asian-culture-textbook/sims/ch03-empire-timeline/",
+  "publisher": "Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, South Asian student club leaders",
+  "version": "1.0.0",
+  "chapter": "03-empires-and-encounters",
+  "learningObjectives": [
+    "Compare the approximate dates of major South Asian powers between 600 and 1800 CE.",
+    "Identify powers that existed at the same time in a chosen year.",
+    "Explain why history in this period is better pictured as overlapping lanes than as one empire replacing another."
+  ],
+  "bloomLevel": [
+    "Analyze"
+  ],
+  "concepts": [
+    "Chola Dynasty",
+    "Sri Lankan Kingdoms",
+    "Delhi Sultanate",
+    "Vijayanagara Empire",
+    "Mughal Empire",
+    "Maratha Empire",
+    "Durrani Empire",
+    "European Traders",
+    "East India Company"
+  ],
+  "prerequisites": [
+    "Reading a timeline with years in CE",
+    "Chapter 2: Ancient Roots (the Maurya and Gupta empires)"
+  ],
+  "keyQuestions": [
+    "Which powers existed in South Asia in the year 1600?",
+    "Did each empire replace the one before it, or did they overlap?",
+    "When did European trading companies appear, and who else ruled at that time?"
+  ],
+  "misconceptions": [
+    "Each empire neatly replaced the one before it.",
+    "The Mughals ruled all of South Asia.",
+    "The East India Company was the British government."
+  ],
+  "controls": [
+    "Play / Pause button",
+    "Year slider (600 to 1800)",
+    "Click or tap a bar for its details"
+  ],
+  "dataSources": [
+    "UNESCO World Heritage Centre listings for the Great Living Chola Temples, Hampi, the Taj Mahal and Bagerhat: https://whc.unesco.org/en/list/",
+    "Encyclopaedia Britannica, Mughal dynasty: https://www.britannica.com/topic/Mughal-dynasty",
+    "Dynasty dates checked against Wikipedia articles listed in the Chapter 3 fact log (Chola dynasty, Kingdom of Kandy, Jaffna kingdom, Delhi Sultanate, Bengal Sultanate, Vijayanagara Empire, Bahmani Sultanate, Golconda Sultanate, Maratha Empire, Durrani Empire, East India Company, Dutch East India Company, Portuguese India)"
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10"
+}

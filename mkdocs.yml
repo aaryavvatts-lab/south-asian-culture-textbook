@@ -1,0 +1,279 @@
+# Roots & Rivers: MkDocs Material configuration
+# Scaffolded with the textbookmaker skill (based on Dan McCreary's init-textbook, ibook-skills).
+
+site_name: 'Roots & Rivers'
+site_description: 'A free, interactive textbook on South Asian cultures, traditions, languages and countries, for high school students.'
+site_author: 'Aaryav Sharma'
+site_url: 'https://aaryavvatts-lab.github.io/south-asian-culture-textbook/'
+
+hooks:
+  - plugins/social_override.py
+
+repo_name: 'GitHub Repo'
+repo_url: 'https://github.com/aaryavvatts-lab/south-asian-culture-textbook'
+edit_uri: 'blob/main/docs'
+
+copyright: 'Copyright &copy; 2026 Aaryav Sharma. Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> for non-commercial use. Made for the EVHS South Asian Student Association and anyone who wants to learn.'
+
+nav:
+  - Home: index.md
+  - About This Book: about.md
+  - How to Use This Book: how-to-use.md
+  - For Teachers: teachers.md
+  - Club Kit: club-kit.md
+  - Oral History Project: oral-history.md
+  - Impact: impact.md
+  - Downloads (PDF): downloads.md
+  - Course Description: course-description.md
+  - Chapters:
+      - List of Chapters: chapters/index.md
+      - "1. What Is South Asia?":
+          - Content: chapters/01-what-is-south-asia/index.md
+          - Quiz: chapters/01-what-is-south-asia/quiz.md
+          - References: chapters/01-what-is-south-asia/references.md
+      - "2. Ancient Roots":
+          - Content: chapters/02-ancient-roots/index.md
+          - Quiz: chapters/02-ancient-roots/quiz.md
+          - References: chapters/02-ancient-roots/references.md
+      - "3. Empires and Encounters":
+          - Content: chapters/03-empires-and-encounters/index.md
+          - Quiz: chapters/03-empires-and-encounters/quiz.md
+          - References: chapters/03-empires-and-encounters/references.md
+      - "4. Colonialism, Independence, and Partition":
+          - Content: chapters/04-colonialism-and-partition/index.md
+          - Quiz: chapters/04-colonialism-and-partition/quiz.md
+          - References: chapters/04-colonialism-and-partition/references.md
+      - "5. Faiths of South Asia":
+          - Content: chapters/05-faiths-of-south-asia/index.md
+          - Quiz: chapters/05-faiths-of-south-asia/quiz.md
+          - References: chapters/05-faiths-of-south-asia/references.md
+      - "6. Languages and Scripts":
+          - Content: chapters/06-languages-and-scripts/index.md
+          - Quiz: chapters/06-languages-and-scripts/quiz.md
+          - References: chapters/06-languages-and-scripts/references.md
+      - "7. Festivals Through the Year":
+          - Content: chapters/07-festivals/index.md
+          - Quiz: chapters/07-festivals/quiz.md
+          - References: chapters/07-festivals/references.md
+      - "8. Food and the Table":
+          - Content: chapters/08-food-and-the-table/index.md
+          - Quiz: chapters/08-food-and-the-table/quiz.md
+          - References: chapters/08-food-and-the-table/references.md
+      - "9. Music":
+          - Content: chapters/09-music/index.md
+          - Quiz: chapters/09-music/quiz.md
+          - References: chapters/09-music/references.md
+      - "10. Dance and Theater":
+          - Content: chapters/10-dance-and-theater/index.md
+          - Quiz: chapters/10-dance-and-theater/quiz.md
+          - References: chapters/10-dance-and-theater/references.md
+      - "11. Art, Architecture, and Craft":
+          - Content: chapters/11-art-architecture-craft/index.md
+          - Quiz: chapters/11-art-architecture-craft/quiz.md
+          - References: chapters/11-art-architecture-craft/references.md
+      - "12. Clothing and Textiles":
+          - Content: chapters/12-clothing-and-textiles/index.md
+          - Quiz: chapters/12-clothing-and-textiles/quiz.md
+          - References: chapters/12-clothing-and-textiles/references.md
+      - "13. Family, Names, and Life Events":
+          - Content: chapters/13-family-names-life-events/index.md
+          - Quiz: chapters/13-family-names-life-events/quiz.md
+          - References: chapters/13-family-names-life-events/references.md
+      - "14. Stories and Literature":
+          - Content: chapters/14-stories-and-literature/index.md
+          - Quiz: chapters/14-stories-and-literature/quiz.md
+          - References: chapters/14-stories-and-literature/references.md
+      - "15. Cinema, Cricket, and Pop Culture":
+          - Content: chapters/15-cinema-cricket-pop-culture/index.md
+          - Quiz: chapters/15-cinema-cricket-pop-culture/quiz.md
+          - References: chapters/15-cinema-cricket-pop-culture/references.md
+      - "16. Science, Math, and Ideas":
+          - Content: chapters/16-science-math-ideas/index.md
+          - Quiz: chapters/16-science-math-ideas/quiz.md
+          - References: chapters/16-science-math-ideas/references.md
+      - "17. India":
+          - Content: chapters/17-india/index.md
+          - Quiz: chapters/17-india/quiz.md
+          - References: chapters/17-india/references.md
+      - "18. Pakistan and Afghanistan":
+          - Content: chapters/18-pakistan-and-afghanistan/index.md
+          - Quiz: chapters/18-pakistan-and-afghanistan/quiz.md
+          - References: chapters/18-pakistan-and-afghanistan/references.md
+      - "19. Bangladesh and Sri Lanka":
+          - Content: chapters/19-bangladesh-and-sri-lanka/index.md
+          - Quiz: chapters/19-bangladesh-and-sri-lanka/quiz.md
+          - References: chapters/19-bangladesh-and-sri-lanka/references.md
+      - "20. Nepal, Bhutan, and the Maldives":
+          - Content: chapters/20-nepal-bhutan-maldives/index.md
+          - Quiz: chapters/20-nepal-bhutan-maldives/quiz.md
+          - References: chapters/20-nepal-bhutan-maldives/references.md
+      - "21. The South Asian Diaspora":
+          - Content: chapters/21-the-diaspora/index.md
+          - Quiz: chapters/21-the-diaspora/quiz.md
+          - References: chapters/21-the-diaspora/references.md
+      - "22. Bring It Home":
+          - Content: chapters/22-bring-it-home/index.md
+          - Quiz: chapters/22-bring-it-home/quiz.md
+          - References: chapters/22-bring-it-home/references.md
+  - Appendices:
+      - "A. Pronunciation and Script Guide": appendices/pronunciation-guide.md
+      - "B. Country Fact Sheets": appendices/country-fact-sheets.md
+      - "C. Festival Calendar 2026-27": appendices/festival-calendar.md
+  - MicroSims:
+      - List of MicroSims: sims/index.md
+      - "1. ch01-region-explorer": sims/ch01-region-explorer/index.md
+      - "2. ch02-ancient-timeline": sims/ch02-ancient-timeline/index.md
+      - "3. ch03-empire-timeline": sims/ch03-empire-timeline/index.md
+      - "4. ch04-borders-then-and-now": sims/ch04-borders-then-and-now/index.md
+      - "5. ch05-faith-explorer": sims/ch05-faith-explorer/index.md
+      - "6. ch06-script-family-tree": sims/ch06-script-family-tree/index.md
+      - "7. ch07-festival-wheel": sims/ch07-festival-wheel/index.md
+      - "8. ch08-thali-builder": sims/ch08-thali-builder/index.md
+      - "9. ch09-tala-clapper": sims/ch09-tala-clapper/index.md
+      - "10. ch10-classical-dance-map": sims/ch10-classical-dance-map/index.md
+      - "11. ch11-kolam-maker": sims/ch11-kolam-maker/index.md
+      - "12. ch12-textile-map": sims/ch12-textile-map/index.md
+      - "13. ch13-kinship-explorer": sims/ch13-kinship-explorer/index.md
+      - "14. ch14-story-web": sims/ch14-story-web/index.md
+      - "15. ch15-film-industries": sims/ch15-film-industries/index.md
+      - "16. ch16-zero-place-value": sims/ch16-zero-place-value/index.md
+      - "17. ch17-india-explorer": sims/ch17-india-explorer/index.md
+      - "18. ch18-pakistan-afghanistan-compare": sims/ch18-pakistan-afghanistan-compare/index.md
+      - "19. ch19-bangladesh-srilanka-compare": sims/ch19-bangladesh-srilanka-compare/index.md
+      - "20. ch20-mountains-to-atolls": sims/ch20-mountains-to-atolls/index.md
+      - "21. ch21-migration-waves": sims/ch21-migration-waves/index.md
+      - "22. ch22-interview-builder": sims/ch22-interview-builder/index.md
+      - Learning Graph Viewer: sims/graph-viewer/index.md
+  - Learning Graph:
+      - Introduction: learning-graph/index.md
+      - Concept List: learning-graph/concept-list.md
+      - Quality Metrics: learning-graph/quality-metrics.md
+      - Taxonomy Distribution: learning-graph/taxonomy-distribution.md
+      - Book Metrics: learning-graph/book-metrics.md
+      - Chapter Metrics: learning-graph/chapter-metrics.md
+  - Glossary: glossary.md
+  - FAQ: faq.md
+  - Accuracy and Corrections: accuracy.md
+  - Roadmap: roadmap.md
+  - How to Cite: how-to-cite.md
+  - License: license.md
+  - Contact: contact.md
+
+theme:
+  name: material
+  logo: img/mascot/neutral.png
+  favicon: img/favicon.png
+  custom_dir: overrides
+  font:
+    text: Poppins
+    code: Roboto Mono
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - content.code.copy
+    - content.action.edit
+    - navigation.expand
+    - navigation.path
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+
+plugins:
+  - search
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - mascot-admonition-img
+        - rr-hero-img
+
+markdown_extensions:
+  - abbr
+  - md_in_html
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.mark
+  - pymdownx.caret
+  - pymdownx.tilde
+  - pymdownx.keys
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  # Currency-safe math: inline is \(...\) only, never single $ (so "$450" stays text).
+  - pymdownx.arithmatex:
+      generic: true
+      inline_syntax: ['round']
+      block_syntax: ['dollar', 'square']
+
+extra_css:
+  - css/extra.css
+  - css/mascot.css
+  - css/theme.css
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js
+
+exclude_docs: |
+  **/sim-spec.md
+  **/image-prompt*.md
+  **/TODO.md
+
+watch:
+  - docs
+  - mkdocs.yml
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/aaryavvatts-lab/south-asian-culture-textbook
+  schema: https://dmccreary.github.io/intelligent-textbooks/ns/textbook/v1
+  textbook_name: 'Roots & Rivers'
+  textbook_version: '1.0'
+  development_stage: 'Complete (v1.0)'
+  # The author adds Google Analytics later (needs their own GA4 ID):
+  # analytics:
+  #   provider: google
+  #   property: G-XXXXXXXXXX

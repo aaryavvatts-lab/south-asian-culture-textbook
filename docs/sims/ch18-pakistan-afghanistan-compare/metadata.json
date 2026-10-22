@@ -1,0 +1,85 @@
+{
+  "title": "Country Compare: Pakistan and Afghanistan",
+  "description": "A schematic map of labeled dots (no borders) with a comparison card for Pakistan and Afghanistan: capital, 2025 population (World Bank), languages, main faith, a UNESCO World Heritage site, foods and festivals. The card can switch to two cultural regions that cross the border, the Punjab region and the Pashtun belt, and an animation follows the old road from Kabul through the Khyber Pass to Lahore.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-22",
+  "subject": [
+    "South Asian cultures",
+    "Geography",
+    "Pakistan",
+    "Afghanistan",
+    "Cultural regions"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/south-asian-culture-textbook/sims/ch18-pakistan-afghanistan-compare/",
+  "publisher": "Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, South Asian student club leaders",
+  "version": "1.0.0",
+  "chapter": "18-pakistan-and-afghanistan",
+  "learningObjectives": [
+    "Compare Pakistan and Afghanistan using the same features: capital, population, languages, faith, heritage, food and festivals.",
+    "Analyze how the Punjab region and the Pashtun belt connect places that today's border separates.",
+    "Explain why the Khyber Pass mattered for trade, travel and empire between Kabul and Lahore."
+  ],
+  "bloomLevel": [
+    "Analyze"
+  ],
+  "concepts": [
+    "Islamic Republic of Pakistan",
+    "Islamabad",
+    "Provinces of Pakistan",
+    "Punjab Region",
+    "Lahore",
+    "Urdu as National Language",
+    "Afghanistan",
+    "Kabul",
+    "Dari and Pashto",
+    "Pashtunwali",
+    "Khyber Pass",
+    "Buddhas of Bamiyan"
+  ],
+  "prerequisites": [
+    "Knowing the eight countries of South Asia (Chapter 1)",
+    "Knowing that the Partition of 1947 created Pakistan (Chapter 4)"
+  ],
+  "keyQuestions": [
+    "How are Pakistan and Afghanistan alike, and how are they different?",
+    "Which cultural regions cross the border between them?",
+    "Why did the Khyber Pass matter for so many centuries?"
+  ],
+  "misconceptions": [
+    "Afghanistan is in the Middle East.",
+    "Everyone in Pakistan speaks Urdu as a first language.",
+    "Pashtunwali is a religious law.",
+    "A country's border always matches where a culture begins and ends."
+  ],
+  "controls": [
+    "Card view menu (Pakistan, Afghanistan, Punjab region, Pashtun belt)",
+    "Start the Khyber road / Pause button",
+    "Reset button",
+    "Click or tap a city dot"
+  ],
+  "dataSources": [
+    "World Bank, Population, total (SP.POP.TOTL), 2025: https://data.worldbank.org/indicator/SP.POP.TOTL",
+    "Pakistan Bureau of Statistics, 7th Population and Housing Census 2023 (mother tongue shares as reported by Jang, 18 November 2024): https://jang.com.pk/en/25434-what-is-the-most-spoken-language-of-pakistan-news",
+    "UNESCO World Heritage List: https://whc.unesco.org/en/list/",
+    "Encyclopaedia Britannica, Khyber Pass: https://www.britannica.com/place/Khyber-Pass"
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10"
+}

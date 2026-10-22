@@ -1,0 +1,77 @@
+{
+  "title": "Zero and Place Value",
+  "description": "Learners build a number from 0 to 9,999 in a place value table and see it at the same time in Hindu-Arabic digits, in a South Asian digit set (Devanagari, Bengali, Tamil or Eastern Arabic style for Urdu) and in Roman numerals. Empty places glow, and a Hide the zeros option shows how the number changes when the zero symbol is removed.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-22",
+  "subject": [
+    "South Asian cultures",
+    "History of mathematics",
+    "Place value",
+    "Zero",
+    "Numeral systems"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/south-asian-culture-textbook/sims/ch16-zero-place-value/",
+  "publisher": "Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, South Asian student club leaders",
+  "version": "1.0.0",
+  "chapter": "16-science-math-ideas",
+  "learningObjectives": [
+    "Explain why a symbol for zero makes a place value system work.",
+    "Compare a place value system with Roman numerals, which have no zero and no place value.",
+    "Read the same number in Devanagari, Bengali, Tamil and Eastern Arabic style digits."
+  ],
+  "bloomLevel": [
+    "Understand"
+  ],
+  "concepts": [
+    "Brahmi Numerals",
+    "Place Value System",
+    "Zero",
+    "Hindu-Arabic Numerals"
+  ],
+  "prerequisites": [
+    "Counting and writing numbers up to 9,999",
+    "Knowing that a script is a writing system (Chapter 6)"
+  ],
+  "keyQuestions": [
+    "What job does a zero do inside a number like 507?",
+    "Why don't Roman numerals need a zero?",
+    "How do the digits 0 to 9 look in scripts used across South Asia?"
+  ],
+  "misconceptions": [
+    "Zero was invented by one person on one day.",
+    "A zero inside a number means nothing, so it can be left out.",
+    "Arabic numerals were invented by Arabs.",
+    "Every South Asian script has always had a zero digit."
+  ],
+  "controls": [
+    "Up and down arrows in each column (tap or click)",
+    "Digit set menu",
+    "Hide the zeros checkbox",
+    "Random button",
+    "Clear button"
+  ],
+  "dataSources": [
+    "MacTutor archive (University of St Andrews), Zero: https://mathshistory.st-andrews.ac.uk/HistTopics/Zero/",
+    "MacTutor archive (University of St Andrews), Indian numerals: https://mathshistory.st-andrews.ac.uk/HistTopics/Indian_numerals/",
+    "Unicode Character Database (digit code points U+0966, U+09E6, U+0BE6, U+06F0)"
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10"
+}

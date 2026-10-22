@@ -1,0 +1,124 @@
+/* Roots & Rivers theme: cream paper, navy ink, marigold accents (EVHS SASA palette).
+   Night mode: deep indigo with gold light. */
+@import url("https://fonts.googleapis.com/css2?family=Rozha+One&display=swap");
+
+:root {
+  --rr-paper: #FBF1E1;
+  --rr-paper-2: #F4E6CF;
+  --rr-ink: #1B2356;
+  --rr-ink-soft: #4A5180;
+  --rr-marigold: #F28C12;
+  --rr-saffron: #E2601C;
+  --rr-gold: #F4B429;
+  --rr-leaf: #3E8E5E;
+  --rr-peacock: #0E7C86;
+  --rr-night: #0E1230;
+  --rr-night-2: #171C45;
+  --rr-moon: #F6EBD6;
+  --rr-moon-soft: #B9B6CF;
+}
+
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: var(--rr-ink);
+  --md-primary-fg-color--light: #2C3670;
+  --md-primary-fg-color--dark: #121840;
+  --md-primary-bg-color: var(--rr-paper);
+  --md-accent-fg-color: var(--rr-saffron);
+  --md-accent-fg-color--transparent: rgba(242, 140, 18, 0.12);
+  --md-default-bg-color: var(--rr-paper);
+  --md-default-fg-color: var(--rr-ink);
+  --md-default-fg-color--light: var(--rr-ink-soft);
+  --md-typeset-color: #1E2552;
+  --md-typeset-a-color: #B4470F;
+  --md-code-bg-color: var(--rr-paper-2);
+  --md-footer-bg-color: var(--rr-ink);
+  --md-footer-bg-color--dark: #121840;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-hue: 232;
+  --md-primary-fg-color: var(--rr-night-2);
+  --md-primary-fg-color--light: #232a5c;
+  --md-primary-fg-color--dark: var(--rr-night);
+  --md-primary-bg-color: var(--rr-moon);
+  --md-accent-fg-color: var(--rr-gold);
+  --md-default-bg-color: var(--rr-night);
+  --md-default-fg-color: var(--rr-moon);
+  --md-default-fg-color--light: var(--rr-moon-soft);
+  --md-typeset-color: var(--rr-moon);
+  --md-typeset-a-color: var(--rr-gold);
+  --md-code-bg-color: var(--rr-night-2);
+  --md-footer-bg-color: #090c22;
+}
+
+/* Display type */
+.md-typeset h1, .md-typeset h2, .md-header__topic:first-child, .rr-display {
+  font-family: "Rozha One", Georgia, serif;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+}
+.md-typeset h1 { color: var(--md-default-fg-color); font-size: 2.3em; line-height: 1.15; margin-bottom: 0.6em; }
+.md-typeset h2 { font-size: 1.6em; line-height: 1.2; margin-top: 2em; padding-bottom: 0.2em; border-bottom: 2px solid var(--md-accent-fg-color--transparent); }
+.md-typeset h3 { font-weight: 600; }
+.md-typeset { font-size: 0.86rem; line-height: 1.7; }
+.md-typeset p, .md-typeset li { max-width: 46em; }
+.md-typeset strong { color: inherit; font-weight: 600; }
+
+/* Header */
+.md-header { box-shadow: 0 2px 0 var(--rr-marigold); }
+.md-header__button.md-logo img { background-color: var(--rr-paper) !important; height: 44px !important; width: 44px !important; }
+.md-tabs { background-color: var(--md-primary-fg-color); }
+
+/* Selection and focus */
+::selection { background: var(--rr-marigold); color: var(--rr-ink); }
+:focus-visible { outline: 2px solid var(--rr-marigold); outline-offset: 3px; }
+
+/* Sims */
+.md-typeset iframe { border: 1px solid rgba(27, 35, 86, 0.18); border-radius: 12px; background: #fff; box-shadow: 0 6px 18px rgba(27, 35, 86, 0.08); }
+[data-md-color-scheme="slate"] .md-typeset iframe { border-color: rgba(246, 235, 214, 0.2); }
+
+/* Buttons */
+.md-typeset .md-button { border-radius: 999px; font-weight: 600; }
+.md-typeset .md-button--primary { background-color: var(--rr-marigold); border-color: var(--rr-marigold); color: var(--rr-ink); }
+.md-typeset .md-button--primary:hover { background-color: var(--rr-saffron); border-color: var(--rr-saffron); color: #fff; }
+
+/* Admonitions: soften default boxes */
+.md-typeset .admonition, .md-typeset details { border-radius: 12px; border-width: 0 0 0 4px; box-shadow: 0 2px 10px rgba(27, 35, 86, 0.06); font-size: 0.82rem; }
+.md-typeset .admonition.abstract, .md-typeset details.abstract { border-color: var(--rr-peacock); }
+.md-typeset .abstract > .admonition-title, .md-typeset .abstract > summary { background-color: rgba(14, 124, 134, 0.1); }
+.md-typeset .abstract > .admonition-title::before, .md-typeset .abstract > summary::before { background-color: var(--rr-peacock); }
+
+/* Tables */
+.md-typeset table:not([class]) { border-radius: 10px; overflow: hidden; font-size: 0.8rem; }
+.md-typeset table:not([class]) th { background: var(--rr-ink); color: var(--rr-paper); font-weight: 600; }
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) th { background: var(--rr-night-2); color: var(--rr-gold); }
+
+/* Script words in original languages get a slightly larger size so matras are legible */
+.md-typeset :lang(hi), .md-typeset :lang(bn), .md-typeset :lang(ta), .md-typeset :lang(ur) { font-size: 1.08em; }
+
+/* Home page hero */
+.rr-hero { display: grid; grid-template-columns: 1.3fr 1fr; gap: 2rem; align-items: center; margin: 0.5rem 0 2rem; }
+.rr-hero h1 { font-size: 3.2em; margin: 0 0 0.3em; }
+.rr-hero .rr-sub { font-size: 1.1em; color: var(--md-default-fg-color--light); max-width: 32em; }
+.rr-hero-img { display: block; width: 100%; max-width: 340px; margin: 0 auto; }
+.rr-hero p:has(.rr-hero-img) { margin: 0; }
+.rr-stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.8rem; margin: 1.5rem 0 2rem; }
+.rr-stat { text-align: center; padding: 0.9rem 0.4rem; border-radius: 14px; background: var(--md-code-bg-color); }
+.rr-stat b { display: block; font-family: "Rozha One", Georgia, serif; font-weight: 400; font-size: 2em; line-height: 1.1; color: var(--rr-saffron); }
+[data-md-color-scheme="slate"] .rr-stat b { color: var(--rr-gold); }
+.rr-stat span { font-size: 0.78em; color: var(--md-default-fg-color--light); }
+.rr-parts { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; }
+.rr-part { padding: 1rem 1.2rem; border-radius: 14px; border: 1px solid var(--md-accent-fg-color--transparent); background: var(--md-code-bg-color); }
+.rr-part h3 { margin-top: 0; }
+.rr-part ol { margin-bottom: 0; }
+
+@media screen and (max-width: 44.9375em) {
+  .rr-hero { grid-template-columns: 1fr; }
+  .rr-hero { gap: 0.5rem; }
+  .rr-hero p:has(.rr-hero-img) { grid-row: 1; }
+  .rr-hero-img { max-width: 170px; }
+  .rr-hero h1 { font-size: 2.4em; }
+  .rr-stats { grid-template-columns: repeat(2, 1fr); }
+  .rr-parts { grid-template-columns: 1fr; }
+  .md-typeset h1 { font-size: 1.9em; }
+}

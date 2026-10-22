@@ -1,0 +1,40 @@
+name: Share a story with the Story Archive
+description: Share a short story from an Ask Your Elders interview, with permission, for the Roots & Rivers Story Archive.
+title: "[Story] "
+labels: ["story"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Please read first.** GitHub issues are public: anyone can read what you write here. Use first names only, no addresses, phone numbers, schools or other details that identify a person. Stories are reviewed before they appear in the book, and may be lightly edited for length (never for meaning). If you are under 18, ask a parent or guardian before submitting. If you'd rather not post publicly, share your story through your school's South Asian student club instead.
+  - type: input
+    id: chapter
+    attributes:
+      label: Which chapter's interview is this from?
+      placeholder: "Chapter 7: Festivals Through the Year"
+    validations:
+      required: true
+  - type: input
+    id: who
+    attributes:
+      label: Who told the story? (relationship and first name or initial only)
+      placeholder: "My Nanu, R."
+    validations:
+      required: true
+  - type: textarea
+    id: story
+    attributes:
+      label: The story (150 words or fewer)
+    validations:
+      required: true
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Consent
+      options:
+        - label: The person who told this story agreed to have it shared publicly in this book.
+          required: true
+        - label: I am 18 or older, or a parent or guardian agreed to this submission.
+          required: true
+        - label: I understand this issue is public and contains no identifying details.
+          required: true

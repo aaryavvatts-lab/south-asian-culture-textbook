@@ -1,0 +1,73 @@
+{
+  "title": "Kinship Explorer",
+  "description": "A family tree centered on You, with Dad's side and Mom's side, that shows the single English word for each of nine relatives next to the term many families use in Hindi-Urdu, Bangla, Punjabi, Tamil and Sinhala, in original script with a respelling. Notes mark where usage varies by family, religion or region.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-22",
+  "subject": [
+    "South Asian cultures",
+    "Family and kinship",
+    "Kinship terms",
+    "South Asian languages",
+    "Sociology"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/south-asian-culture-textbook/sims/ch13-kinship-explorer/",
+  "publisher": "Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, South Asian student club leaders",
+  "version": "1.0.0",
+  "chapter": "13-family-names-life-events",
+  "learningObjectives": [
+    "Compare the kinship terms for nine relatives across Hindi-Urdu, Bangla, Punjabi, Tamil and Sinhala.",
+    "Explain why many South Asian languages use separate words for relatives on the father's side and the mother's side.",
+    "Identify where kinship terms mark age (older and younger relatives) and where usage varies by family, religion or region."
+  ],
+  "bloomLevel": [
+    "Understand"
+  ],
+  "concepts": [
+    "Kinship Terms",
+    "Joint Family",
+    "Respect for Elders"
+  ],
+  "prerequisites": [
+    "Knowing the English words for close relatives (parents, grandparents, aunts, uncles)",
+    "Awareness that South Asian languages use different scripts (Chapter 6)"
+  ],
+  "keyQuestions": [
+    "Why does English use one word, uncle, for relatives that many South Asian languages name separately?",
+    "Which languages split grandparents by side, and which use one word for both?",
+    "Why do Tamil and Sinhala call a father's older brother big father?"
+  ],
+  "misconceptions": [
+    "Mama means mother in every South Asian language.",
+    "Every speaker of a language uses the same kinship words.",
+    "South Asian languages simply have more words for the same relatives, with no pattern behind them."
+  ],
+  "controls": [
+    "Relative menu",
+    "Next relative button",
+    "Color Dad's side and Mom's side checkbox",
+    "Click or tap a relative in the tree"
+  ],
+  "dataSources": [
+    "Wiktionary entries for each Hindi, Urdu, Bengali, Punjabi, Tamil and Sinhalese term (see logs/13-factcheck.md): https://en.wiktionary.org/",
+    "Bhai Maya Singh, The Panjabi Dictionary (1895), via Digital Dictionaries of South Asia, for Punjabi tāiā, chāchā and bhūā: https://dsal.uchicago.edu/dictionaries/singh/"
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10"
+}

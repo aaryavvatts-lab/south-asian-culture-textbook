@@ -1,0 +1,216 @@
+{
+ "book_title": "Roots & Rivers",
+ "author": "Aaryav Sharma",
+ "site_url": "https://aaryavvatts-lab.github.io/south-asian-culture-textbook/",
+ "mascot_name": "Mora",
+ "words_min": 4000,
+ "words_max": 8000,
+ "quiz_questions": 10,
+ "max_same_answer_letter": 3,
+ "references_min": 8,
+ "references_max": 10,
+ "max_mascots": 6,
+ "disclaimer": "Every family does it a little differently",
+ "taxonomy_codes": [
+  "GEO",
+  "ANC",
+  "EMP",
+  "MOD",
+  "FAITH",
+  "LANG",
+  "FEST",
+  "FOOD",
+  "ARTS",
+  "CRAFT",
+  "SOC",
+  "LIT",
+  "POP",
+  "IDEA",
+  "NATION",
+  "DIAS",
+  "ID"
+ ],
+ "required_sections": [
+  "## Summary",
+  "## Concepts Covered",
+  "## Prerequisites",
+  "Whose Story?",
+  "## Ask Your Elders",
+  "## Common Misconceptions",
+  "## Check Yourself",
+  "## Exercises",
+  "### Remember",
+  "### Understand",
+  "### Apply",
+  "### Analyze",
+  "### Evaluate",
+  "### Create",
+  "## Key Takeaways",
+  "#### Diagram:"
+ ],
+ "section_order": [
+  "## Summary",
+  "## Concepts Covered",
+  "## Prerequisites",
+  "## Ask Your Elders",
+  "## Common Misconceptions",
+  "## Check Yourself",
+  "## Exercises",
+  "## Key Takeaways"
+ ],
+ "mascot_types": [
+  "mascot-welcome",
+  "mascot-thinking",
+  "mascot-tip",
+  "mascot-warning",
+  "mascot-encourage",
+  "mascot-celebration",
+  "mascot-neutral"
+ ],
+ "metadata_forbidden": [
+  "TODO",
+  "Dan McCreary",
+  "Geometry",
+  "Mathematics",
+  "Bouncing Ball",
+  "bouncing"
+ ],
+ "glossary_aliases": {
+  "SAARC": "South Asian Association for Regional Cooperation (SAARC)",
+  "ISRO": "Indian Space Research Organisation (ISRO)"
+ },
+ "chapters": [
+  {
+   "num": 1,
+   "slug": "01-what-is-south-asia",
+   "sim": "ch01-region-explorer",
+   "title": "What Is South Asia?"
+  },
+  {
+   "num": 2,
+   "slug": "02-ancient-roots",
+   "sim": "ch02-ancient-timeline",
+   "title": "Ancient Roots"
+  },
+  {
+   "num": 3,
+   "slug": "03-empires-and-encounters",
+   "sim": "ch03-empire-timeline",
+   "title": "Empires and Encounters"
+  },
+  {
+   "num": 4,
+   "slug": "04-colonialism-and-partition",
+   "sim": "ch04-borders-then-and-now",
+   "title": "Colonialism, Independence, and Partition"
+  },
+  {
+   "num": 5,
+   "slug": "05-faiths-of-south-asia",
+   "sim": "ch05-faith-explorer",
+   "title": "Faiths of South Asia"
+  },
+  {
+   "num": 6,
+   "slug": "06-languages-and-scripts",
+   "sim": "ch06-script-family-tree",
+   "title": "Languages and Scripts"
+  },
+  {
+   "num": 7,
+   "slug": "07-festivals",
+   "sim": "ch07-festival-wheel",
+   "title": "Festivals Through the Year"
+  },
+  {
+   "num": 8,
+   "slug": "08-food-and-the-table",
+   "sim": "ch08-thali-builder",
+   "title": "Food and the Table"
+  },
+  {
+   "num": 9,
+   "slug": "09-music",
+   "sim": "ch09-tala-clapper",
+   "title": "Music"
+  },
+  {
+   "num": 10,
+   "slug": "10-dance-and-theater",
+   "sim": "ch10-classical-dance-map",
+   "title": "Dance and Theater"
+  },
+  {
+   "num": 11,
+   "slug": "11-art-architecture-craft",
+   "sim": "ch11-kolam-maker",
+   "title": "Art, Architecture, and Craft"
+  },
+  {
+   "num": 12,
+   "slug": "12-clothing-and-textiles",
+   "sim": "ch12-textile-map",
+   "title": "Clothing and Textiles"
+  },
+  {
+   "num": 13,
+   "slug": "13-family-names-life-events",
+   "sim": "ch13-kinship-explorer",
+   "title": "Family, Names, and Life Events"
+  },
+  {
+   "num": 14,
+   "slug": "14-stories-and-literature",
+   "sim": "ch14-story-web",
+   "title": "Stories and Literature"
+  },
+  {
+   "num": 15,
+   "slug": "15-cinema-cricket-pop-culture",
+   "sim": "ch15-film-industries",
+   "title": "Cinema, Cricket, and Pop Culture"
+  },
+  {
+   "num": 16,
+   "slug": "16-science-math-ideas",
+   "sim": "ch16-zero-place-value",
+   "title": "Science, Math, and Ideas"
+  },
+  {
+   "num": 17,
+   "slug": "17-india",
+   "sim": "ch17-india-explorer",
+   "title": "India"
+  },
+  {
+   "num": 18,
+   "slug": "18-pakistan-and-afghanistan",
+   "sim": "ch18-pakistan-afghanistan-compare",
+   "title": "Pakistan and Afghanistan"
+  },
+  {
+   "num": 19,
+   "slug": "19-bangladesh-and-sri-lanka",
+   "sim": "ch19-bangladesh-srilanka-compare",
+   "title": "Bangladesh and Sri Lanka"
+  },
+  {
+   "num": 20,
+   "slug": "20-nepal-bhutan-maldives",
+   "sim": "ch20-mountains-to-atolls",
+   "title": "Nepal, Bhutan, and the Maldives"
+  },
+  {
+   "num": 21,
+   "slug": "21-the-diaspora",
+   "sim": "ch21-migration-waves",
+   "title": "The South Asian Diaspora"
+  },
+  {
+   "num": 22,
+   "slug": "22-bring-it-home",
+   "sim": "ch22-interview-builder",
+   "title": "Bring It Home"
+  }
+ ]
+}

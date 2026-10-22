@@ -1,0 +1,369 @@
+ConceptID,ConceptLabel,Dependencies,TaxonomyID
+1,South Asia,,GEO
+2,Indian Subcontinent,1,GEO
+3,SAARC,1,GEO
+4,Himalaya,2,GEO
+5,Hindu Kush,4,GEO
+6,Indus River,4,GEO
+7,Ganges (Ganga) River,4,GEO
+8,Brahmaputra River,4,GEO
+9,Indo-Gangetic Plain,6|7,GEO
+10,Deccan Plateau,2,GEO
+11,Western and Eastern Ghats,10,GEO
+12,Thar Desert,2,GEO
+13,Monsoon,2|4,GEO
+14,Bay of Bengal,2,GEO
+15,Indian Ocean,2,GEO
+16,Population of South Asia,1|3,GEO
+17,Regional Diversity,16|13,GEO
+18,Mehrgarh,6,ANC
+19,Indus Valley Civilization,18|6,ANC
+20,Harappa and Mohenjo-daro,19,ANC
+21,Indus Script,19,ANC
+22,Indo-Aryan Migration,19,ANC
+23,Vedic Period,22|9,ANC
+24,The Vedas,23,ANC
+25,Sanskrit,24,ANC
+26,Mahajanapadas,23|7,ANC
+27,Rise of Buddhism and Jainism,26,ANC
+28,Maurya Empire,26,ANC
+29,Ashoka,28|27,ANC
+30,Edicts of Ashoka,29,ANC
+31,Kushan Empire,28|5,ANC
+32,Sangam Age,10|28,ANC
+33,Gupta Empire,28,ANC
+34,Nalanda,33|27,ANC
+35,Indian Ocean Trade,15|32,EMP
+36,Chola Dynasty,35|32,EMP
+37,Sri Lankan Kingdoms,35|27,EMP
+38,Early Islam in South Asia,35,EMP
+39,Delhi Sultanate,38,EMP
+40,Vijayanagara Empire,39|10,EMP
+41,Bhakti Movement,33,EMP
+42,Sufism,38,EMP
+43,Guru Nanak,41|42,EMP
+44,Mughal Empire,39,EMP
+45,Akbar,44,EMP
+46,Indo-Persian Culture,44|42,EMP
+47,Taj Mahal,44|46,EMP
+48,Maratha Empire,44,EMP
+49,Durrani Empire,44|5,EMP
+50,European Traders,35,EMP
+51,East India Company,50,EMP
+52,Battle of Plassey,51,MOD
+53,Revolt of 1857,52,MOD
+54,British Raj,53,MOD
+55,Princely States,54,MOD
+56,Anglo-Afghan Wars,54|49,MOD
+57,Bengal Famine of 1943,54,MOD
+58,Indian National Congress,54,MOD
+59,All-India Muslim League,54,MOD
+60,Mahatma Gandhi,58,MOD
+61,Satyagraha,60,MOD
+62,B. R. Ambedkar,54,MOD
+63,Muhammad Ali Jinnah,59,MOD
+64,Partition of 1947,58|59,MOD
+65,Radcliffe Line,64,MOD
+66,Partition Migration,65,MOD
+67,Kashmir Dispute,64|55,MOD
+68,Sri Lankan Independence,54|37,MOD
+69,Language Movement of 1952,64,MOD
+70,Bangladesh Liberation War,69,MOD
+71,Hinduism,24,FAITH
+72,Dharma,71,FAITH
+73,Karma and Rebirth,72,FAITH
+74,Puja,71,FAITH
+75,Buddhism,27|73,FAITH
+76,Theravada and Vajrayana,75,FAITH
+77,Jainism,27|73,FAITH
+78,Ahimsa,77,FAITH
+79,Islam in South Asia,38,FAITH
+80,Sunni and Shia Islam,79,FAITH
+81,Sikhism,43,FAITH
+82,Guru Granth Sahib,81,FAITH
+83,Langar,81,FAITH
+84,Christianity in South Asia,35,FAITH
+85,Zoroastrians (Parsis),35,FAITH
+86,Jewish Communities,35,FAITH
+87,Pilgrimage,71|79|75,FAITH
+88,Religious Pluralism,71|79|81|75,FAITH
+89,Language Family,17,LANG
+90,Indo-Aryan Languages,89|25,LANG
+91,Dravidian Languages,89,LANG
+92,Tibeto-Burman Languages,89,LANG
+93,Austroasiatic Languages,89,LANG
+94,Iranian Languages,89,LANG
+95,Eighth Schedule,90|91,LANG
+96,Hindi-Urdu (Hindustani),90|46,LANG
+97,Bengali Language,90,LANG
+98,Tamil Language,91|32,LANG
+99,Brahmi Script,30,LANG
+100,Abugida,99,LANG
+101,Devanagari,100,LANG
+102,Gurmukhi,100|43,LANG
+103,Perso-Arabic Script,46,LANG
+104,Code-Switching,96,LANG
+105,Heritage Language,104,LANG
+106,Lunisolar Calendar,71,FEST
+107,Islamic Lunar Calendar,79,FEST
+108,Diwali,106|74,FEST
+109,Holi,106,FEST
+110,Navaratri and Durga Puja,106|74,FEST
+111,Dashain and Tihar,110|108,FEST
+112,Ramadan,107,FEST
+113,Eid al-Fitr,112,FEST
+114,Eid al-Adha,107,FEST
+115,Ashura,107|80,FEST
+116,Vaisakhi,81|106,FEST
+117,Pohela Boishakh,97|106,FEST
+118,Pongal and Makar Sankranti,106,FEST
+119,Onam,106,FEST
+120,Vesak,75|106,FEST
+121,Losar,76,FEST
+122,Nowruz,94,FEST
+123,Christmas in South Asia,84,FEST
+124,Staple Grains,13|9,FOOD
+125,Regional Cuisines,124|17,FOOD
+126,Thali,125,FOOD
+127,Masala,35,FOOD
+128,Tadka,127,FOOD
+129,Dal,128|124,FOOD
+130,Roti and Naan,124,FOOD
+131,Biryani,46|127,FOOD
+132,Columbian Exchange,50|127,FOOD
+133,Chai,54,FOOD
+134,Street Food,125,FOOD
+135,Mithai,108|113,FOOD
+136,Dietary Rules and Faith,71|79|78,FOOD
+137,Vegetarianism in South Asia,136,FOOD
+138,Halal,136,FOOD
+139,Eating With Hands,126,FOOD
+140,Hospitality Customs,126,FOOD
+141,Raga,24,ARTS
+142,Tala,141,ARTS
+143,Sargam,141,ARTS
+144,Hindustani Music,141|142|46,ARTS
+145,Carnatic Music,141|142,ARTS
+146,Gharana,144,ARTS
+147,Guru-Shishya Tradition,146|145,ARTS
+148,Sitar,144,ARTS
+149,Tabla,144|142,ARTS
+150,Veena,145,ARTS
+151,Qawwali,42|144,ARTS
+152,Ghazal,96|144,ARTS
+153,Baul Music,97|41,ARTS
+154,Folk Music,17,ARTS
+155,Bhangra,154|116,ARTS
+156,Film Music (Filmi),144|154,ARTS
+157,Natya Shastra,25|141,ARTS
+158,Rasa,157,ARTS
+159,Mudra,157,ARTS
+160,Classical Dance,157|142,ARTS
+161,Bharatanatyam,160|145,ARTS
+162,Kathak,160|144,ARTS
+163,Odissi,160,ARTS
+164,Kathakali,160,ARTS
+165,Kuchipudi,160,ARTS
+166,Manipuri Dance,160,ARTS
+167,Mohiniyattam,160,ARTS
+168,Sattriya,160|41,ARTS
+169,Folk Dance,154,ARTS
+170,Garba,169|110,ARTS
+171,Kandyan Dance,169|37,ARTS
+172,Attan,169,ARTS
+173,Shadow Puppetry,169|157,ARTS
+174,Stupa,75,CRAFT
+175,Hindu Temple Architecture,71|33,CRAFT
+176,Jali,46,CRAFT
+177,Mughal Architecture,47|176,CRAFT
+178,Calligraphy,103,CRAFT
+179,Mughal Miniature Painting,44|46,CRAFT
+180,Sigiriya,37,CRAFT
+181,Thangka,76,CRAFT
+182,Madhubani Painting,71|154,CRAFT
+183,Rangoli,108,CRAFT
+184,Kolam,183|118,CRAFT
+185,Mehndi,113,CRAFT
+186,Terracotta,19,CRAFT
+187,Block Printing,35,CRAFT
+188,Truck Art,178,CRAFT
+189,Rickshaw Art,188,CRAFT
+190,Cotton in South Asia,19|35,CRAFT
+191,Silk Weaving,190,CRAFT
+192,Jamdani,190|97,CRAFT
+193,Ikat,190,CRAFT
+194,Pashmina,4|191,CRAFT
+195,Khadi,190|61,CRAFT
+196,Saree,191|190,CRAFT
+197,Dhoti,190,CRAFT
+198,Lungi,190,CRAFT
+199,Kurta,46,CRAFT
+200,Shalwar Kameez,46|199,CRAFT
+201,Dupatta,200,CRAFT
+202,Gho and Kira,191,CRAFT
+203,Turban (Dastar),81,CRAFT
+204,Bindi,71,CRAFT
+205,Bangles,196,CRAFT
+206,Joint Family,17,SOC
+207,Kinship Terms,206|89,SOC
+208,Respect for Elders,206|140,SOC
+209,Naming Traditions,207,SOC
+210,Surnames,209,SOC
+211,Varna and Jati,24,SOC
+212,Caste System,211,SOC
+213,Caste Discrimination Laws,212|62,SOC
+214,Life-Cycle Rituals,71|79|81,SOC
+215,Coming-of-Age Rites,214,SOC
+216,Weddings,214,SOC
+217,Arranged Marriage,216|206,SOC
+218,Mehndi Night and Sangeet,216|185,SOC
+219,Nikah,216|79,SOC
+220,Anand Karaj,216|82,SOC
+221,Funeral Customs,214|73,SOC
+222,Gender Roles and Change,206,SOC
+223,Oral Tradition,24,LIT
+224,Ramayana,223|25,LIT
+225,Mahabharata,223|25,LIT
+226,Bhagavad Gita,225|72,LIT
+227,Jataka Tales,75|223,LIT
+228,Panchatantra,223|25,LIT
+229,Sangam Literature,32|98,LIT
+230,Kalidasa,25|33,LIT
+231,Kabir,41|42,LIT
+232,Akbar and Birbal Tales,45|223,LIT
+233,Mirza Ghalib,152,LIT
+234,Rabindranath Tagore,97,LIT
+235,Kazi Nazrul Islam,97|234,LIT
+236,Allama Iqbal,96|103,LIT
+237,Partition Literature,66,LIT
+238,South Asian English Writing,54|237,LIT
+239,Bollywood,156|96,POP
+240,Regional Cinemas,239|89,POP
+241,Satyajit Ray,240|234,POP
+242,Pakistani Cinema,240,POP
+243,Playback Singing,156|239,POP
+244,Pakistani Dramas,242,POP
+245,Coke Studio,151|154,POP
+246,Global South Asian Pop,155|245,POP
+247,Streaming Era,239|244,POP
+248,Representation in Media,247,POP
+249,Cricket,54,POP
+250,India-Pakistan Rivalry,249|64,POP
+251,Field Hockey,54,POP
+252,Kabaddi,17,POP
+253,Carrom,17,POP
+254,Brahmi Numerals,99,IDEA
+255,Place Value System,254,IDEA
+256,Zero,255,IDEA
+257,Aryabhata,33|255,IDEA
+258,Brahmagupta,256,IDEA
+259,Hindu-Arabic Numerals,256|46,IDEA
+260,Al-Biruni,259,IDEA
+261,Kerala School,257,IDEA
+262,Panini's Grammar,25,IDEA
+263,Ayurveda,24,IDEA
+264,Sushruta Samhita,263,IDEA
+265,Unani Medicine,263|46,IDEA
+266,Yoga,71|78,IDEA
+267,Chaturanga,33,IDEA
+268,Wootz Steel,35,IDEA
+269,Srinivasa Ramanujan,261,IDEA
+270,C. V. Raman,54,IDEA
+271,Republic of India,64,NATION
+272,Constitution of India,271|62,NATION
+273,Parliament of India,272,NATION
+274,Elections in India,273,NATION
+275,New Delhi,271,NATION
+276,States and Union Territories,272,NATION
+277,Linguistic States,276|95,NATION
+278,Northeast India,276|92,NATION
+279,South India,276|91,NATION
+280,Adivasi Communities,93|271,NATION
+281,Unity in Diversity,277|88,NATION
+282,National Symbols of India,271,NATION
+283,Indian Economy,271,NATION
+284,Indian Rupee,283,NATION
+285,ISRO,283|270,NATION
+286,Islamic Republic of Pakistan,64|63,NATION
+287,Islamabad,286,NATION
+288,Provinces of Pakistan,286,NATION
+289,Punjab Region,288|6,NATION
+290,Lahore,289|44,NATION
+291,Sindh,288|19,NATION
+292,Khyber Pakhtunkhwa,288,NATION
+293,Balochistan,288|94,NATION
+294,Urdu as National Language,96|286,NATION
+295,Afghanistan,49|56,NATION
+296,Kabul,295,NATION
+297,Dari and Pashto,295|94,NATION
+298,Pashtunwali,297|292,NATION
+299,Khyber Pass,5|292,NATION
+300,Buddhas of Bamiyan,295|31,NATION
+301,Afghan Carpets,295,NATION
+302,People's Republic of Bangladesh,70,NATION
+303,Dhaka,302,NATION
+304,Bengal Delta,8|7,NATION
+305,Sundarbans,304,NATION
+306,Rivers and Floods,304|13,NATION
+307,Ekushey February,69,NATION
+308,Garment Industry,302|190,NATION
+309,Microfinance,302,NATION
+310,Sri Lanka,68,NATION
+311,Colombo,310,NATION
+312,Anuradhapura,37|174,NATION
+313,Sinhala Language,310|90,NATION
+314,Sri Lankan Tamils,310|98,NATION
+315,Sri Lankan Civil War,313|314,NATION
+316,Ceylon Tea,310|54,NATION
+317,Sri Pada (Adam's Peak),310|87,NATION
+318,Nepal,4,NATION
+319,Kathmandu Valley,318,NATION
+320,Mount Everest,318|4,NATION
+321,Sherpa People,320|92,NATION
+322,Gurkhas,318|54,NATION
+323,Lumbini,318|75,NATION
+324,Nepal's Republic (2008),318,NATION
+325,Bhutan,4|76,NATION
+326,Dzongkha,325|92,NATION
+327,Dzong,325,NATION
+328,Gross National Happiness,325,NATION
+329,Maldives,15,NATION
+330,Atolls,329,NATION
+331,Malé,329,NATION
+332,Dhivehi,329|90,NATION
+333,Sea-Level Rise,330,NATION
+334,Diaspora,17|66,DIAS
+335,Indentured Labor,334|54,DIAS
+336,Indo-Caribbean Communities,335,DIAS
+337,South Asians in East Africa,334|35,DIAS
+338,Uganda Expulsion of 1972,337,DIAS
+339,British South Asians,334|338,DIAS
+340,Gulf Migrant Workers,334,DIAS
+341,Remittances,340,DIAS
+342,Punjabi Pioneers in California,334|289,DIAS
+343,Bhagat Singh Thind Case,342,DIAS
+344,Immigration Act of 1965,343,DIAS
+345,South Asians in Minnesota,344,DIAS
+346,Model Minority Myth,344,DIAS
+347,Post-9/11 Backlash,345|203,DIAS
+348,Desi Identity,334|246,DIAS
+349,Transnational Families,341|206,DIAS
+350,Cultural Identity,348,ID
+351,Hyphenated Identity,350,ID
+352,Third Culture Kids,351|349,ID
+353,Stereotypes,346|248,ID
+354,Colorism,353,ID
+355,Cultural Appropriation,350,ID
+356,Cultural Appreciation,355,ID
+357,Intergenerational Dialogue,208|105,ID
+358,Oral History,357|223,ID
+359,Informed Consent,358,ID
+360,Active Listening,358,ID
+361,Cultural Preservation,358|105,ID
+362,Allyship,356|353,ID
+363,Student Clubs,361,ID
+364,Community Organizing,363|362,ID
+365,Community Impact,364,ID
+366,Transliteration,100|103,LANG
+367,Phonetic Respelling,366,LANG
+368,Calendar Conversion,106|107,FEST

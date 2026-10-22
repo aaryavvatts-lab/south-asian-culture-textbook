@@ -1,0 +1,4470 @@
+{
+  "metadata": {
+    "title": "Roots and Rivers",
+    "description": "Learning graph for Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students",
+    "creator": "Aaryav Sharma",
+    "date": "2026-10-22",
+    "version": "1.0",
+    "format": "Learning Graph JSON v1.0",
+    "schema": "https://raw.githubusercontent.com/dmccreary/learning-graphs/refs/heads/main/src/schema/learning-graph-schema.json",
+    "license": "CC BY-NC-SA 4.0 DEED"
+  },
+  "groups": {
+    "GEO": {
+      "classifierName": "Land and Climate",
+      "color": "PaleTurquoise",
+      "font": {
+        "color": "black"
+      }
+    },
+    "ANC": {
+      "classifierName": "Ancient History",
+      "color": "Wheat",
+      "font": {
+        "color": "black"
+      }
+    },
+    "EMP": {
+      "classifierName": "Empires and Trade",
+      "color": "Khaki",
+      "font": {
+        "color": "black"
+      }
+    },
+    "MOD": {
+      "classifierName": "Colonialism and Independence",
+      "color": "LightSalmon",
+      "font": {
+        "color": "black"
+      }
+    },
+    "FAITH": {
+      "classifierName": "Faiths",
+      "color": "Lavender",
+      "font": {
+        "color": "black"
+      }
+    },
+    "LANG": {
+      "classifierName": "Languages and Scripts",
+      "color": "LightSkyBlue",
+      "font": {
+        "color": "black"
+      }
+    },
+    "FEST": {
+      "classifierName": "Festivals and Calendars",
+      "color": "Gold",
+      "font": {
+        "color": "black"
+      }
+    },
+    "FOOD": {
+      "classifierName": "Food",
+      "color": "Orange",
+      "font": {
+        "color": "black"
+      }
+    },
+    "ARTS": {
+      "classifierName": "Music and Dance",
+      "color": "Plum",
+      "font": {
+        "color": "white"
+      }
+    },
+    "CRAFT": {
+      "classifierName": "Art, Craft and Dress",
+      "color": "PeachPuff",
+      "font": {
+        "color": "black"
+      }
+    },
+    "SOC": {
+      "classifierName": "Family and Society",
+      "color": "LightPink",
+      "font": {
+        "color": "black"
+      }
+    },
+    "LIT": {
+      "classifierName": "Stories and Literature",
+      "color": "Thistle",
+      "font": {
+        "color": "black"
+      }
+    },
+    "POP": {
+      "classifierName": "Pop Culture and Sport",
+      "color": "LightGreen",
+      "font": {
+        "color": "black"
+      }
+    },
+    "IDEA": {
+      "classifierName": "Science and Ideas",
+      "color": "PowderBlue",
+      "font": {
+        "color": "black"
+      }
+    },
+    "NATION": {
+      "classifierName": "The Eight Countries",
+      "color": "MediumAquamarine",
+      "font": {
+        "color": "black"
+      }
+    },
+    "DIAS": {
+      "classifierName": "Diaspora",
+      "color": "LightSteelBlue",
+      "font": {
+        "color": "black"
+      }
+    },
+    "ID": {
+      "classifierName": "Identity and Action",
+      "color": "Pink",
+      "font": {
+        "color": "black"
+      }
+    }
+  },
+  "nodes": [
+    {
+      "id": 1,
+      "label": "South Asia",
+      "group": "GEO",
+      "shape": "box",
+      "cis": 6918
+    },
+    {
+      "id": 2,
+      "label": "Indian Subcontinent",
+      "group": "GEO",
+      "cis": 6504
+    },
+    {
+      "id": 3,
+      "label": "SAARC",
+      "group": "GEO",
+      "cis": 207
+    },
+    {
+      "id": 4,
+      "label": "Himalaya",
+      "group": "GEO",
+      "cis": 5093
+    },
+    {
+      "id": 5,
+      "label": "Hindu Kush",
+      "group": "GEO",
+      "cis": 18
+    },
+    {
+      "id": 6,
+      "label": "Indus River",
+      "group": "GEO",
+      "cis": 3094
+    },
+    {
+      "id": 7,
+      "label": "Ganges (Ganga) River",
+      "group": "GEO",
+      "cis": 1738
+    },
+    {
+      "id": 8,
+      "label": "Brahmaputra River",
+      "group": "GEO",
+      "cis": 4
+    },
+    {
+      "id": 9,
+      "label": "Indo-Gangetic Plain",
+      "group": "GEO",
+      "cis": 1025
+    },
+    {
+      "id": 10,
+      "label": "Deccan Plateau",
+      "group": "GEO",
+      "cis": 594
+    },
+    {
+      "id": 11,
+      "label": "Western and Eastern Ghats",
+      "group": "GEO",
+      "cis": 1
+    },
+    {
+      "id": 12,
+      "label": "Thar Desert",
+      "group": "GEO",
+      "cis": 1
+    },
+    {
+      "id": 13,
+      "label": "Monsoon",
+      "group": "GEO",
+      "cis": 224
+    },
+    {
+      "id": 14,
+      "label": "Bay of Bengal",
+      "group": "GEO",
+      "cis": 1
+    },
+    {
+      "id": 15,
+      "label": "Indian Ocean",
+      "group": "GEO",
+      "cis": 590
+    },
+    {
+      "id": 16,
+      "label": "Population of South Asia",
+      "group": "GEO",
+      "cis": 206
+    },
+    {
+      "id": 17,
+      "label": "Regional Diversity",
+      "group": "GEO",
+      "cis": 205
+    },
+    {
+      "id": 18,
+      "label": "Mehrgarh",
+      "group": "ANC",
+      "cis": 1028
+    },
+    {
+      "id": 19,
+      "label": "Indus Valley Civilization",
+      "group": "ANC",
+      "cis": 1027
+    },
+    {
+      "id": 20,
+      "label": "Harappa and Mohenjo-daro",
+      "group": "ANC",
+      "cis": 1
+    },
+    {
+      "id": 21,
+      "label": "Indus Script",
+      "group": "ANC",
+      "cis": 1
+    },
+    {
+      "id": 22,
+      "label": "Indo-Aryan Migration",
+      "group": "ANC",
+      "cis": 1008
+    },
+    {
+      "id": 23,
+      "label": "Vedic Period",
+      "group": "ANC",
+      "cis": 1007
+    },
+    {
+      "id": 24,
+      "label": "The Vedas",
+      "group": "ANC",
+      "cis": 297
+    },
+    {
+      "id": 25,
+      "label": "Sanskrit",
+      "group": "ANC",
+      "cis": 74
+    },
+    {
+      "id": 26,
+      "label": "Mahajanapadas",
+      "group": "ANC",
+      "cis": 709
+    },
+    {
+      "id": 27,
+      "label": "Rise of Buddhism and Jainism",
+      "group": "ANC",
+      "cis": 55
+    },
+    {
+      "id": 28,
+      "label": "Maurya Empire",
+      "group": "ANC",
+      "cis": 653
+    },
+    {
+      "id": 29,
+      "label": "Ashoka",
+      "group": "ANC",
+      "cis": 17
+    },
+    {
+      "id": 30,
+      "label": "Edicts of Ashoka",
+      "group": "ANC",
+      "cis": 16
+    },
+    {
+      "id": 31,
+      "label": "Kushan Empire",
+      "group": "ANC",
+      "cis": 2
+    },
+    {
+      "id": 32,
+      "label": "Sangam Age",
+      "group": "ANC",
+      "cis": 591
+    },
+    {
+      "id": 33,
+      "label": "Gupta Empire",
+      "group": "ANC",
+      "cis": 42
+    },
+    {
+      "id": 34,
+      "label": "Nalanda",
+      "group": "ANC",
+      "cis": 1
+    },
+    {
+      "id": 35,
+      "label": "Indian Ocean Trade",
+      "group": "EMP",
+      "cis": 584
+    },
+    {
+      "id": 36,
+      "label": "Chola Dynasty",
+      "group": "EMP",
+      "cis": 1
+    },
+    {
+      "id": 37,
+      "label": "Sri Lankan Kingdoms",
+      "group": "EMP",
+      "cis": 13
+    },
+    {
+      "id": 38,
+      "label": "Early Islam in South Asia",
+      "group": "EMP",
+      "cis": 303
+    },
+    {
+      "id": 39,
+      "label": "Delhi Sultanate",
+      "group": "EMP",
+      "cis": 127
+    },
+    {
+      "id": 40,
+      "label": "Vijayanagara Empire",
+      "group": "EMP",
+      "cis": 1
+    },
+    {
+      "id": 41,
+      "label": "Bhakti Movement",
+      "group": "EMP",
+      "cis": 34
+    },
+    {
+      "id": 42,
+      "label": "Sufism",
+      "group": "EMP",
+      "cis": 147
+    },
+    {
+      "id": 43,
+      "label": "Guru Nanak",
+      "group": "EMP",
+      "cis": 30
+    },
+    {
+      "id": 44,
+      "label": "Mughal Empire",
+      "group": "EMP",
+      "cis": 125
+    },
+    {
+      "id": 45,
+      "label": "Akbar",
+      "group": "EMP",
+      "cis": 2
+    },
+    {
+      "id": 46,
+      "label": "Indo-Persian Culture",
+      "group": "EMP",
+      "cis": 103
+    },
+    {
+      "id": 47,
+      "label": "Taj Mahal",
+      "group": "EMP",
+      "cis": 2
+    },
+    {
+      "id": 48,
+      "label": "Maratha Empire",
+      "group": "EMP",
+      "cis": 1
+    },
+    {
+      "id": 49,
+      "label": "Durrani Empire",
+      "group": "EMP",
+      "cis": 14
+    },
+    {
+      "id": 50,
+      "label": "European Traders",
+      "group": "EMP",
+      "cis": 238
+    },
+    {
+      "id": 51,
+      "label": "East India Company",
+      "group": "EMP",
+      "cis": 236
+    },
+    {
+      "id": 52,
+      "label": "Battle of Plassey",
+      "group": "MOD",
+      "cis": 235
+    },
+    {
+      "id": 53,
+      "label": "Revolt of 1857",
+      "group": "MOD",
+      "cis": 234
+    },
+    {
+      "id": 54,
+      "label": "British Raj",
+      "group": "MOD",
+      "cis": 233
+    },
+    {
+      "id": 55,
+      "label": "Princely States",
+      "group": "MOD",
+      "cis": 2
+    },
+    {
+      "id": 56,
+      "label": "Anglo-Afghan Wars",
+      "group": "MOD",
+      "cis": 7
+    },
+    {
+      "id": 57,
+      "label": "Bengal Famine of 1943",
+      "group": "MOD",
+      "cis": 1
+    },
+    {
+      "id": 58,
+      "label": "Indian National Congress",
+      "group": "MOD",
+      "cis": 86
+    },
+    {
+      "id": 59,
+      "label": "All-India Muslim League",
+      "group": "MOD",
+      "cis": 106
+    },
+    {
+      "id": 60,
+      "label": "Mahatma Gandhi",
+      "group": "MOD",
+      "cis": 3
+    },
+    {
+      "id": 61,
+      "label": "Satyagraha",
+      "group": "MOD",
+      "cis": 2
+    },
+    {
+      "id": 62,
+      "label": "B. R. Ambedkar",
+      "group": "MOD",
+      "cis": 10
+    },
+    {
+      "id": 63,
+      "label": "Muhammad Ali Jinnah",
+      "group": "MOD",
+      "cis": 23
+    },
+    {
+      "id": 64,
+      "label": "Partition of 1947",
+      "group": "MOD",
+      "cis": 82
+    },
+    {
+      "id": 65,
+      "label": "Radcliffe Line",
+      "group": "MOD",
+      "cis": 35
+    },
+    {
+      "id": 66,
+      "label": "Partition Migration",
+      "group": "MOD",
+      "cis": 34
+    },
+    {
+      "id": 67,
+      "label": "Kashmir Dispute",
+      "group": "MOD",
+      "cis": 1
+    },
+    {
+      "id": 68,
+      "label": "Sri Lankan Independence",
+      "group": "MOD",
+      "cis": 9
+    },
+    {
+      "id": 69,
+      "label": "Language Movement of 1952",
+      "group": "MOD",
+      "cis": 7
+    },
+    {
+      "id": 70,
+      "label": "Bangladesh Liberation War",
+      "group": "MOD",
+      "cis": 5
+    },
+    {
+      "id": 71,
+      "label": "Hinduism",
+      "group": "FAITH",
+      "cis": 84
+    },
+    {
+      "id": 72,
+      "label": "Dharma",
+      "group": "FAITH",
+      "cis": 27
+    },
+    {
+      "id": 73,
+      "label": "Karma and Rebirth",
+      "group": "FAITH",
+      "cis": 25
+    },
+    {
+      "id": 74,
+      "label": "Puja",
+      "group": "FAITH",
+      "cis": 9
+    },
+    {
+      "id": 75,
+      "label": "Buddhism",
+      "group": "FAITH",
+      "cis": 17
+    },
+    {
+      "id": 76,
+      "label": "Theravada and Vajrayana",
+      "group": "FAITH",
+      "cis": 7
+    },
+    {
+      "id": 77,
+      "label": "Jainism",
+      "group": "FAITH",
+      "cis": 6
+    },
+    {
+      "id": 78,
+      "label": "Ahimsa",
+      "group": "FAITH",
+      "cis": 5
+    },
+    {
+      "id": 79,
+      "label": "Islam in South Asia",
+      "group": "FAITH",
+      "cis": 28
+    },
+    {
+      "id": 80,
+      "label": "Sunni and Shia Islam",
+      "group": "FAITH",
+      "cis": 2
+    },
+    {
+      "id": 81,
+      "label": "Sikhism",
+      "group": "FAITH",
+      "cis": 28
+    },
+    {
+      "id": 82,
+      "label": "Guru Granth Sahib",
+      "group": "FAITH",
+      "cis": 2
+    },
+    {
+      "id": 83,
+      "label": "Langar",
+      "group": "FAITH",
+      "cis": 1
+    },
+    {
+      "id": 84,
+      "label": "Christianity in South Asia",
+      "group": "FAITH",
+      "cis": 2
+    },
+    {
+      "id": 85,
+      "label": "Zoroastrians (Parsis)",
+      "group": "FAITH",
+      "cis": 1
+    },
+    {
+      "id": 86,
+      "label": "Jewish Communities",
+      "group": "FAITH",
+      "cis": 1
+    },
+    {
+      "id": 87,
+      "label": "Pilgrimage",
+      "group": "FAITH",
+      "cis": 2
+    },
+    {
+      "id": 88,
+      "label": "Religious Pluralism",
+      "group": "FAITH",
+      "cis": 2
+    },
+    {
+      "id": 89,
+      "label": "Language Family",
+      "group": "LANG",
+      "cis": 89
+    },
+    {
+      "id": 90,
+      "label": "Indo-Aryan Languages",
+      "group": "LANG",
+      "cis": 54
+    },
+    {
+      "id": 91,
+      "label": "Dravidian Languages",
+      "group": "LANG",
+      "cis": 9
+    },
+    {
+      "id": 92,
+      "label": "Tibeto-Burman Languages",
+      "group": "LANG",
+      "cis": 4
+    },
+    {
+      "id": 93,
+      "label": "Austroasiatic Languages",
+      "group": "LANG",
+      "cis": 2
+    },
+    {
+      "id": 94,
+      "label": "Iranian Languages",
+      "group": "LANG",
+      "cis": 5
+    },
+    {
+      "id": 95,
+      "label": "Eighth Schedule",
+      "group": "LANG",
+      "cis": 3
+    },
+    {
+      "id": 96,
+      "label": "Hindi-Urdu (Hindustani)",
+      "group": "LANG",
+      "cis": 39
+    },
+    {
+      "id": 97,
+      "label": "Bengali Language",
+      "group": "LANG",
+      "cis": 8
+    },
+    {
+      "id": 98,
+      "label": "Tamil Language",
+      "group": "LANG",
+      "cis": 4
+    },
+    {
+      "id": 99,
+      "label": "Brahmi Script",
+      "group": "LANG",
+      "cis": 15
+    },
+    {
+      "id": 100,
+      "label": "Abugida",
+      "group": "LANG",
+      "cis": 5
+    },
+    {
+      "id": 101,
+      "label": "Devanagari",
+      "group": "LANG",
+      "cis": 1
+    },
+    {
+      "id": 102,
+      "label": "Gurmukhi",
+      "group": "LANG",
+      "cis": 1
+    },
+    {
+      "id": 103,
+      "label": "Perso-Arabic Script",
+      "group": "LANG",
+      "cis": 7
+    },
+    {
+      "id": 104,
+      "label": "Code-Switching",
+      "group": "LANG",
+      "cis": 14
+    },
+    {
+      "id": 105,
+      "label": "Heritage Language",
+      "group": "LANG",
+      "cis": 13
+    },
+    {
+      "id": 106,
+      "label": "Lunisolar Calendar",
+      "group": "FEST",
+      "cis": 28
+    },
+    {
+      "id": 107,
+      "label": "Islamic Lunar Calendar",
+      "group": "FEST",
+      "cis": 9
+    },
+    {
+      "id": 108,
+      "label": "Diwali",
+      "group": "FEST",
+      "cis": 5
+    },
+    {
+      "id": 109,
+      "label": "Holi",
+      "group": "FEST",
+      "cis": 1
+    },
+    {
+      "id": 110,
+      "label": "Navaratri and Durga Puja",
+      "group": "FEST",
+      "cis": 3
+    },
+    {
+      "id": 111,
+      "label": "Dashain and Tihar",
+      "group": "FEST",
+      "cis": 1
+    },
+    {
+      "id": 112,
+      "label": "Ramadan",
+      "group": "FEST",
+      "cis": 5
+    },
+    {
+      "id": 113,
+      "label": "Eid al-Fitr",
+      "group": "FEST",
+      "cis": 4
+    },
+    {
+      "id": 114,
+      "label": "Eid al-Adha",
+      "group": "FEST",
+      "cis": 1
+    },
+    {
+      "id": 115,
+      "label": "Ashura",
+      "group": "FEST",
+      "cis": 1
+    },
+    {
+      "id": 116,
+      "label": "Vaisakhi",
+      "group": "FEST",
+      "cis": 12
+    },
+    {
+      "id": 117,
+      "label": "Pohela Boishakh",
+      "group": "FEST",
+      "cis": 1
+    },
+    {
+      "id": 118,
+      "label": "Pongal and Makar Sankranti",
+      "group": "FEST",
+      "cis": 2
+    },
+    {
+      "id": 119,
+      "label": "Onam",
+      "group": "FEST",
+      "cis": 1
+    },
+    {
+      "id": 120,
+      "label": "Vesak",
+      "group": "FEST",
+      "cis": 1
+    },
+    {
+      "id": 121,
+      "label": "Losar",
+      "group": "FEST",
+      "cis": 1
+    },
+    {
+      "id": 122,
+      "label": "Nowruz",
+      "group": "FEST",
+      "cis": 1
+    },
+    {
+      "id": 123,
+      "label": "Christmas in South Asia",
+      "group": "FEST",
+      "cis": 1
+    },
+    {
+      "id": 124,
+      "label": "Staple Grains",
+      "group": "FOOD",
+      "cis": 17
+    },
+    {
+      "id": 125,
+      "label": "Regional Cuisines",
+      "group": "FOOD",
+      "cis": 14
+    },
+    {
+      "id": 126,
+      "label": "Thali",
+      "group": "FOOD",
+      "cis": 12
+    },
+    {
+      "id": 127,
+      "label": "Masala",
+      "group": "FOOD",
+      "cis": 5
+    },
+    {
+      "id": 128,
+      "label": "Tadka",
+      "group": "FOOD",
+      "cis": 2
+    },
+    {
+      "id": 129,
+      "label": "Dal",
+      "group": "FOOD",
+      "cis": 1
+    },
+    {
+      "id": 130,
+      "label": "Roti and Naan",
+      "group": "FOOD",
+      "cis": 1
+    },
+    {
+      "id": 131,
+      "label": "Biryani",
+      "group": "FOOD",
+      "cis": 1
+    },
+    {
+      "id": 132,
+      "label": "Columbian Exchange",
+      "group": "FOOD",
+      "cis": 1
+    },
+    {
+      "id": 133,
+      "label": "Chai",
+      "group": "FOOD",
+      "cis": 1
+    },
+    {
+      "id": 134,
+      "label": "Street Food",
+      "group": "FOOD",
+      "cis": 1
+    },
+    {
+      "id": 135,
+      "label": "Mithai",
+      "group": "FOOD",
+      "cis": 1
+    },
+    {
+      "id": 136,
+      "label": "Dietary Rules and Faith",
+      "group": "FOOD",
+      "cis": 3
+    },
+    {
+      "id": 137,
+      "label": "Vegetarianism in South Asia",
+      "group": "FOOD",
+      "cis": 1
+    },
+    {
+      "id": 138,
+      "label": "Halal",
+      "group": "FOOD",
+      "cis": 1
+    },
+    {
+      "id": 139,
+      "label": "Eating With Hands",
+      "group": "FOOD",
+      "cis": 1
+    },
+    {
+      "id": 140,
+      "label": "Hospitality Customs",
+      "group": "FOOD",
+      "cis": 10
+    },
+    {
+      "id": 141,
+      "label": "Raga",
+      "group": "ARTS",
+      "cis": 118
+    },
+    {
+      "id": 142,
+      "label": "Tala",
+      "group": "ARTS",
+      "cis": 57
+    },
+    {
+      "id": 143,
+      "label": "Sargam",
+      "group": "ARTS",
+      "cis": 1
+    },
+    {
+      "id": 144,
+      "label": "Hindustani Music",
+      "group": "ARTS",
+      "cis": 42
+    },
+    {
+      "id": 145,
+      "label": "Carnatic Music",
+      "group": "ARTS",
+      "cis": 4
+    },
+    {
+      "id": 146,
+      "label": "Gharana",
+      "group": "ARTS",
+      "cis": 2
+    },
+    {
+      "id": 147,
+      "label": "Guru-Shishya Tradition",
+      "group": "ARTS",
+      "cis": 1
+    },
+    {
+      "id": 148,
+      "label": "Sitar",
+      "group": "ARTS",
+      "cis": 1
+    },
+    {
+      "id": 149,
+      "label": "Tabla",
+      "group": "ARTS",
+      "cis": 1
+    },
+    {
+      "id": 150,
+      "label": "Veena",
+      "group": "ARTS",
+      "cis": 1
+    },
+    {
+      "id": 151,
+      "label": "Qawwali",
+      "group": "ARTS",
+      "cis": 12
+    },
+    {
+      "id": 152,
+      "label": "Ghazal",
+      "group": "ARTS",
+      "cis": 2
+    },
+    {
+      "id": 153,
+      "label": "Baul Music",
+      "group": "ARTS",
+      "cis": 1
+    },
+    {
+      "id": 154,
+      "label": "Folk Music",
+      "group": "ARTS",
+      "cis": 51
+    },
+    {
+      "id": 155,
+      "label": "Bhangra",
+      "group": "ARTS",
+      "cis": 11
+    },
+    {
+      "id": 156,
+      "label": "Film Music (Filmi)",
+      "group": "ARTS",
+      "cis": 22
+    },
+    {
+      "id": 157,
+      "label": "Natya Shastra",
+      "group": "ARTS",
+      "cis": 13
+    },
+    {
+      "id": 158,
+      "label": "Rasa",
+      "group": "ARTS",
+      "cis": 1
+    },
+    {
+      "id": 159,
+      "label": "Mudra",
+      "group": "ARTS",
+      "cis": 1
+    },
+    {
+      "id": 160,
+      "label": "Classical Dance",
+      "group": "ARTS",
+      "cis": 9
+    },
+    {
+      "id": 161,
+      "label": "Bharatanatyam",
+      "group": "ARTS",
+      "cis": 1
+    },
+    {
+      "id": 162,
+      "label": "Kathak",
+      "group": "ARTS",
+      "cis": 1
+    },
+    {
+      "id": 163,
+      "label": "Odissi",
+      "group": "ARTS",
+      "cis": 1
+    },
+    {
+      "id": 164,
+      "label": "Kathakali",
+      "group": "ARTS",
+      "cis": 1
+    },
+    {
+      "id": 165,
+      "label": "Kuchipudi",
+      "group": "ARTS",
+      "cis": 1
+    },
+    {
+      "id": 166,
+      "label": "Manipuri Dance",
+      "group": "ARTS",
+      "cis": 1
+    },
+    {
+      "id": 167,
+      "label": "Mohiniyattam",
+      "group": "ARTS",
+      "cis": 1
+    },
+    {
+      "id": 168,
+      "label": "Sattriya",
+      "group": "ARTS",
+      "cis": 1
+    },
+    {
+      "id": 169,
+      "label": "Folk Dance",
+      "group": "ARTS",
+      "cis": 5
+    },
+    {
+      "id": 170,
+      "label": "Garba",
+      "group": "ARTS",
+      "cis": 1
+    },
+    {
+      "id": 171,
+      "label": "Kandyan Dance",
+      "group": "ARTS",
+      "cis": 1
+    },
+    {
+      "id": 172,
+      "label": "Attan",
+      "group": "ARTS",
+      "cis": 1
+    },
+    {
+      "id": 173,
+      "label": "Shadow Puppetry",
+      "group": "ARTS",
+      "cis": 1
+    },
+    {
+      "id": 174,
+      "label": "Stupa",
+      "group": "CRAFT",
+      "cis": 2
+    },
+    {
+      "id": 175,
+      "label": "Hindu Temple Architecture",
+      "group": "CRAFT",
+      "cis": 1
+    },
+    {
+      "id": 176,
+      "label": "Jali",
+      "group": "CRAFT",
+      "cis": 2
+    },
+    {
+      "id": 177,
+      "label": "Mughal Architecture",
+      "group": "CRAFT",
+      "cis": 1
+    },
+    {
+      "id": 178,
+      "label": "Calligraphy",
+      "group": "CRAFT",
+      "cis": 3
+    },
+    {
+      "id": 179,
+      "label": "Mughal Miniature Painting",
+      "group": "CRAFT",
+      "cis": 1
+    },
+    {
+      "id": 180,
+      "label": "Sigiriya",
+      "group": "CRAFT",
+      "cis": 1
+    },
+    {
+      "id": 181,
+      "label": "Thangka",
+      "group": "CRAFT",
+      "cis": 1
+    },
+    {
+      "id": 182,
+      "label": "Madhubani Painting",
+      "group": "CRAFT",
+      "cis": 1
+    },
+    {
+      "id": 183,
+      "label": "Rangoli",
+      "group": "CRAFT",
+      "cis": 2
+    },
+    {
+      "id": 184,
+      "label": "Kolam",
+      "group": "CRAFT",
+      "cis": 1
+    },
+    {
+      "id": 185,
+      "label": "Mehndi",
+      "group": "CRAFT",
+      "cis": 2
+    },
+    {
+      "id": 186,
+      "label": "Terracotta",
+      "group": "CRAFT",
+      "cis": 1
+    },
+    {
+      "id": 187,
+      "label": "Block Printing",
+      "group": "CRAFT",
+      "cis": 1
+    },
+    {
+      "id": 188,
+      "label": "Truck Art",
+      "group": "CRAFT",
+      "cis": 2
+    },
+    {
+      "id": 189,
+      "label": "Rickshaw Art",
+      "group": "CRAFT",
+      "cis": 1
+    },
+    {
+      "id": 190,
+      "label": "Cotton in South Asia",
+      "group": "CRAFT",
+      "cis": 14
+    },
+    {
+      "id": 191,
+      "label": "Silk Weaving",
+      "group": "CRAFT",
+      "cis": 5
+    },
+    {
+      "id": 192,
+      "label": "Jamdani",
+      "group": "CRAFT",
+      "cis": 1
+    },
+    {
+      "id": 193,
+      "label": "Ikat",
+      "group": "CRAFT",
+      "cis": 1
+    },
+    {
+      "id": 194,
+      "label": "Pashmina",
+      "group": "CRAFT",
+      "cis": 1
+    },
+    {
+      "id": 195,
+      "label": "Khadi",
+      "group": "CRAFT",
+      "cis": 1
+    },
+    {
+      "id": 196,
+      "label": "Saree",
+      "group": "CRAFT",
+      "cis": 2
+    },
+    {
+      "id": 197,
+      "label": "Dhoti",
+      "group": "CRAFT",
+      "cis": 1
+    },
+    {
+      "id": 198,
+      "label": "Lungi",
+      "group": "CRAFT",
+      "cis": 1
+    },
+    {
+      "id": 199,
+      "label": "Kurta",
+      "group": "CRAFT",
+      "cis": 3
+    },
+    {
+      "id": 200,
+      "label": "Shalwar Kameez",
+      "group": "CRAFT",
+      "cis": 2
+    },
+    {
+      "id": 201,
+      "label": "Dupatta",
+      "group": "CRAFT",
+      "cis": 1
+    },
+    {
+      "id": 202,
+      "label": "Gho and Kira",
+      "group": "CRAFT",
+      "cis": 1
+    },
+    {
+      "id": 203,
+      "label": "Turban (Dastar)",
+      "group": "CRAFT",
+      "cis": 2
+    },
+    {
+      "id": 204,
+      "label": "Bindi",
+      "group": "CRAFT",
+      "cis": 1
+    },
+    {
+      "id": 205,
+      "label": "Bangles",
+      "group": "CRAFT",
+      "cis": 1
+    },
+    {
+      "id": 206,
+      "label": "Joint Family",
+      "group": "SOC",
+      "cis": 17
+    },
+    {
+      "id": 207,
+      "label": "Kinship Terms",
+      "group": "SOC",
+      "cis": 3
+    },
+    {
+      "id": 208,
+      "label": "Respect for Elders",
+      "group": "SOC",
+      "cis": 9
+    },
+    {
+      "id": 209,
+      "label": "Naming Traditions",
+      "group": "SOC",
+      "cis": 2
+    },
+    {
+      "id": 210,
+      "label": "Surnames",
+      "group": "SOC",
+      "cis": 1
+    },
+    {
+      "id": 211,
+      "label": "Varna and Jati",
+      "group": "SOC",
+      "cis": 3
+    },
+    {
+      "id": 212,
+      "label": "Caste System",
+      "group": "SOC",
+      "cis": 2
+    },
+    {
+      "id": 213,
+      "label": "Caste Discrimination Laws",
+      "group": "SOC",
+      "cis": 1
+    },
+    {
+      "id": 214,
+      "label": "Life-Cycle Rituals",
+      "group": "SOC",
+      "cis": 8
+    },
+    {
+      "id": 215,
+      "label": "Coming-of-Age Rites",
+      "group": "SOC",
+      "cis": 1
+    },
+    {
+      "id": 216,
+      "label": "Weddings",
+      "group": "SOC",
+      "cis": 5
+    },
+    {
+      "id": 217,
+      "label": "Arranged Marriage",
+      "group": "SOC",
+      "cis": 1
+    },
+    {
+      "id": 218,
+      "label": "Mehndi Night and Sangeet",
+      "group": "SOC",
+      "cis": 1
+    },
+    {
+      "id": 219,
+      "label": "Nikah",
+      "group": "SOC",
+      "cis": 1
+    },
+    {
+      "id": 220,
+      "label": "Anand Karaj",
+      "group": "SOC",
+      "cis": 1
+    },
+    {
+      "id": 221,
+      "label": "Funeral Customs",
+      "group": "SOC",
+      "cis": 1
+    },
+    {
+      "id": 222,
+      "label": "Gender Roles and Change",
+      "group": "SOC",
+      "cis": 1
+    },
+    {
+      "id": 223,
+      "label": "Oral Tradition",
+      "group": "LIT",
+      "cis": 14
+    },
+    {
+      "id": 224,
+      "label": "Ramayana",
+      "group": "LIT",
+      "cis": 1
+    },
+    {
+      "id": 225,
+      "label": "Mahabharata",
+      "group": "LIT",
+      "cis": 2
+    },
+    {
+      "id": 226,
+      "label": "Bhagavad Gita",
+      "group": "LIT",
+      "cis": 1
+    },
+    {
+      "id": 227,
+      "label": "Jataka Tales",
+      "group": "LIT",
+      "cis": 1
+    },
+    {
+      "id": 228,
+      "label": "Panchatantra",
+      "group": "LIT",
+      "cis": 1
+    },
+    {
+      "id": 229,
+      "label": "Sangam Literature",
+      "group": "LIT",
+      "cis": 1
+    },
+    {
+      "id": 230,
+      "label": "Kalidasa",
+      "group": "LIT",
+      "cis": 1
+    },
+    {
+      "id": 231,
+      "label": "Kabir",
+      "group": "LIT",
+      "cis": 1
+    },
+    {
+      "id": 232,
+      "label": "Akbar and Birbal Tales",
+      "group": "LIT",
+      "cis": 1
+    },
+    {
+      "id": 233,
+      "label": "Mirza Ghalib",
+      "group": "LIT",
+      "cis": 1
+    },
+    {
+      "id": 234,
+      "label": "Rabindranath Tagore",
+      "group": "LIT",
+      "cis": 3
+    },
+    {
+      "id": 235,
+      "label": "Kazi Nazrul Islam",
+      "group": "LIT",
+      "cis": 1
+    },
+    {
+      "id": 236,
+      "label": "Allama Iqbal",
+      "group": "LIT",
+      "cis": 1
+    },
+    {
+      "id": 237,
+      "label": "Partition Literature",
+      "group": "LIT",
+      "cis": 2
+    },
+    {
+      "id": 238,
+      "label": "South Asian English Writing",
+      "group": "LIT",
+      "cis": 1
+    },
+    {
+      "id": 239,
+      "label": "Bollywood",
+      "group": "POP",
+      "cis": 20
+    },
+    {
+      "id": 240,
+      "label": "Regional Cinemas",
+      "group": "POP",
+      "cis": 11
+    },
+    {
+      "id": 241,
+      "label": "Satyajit Ray",
+      "group": "POP",
+      "cis": 1
+    },
+    {
+      "id": 242,
+      "label": "Pakistani Cinema",
+      "group": "POP",
+      "cis": 9
+    },
+    {
+      "id": 243,
+      "label": "Playback Singing",
+      "group": "POP",
+      "cis": 1
+    },
+    {
+      "id": 244,
+      "label": "Pakistani Dramas",
+      "group": "POP",
+      "cis": 8
+    },
+    {
+      "id": 245,
+      "label": "Coke Studio",
+      "group": "POP",
+      "cis": 11
+    },
+    {
+      "id": 246,
+      "label": "Global South Asian Pop",
+      "group": "POP",
+      "cis": 10
+    },
+    {
+      "id": 247,
+      "label": "Streaming Era",
+      "group": "POP",
+      "cis": 7
+    },
+    {
+      "id": 248,
+      "label": "Representation in Media",
+      "group": "POP",
+      "cis": 6
+    },
+    {
+      "id": 249,
+      "label": "Cricket",
+      "group": "POP",
+      "cis": 2
+    },
+    {
+      "id": 250,
+      "label": "India-Pakistan Rivalry",
+      "group": "POP",
+      "cis": 1
+    },
+    {
+      "id": 251,
+      "label": "Field Hockey",
+      "group": "POP",
+      "cis": 1
+    },
+    {
+      "id": 252,
+      "label": "Kabaddi",
+      "group": "POP",
+      "cis": 1
+    },
+    {
+      "id": 253,
+      "label": "Carrom",
+      "group": "POP",
+      "cis": 1
+    },
+    {
+      "id": 254,
+      "label": "Brahmi Numerals",
+      "group": "IDEA",
+      "cis": 9
+    },
+    {
+      "id": 255,
+      "label": "Place Value System",
+      "group": "IDEA",
+      "cis": 8
+    },
+    {
+      "id": 256,
+      "label": "Zero",
+      "group": "IDEA",
+      "cis": 4
+    },
+    {
+      "id": 257,
+      "label": "Aryabhata",
+      "group": "IDEA",
+      "cis": 3
+    },
+    {
+      "id": 258,
+      "label": "Brahmagupta",
+      "group": "IDEA",
+      "cis": 1
+    },
+    {
+      "id": 259,
+      "label": "Hindu-Arabic Numerals",
+      "group": "IDEA",
+      "cis": 2
+    },
+    {
+      "id": 260,
+      "label": "Al-Biruni",
+      "group": "IDEA",
+      "cis": 1
+    },
+    {
+      "id": 261,
+      "label": "Kerala School",
+      "group": "IDEA",
+      "cis": 2
+    },
+    {
+      "id": 262,
+      "label": "Panini's Grammar",
+      "group": "IDEA",
+      "cis": 1
+    },
+    {
+      "id": 263,
+      "label": "Ayurveda",
+      "group": "IDEA",
+      "cis": 3
+    },
+    {
+      "id": 264,
+      "label": "Sushruta Samhita",
+      "group": "IDEA",
+      "cis": 1
+    },
+    {
+      "id": 265,
+      "label": "Unani Medicine",
+      "group": "IDEA",
+      "cis": 1
+    },
+    {
+      "id": 266,
+      "label": "Yoga",
+      "group": "IDEA",
+      "cis": 1
+    },
+    {
+      "id": 267,
+      "label": "Chaturanga",
+      "group": "IDEA",
+      "cis": 1
+    },
+    {
+      "id": 268,
+      "label": "Wootz Steel",
+      "group": "IDEA",
+      "cis": 1
+    },
+    {
+      "id": 269,
+      "label": "Srinivasa Ramanujan",
+      "group": "IDEA",
+      "cis": 1
+    },
+    {
+      "id": 270,
+      "label": "C. V. Raman",
+      "group": "IDEA",
+      "cis": 2
+    },
+    {
+      "id": 271,
+      "label": "Republic of India",
+      "group": "NATION",
+      "cis": 15
+    },
+    {
+      "id": 272,
+      "label": "Constitution of India",
+      "group": "NATION",
+      "cis": 8
+    },
+    {
+      "id": 273,
+      "label": "Parliament of India",
+      "group": "NATION",
+      "cis": 2
+    },
+    {
+      "id": 274,
+      "label": "Elections in India",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 275,
+      "label": "New Delhi",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 276,
+      "label": "States and Union Territories",
+      "group": "NATION",
+      "cis": 5
+    },
+    {
+      "id": 277,
+      "label": "Linguistic States",
+      "group": "NATION",
+      "cis": 2
+    },
+    {
+      "id": 278,
+      "label": "Northeast India",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 279,
+      "label": "South India",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 280,
+      "label": "Adivasi Communities",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 281,
+      "label": "Unity in Diversity",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 282,
+      "label": "National Symbols of India",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 283,
+      "label": "Indian Economy",
+      "group": "NATION",
+      "cis": 3
+    },
+    {
+      "id": 284,
+      "label": "Indian Rupee",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 285,
+      "label": "ISRO",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 286,
+      "label": "Islamic Republic of Pakistan",
+      "group": "NATION",
+      "cis": 22
+    },
+    {
+      "id": 287,
+      "label": "Islamabad",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 288,
+      "label": "Provinces of Pakistan",
+      "group": "NATION",
+      "cis": 19
+    },
+    {
+      "id": 289,
+      "label": "Punjab Region",
+      "group": "NATION",
+      "cis": 13
+    },
+    {
+      "id": 290,
+      "label": "Lahore",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 291,
+      "label": "Sindh",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 292,
+      "label": "Khyber Pakhtunkhwa",
+      "group": "NATION",
+      "cis": 3
+    },
+    {
+      "id": 293,
+      "label": "Balochistan",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 294,
+      "label": "Urdu as National Language",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 295,
+      "label": "Afghanistan",
+      "group": "NATION",
+      "cis": 6
+    },
+    {
+      "id": 296,
+      "label": "Kabul",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 297,
+      "label": "Dari and Pashto",
+      "group": "NATION",
+      "cis": 2
+    },
+    {
+      "id": 298,
+      "label": "Pashtunwali",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 299,
+      "label": "Khyber Pass",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 300,
+      "label": "Buddhas of Bamiyan",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 301,
+      "label": "Afghan Carpets",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 302,
+      "label": "People's Republic of Bangladesh",
+      "group": "NATION",
+      "cis": 4
+    },
+    {
+      "id": 303,
+      "label": "Dhaka",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 304,
+      "label": "Bengal Delta",
+      "group": "NATION",
+      "cis": 3
+    },
+    {
+      "id": 305,
+      "label": "Sundarbans",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 306,
+      "label": "Rivers and Floods",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 307,
+      "label": "Ekushey February",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 308,
+      "label": "Garment Industry",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 309,
+      "label": "Microfinance",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 310,
+      "label": "Sri Lanka",
+      "group": "NATION",
+      "cis": 8
+    },
+    {
+      "id": 311,
+      "label": "Colombo",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 312,
+      "label": "Anuradhapura",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 313,
+      "label": "Sinhala Language",
+      "group": "NATION",
+      "cis": 2
+    },
+    {
+      "id": 314,
+      "label": "Sri Lankan Tamils",
+      "group": "NATION",
+      "cis": 2
+    },
+    {
+      "id": 315,
+      "label": "Sri Lankan Civil War",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 316,
+      "label": "Ceylon Tea",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 317,
+      "label": "Sri Pada (Adam's Peak)",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 318,
+      "label": "Nepal",
+      "group": "NATION",
+      "cis": 7
+    },
+    {
+      "id": 319,
+      "label": "Kathmandu Valley",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 320,
+      "label": "Mount Everest",
+      "group": "NATION",
+      "cis": 2
+    },
+    {
+      "id": 321,
+      "label": "Sherpa People",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 322,
+      "label": "Gurkhas",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 323,
+      "label": "Lumbini",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 324,
+      "label": "Nepal's Republic (2008)",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 325,
+      "label": "Bhutan",
+      "group": "NATION",
+      "cis": 4
+    },
+    {
+      "id": 326,
+      "label": "Dzongkha",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 327,
+      "label": "Dzong",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 328,
+      "label": "Gross National Happiness",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 329,
+      "label": "Maldives",
+      "group": "NATION",
+      "cis": 5
+    },
+    {
+      "id": 330,
+      "label": "Atolls",
+      "group": "NATION",
+      "cis": 2
+    },
+    {
+      "id": 331,
+      "label": "Mal\u00e9",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 332,
+      "label": "Dhivehi",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 333,
+      "label": "Sea-Level Rise",
+      "group": "NATION",
+      "cis": 1
+    },
+    {
+      "id": 334,
+      "label": "Diaspora",
+      "group": "DIAS",
+      "cis": 31
+    },
+    {
+      "id": 335,
+      "label": "Indentured Labor",
+      "group": "DIAS",
+      "cis": 2
+    },
+    {
+      "id": 336,
+      "label": "Indo-Caribbean Communities",
+      "group": "DIAS",
+      "cis": 1
+    },
+    {
+      "id": 337,
+      "label": "South Asians in East Africa",
+      "group": "DIAS",
+      "cis": 3
+    },
+    {
+      "id": 338,
+      "label": "Uganda Expulsion of 1972",
+      "group": "DIAS",
+      "cis": 2
+    },
+    {
+      "id": 339,
+      "label": "British South Asians",
+      "group": "DIAS",
+      "cis": 1
+    },
+    {
+      "id": 340,
+      "label": "Gulf Migrant Workers",
+      "group": "DIAS",
+      "cis": 4
+    },
+    {
+      "id": 341,
+      "label": "Remittances",
+      "group": "DIAS",
+      "cis": 3
+    },
+    {
+      "id": 342,
+      "label": "Punjabi Pioneers in California",
+      "group": "DIAS",
+      "cis": 11
+    },
+    {
+      "id": 343,
+      "label": "Bhagat Singh Thind Case",
+      "group": "DIAS",
+      "cis": 10
+    },
+    {
+      "id": 344,
+      "label": "Immigration Act of 1965",
+      "group": "DIAS",
+      "cis": 9
+    },
+    {
+      "id": 345,
+      "label": "South Asians in Minnesota",
+      "group": "DIAS",
+      "cis": 2
+    },
+    {
+      "id": 346,
+      "label": "Model Minority Myth",
+      "group": "DIAS",
+      "cis": 6
+    },
+    {
+      "id": 347,
+      "label": "Post-9/11 Backlash",
+      "group": "DIAS",
+      "cis": 1
+    },
+    {
+      "id": 348,
+      "label": "Desi Identity",
+      "group": "DIAS",
+      "cis": 9
+    },
+    {
+      "id": 349,
+      "label": "Transnational Families",
+      "group": "DIAS",
+      "cis": 2
+    },
+    {
+      "id": 350,
+      "label": "Cultural Identity",
+      "group": "ID",
+      "cis": 8
+    },
+    {
+      "id": 351,
+      "label": "Hyphenated Identity",
+      "group": "ID",
+      "cis": 2
+    },
+    {
+      "id": 352,
+      "label": "Third Culture Kids",
+      "group": "ID",
+      "cis": 1
+    },
+    {
+      "id": 353,
+      "label": "Stereotypes",
+      "group": "ID",
+      "cis": 5
+    },
+    {
+      "id": 354,
+      "label": "Colorism",
+      "group": "ID",
+      "cis": 1
+    },
+    {
+      "id": 355,
+      "label": "Cultural Appropriation",
+      "group": "ID",
+      "cis": 5
+    },
+    {
+      "id": 356,
+      "label": "Cultural Appreciation",
+      "group": "ID",
+      "cis": 4
+    },
+    {
+      "id": 357,
+      "label": "Intergenerational Dialogue",
+      "group": "ID",
+      "cis": 8
+    },
+    {
+      "id": 358,
+      "label": "Oral History",
+      "group": "ID",
+      "cis": 7
+    },
+    {
+      "id": 359,
+      "label": "Informed Consent",
+      "group": "ID",
+      "cis": 1
+    },
+    {
+      "id": 360,
+      "label": "Active Listening",
+      "group": "ID",
+      "cis": 1
+    },
+    {
+      "id": 361,
+      "label": "Cultural Preservation",
+      "group": "ID",
+      "cis": 4
+    },
+    {
+      "id": 362,
+      "label": "Allyship",
+      "group": "ID",
+      "cis": 3
+    },
+    {
+      "id": 363,
+      "label": "Student Clubs",
+      "group": "ID",
+      "cis": 3
+    },
+    {
+      "id": 364,
+      "label": "Community Organizing",
+      "group": "ID",
+      "cis": 2
+    },
+    {
+      "id": 365,
+      "label": "Community Impact",
+      "group": "ID",
+      "cis": 1
+    },
+    {
+      "id": 366,
+      "label": "Transliteration",
+      "group": "LANG",
+      "cis": 2
+    },
+    {
+      "id": 367,
+      "label": "Phonetic Respelling",
+      "group": "LANG",
+      "cis": 1
+    },
+    {
+      "id": 368,
+      "label": "Calendar Conversion",
+      "group": "FEST",
+      "cis": 1
+    }
+  ],
+  "edges": [
+    {
+      "from": 2,
+      "to": 1
+    },
+    {
+      "from": 3,
+      "to": 1
+    },
+    {
+      "from": 4,
+      "to": 2
+    },
+    {
+      "from": 5,
+      "to": 4
+    },
+    {
+      "from": 6,
+      "to": 4
+    },
+    {
+      "from": 7,
+      "to": 4
+    },
+    {
+      "from": 8,
+      "to": 4
+    },
+    {
+      "from": 9,
+      "to": 6
+    },
+    {
+      "from": 9,
+      "to": 7
+    },
+    {
+      "from": 10,
+      "to": 2
+    },
+    {
+      "from": 11,
+      "to": 10
+    },
+    {
+      "from": 12,
+      "to": 2
+    },
+    {
+      "from": 13,
+      "to": 2
+    },
+    {
+      "from": 13,
+      "to": 4
+    },
+    {
+      "from": 14,
+      "to": 2
+    },
+    {
+      "from": 15,
+      "to": 2
+    },
+    {
+      "from": 16,
+      "to": 1
+    },
+    {
+      "from": 16,
+      "to": 3
+    },
+    {
+      "from": 17,
+      "to": 16
+    },
+    {
+      "from": 17,
+      "to": 13
+    },
+    {
+      "from": 18,
+      "to": 6
+    },
+    {
+      "from": 19,
+      "to": 18
+    },
+    {
+      "from": 19,
+      "to": 6
+    },
+    {
+      "from": 20,
+      "to": 19
+    },
+    {
+      "from": 21,
+      "to": 19
+    },
+    {
+      "from": 22,
+      "to": 19
+    },
+    {
+      "from": 23,
+      "to": 22
+    },
+    {
+      "from": 23,
+      "to": 9
+    },
+    {
+      "from": 24,
+      "to": 23
+    },
+    {
+      "from": 25,
+      "to": 24
+    },
+    {
+      "from": 26,
+      "to": 23
+    },
+    {
+      "from": 26,
+      "to": 7
+    },
+    {
+      "from": 27,
+      "to": 26
+    },
+    {
+      "from": 28,
+      "to": 26
+    },
+    {
+      "from": 29,
+      "to": 28
+    },
+    {
+      "from": 29,
+      "to": 27
+    },
+    {
+      "from": 30,
+      "to": 29
+    },
+    {
+      "from": 31,
+      "to": 28
+    },
+    {
+      "from": 31,
+      "to": 5
+    },
+    {
+      "from": 32,
+      "to": 10
+    },
+    {
+      "from": 32,
+      "to": 28
+    },
+    {
+      "from": 33,
+      "to": 28
+    },
+    {
+      "from": 34,
+      "to": 33
+    },
+    {
+      "from": 34,
+      "to": 27
+    },
+    {
+      "from": 35,
+      "to": 15
+    },
+    {
+      "from": 35,
+      "to": 32
+    },
+    {
+      "from": 36,
+      "to": 35
+    },
+    {
+      "from": 36,
+      "to": 32
+    },
+    {
+      "from": 37,
+      "to": 35
+    },
+    {
+      "from": 37,
+      "to": 27
+    },
+    {
+      "from": 38,
+      "to": 35
+    },
+    {
+      "from": 39,
+      "to": 38
+    },
+    {
+      "from": 40,
+      "to": 39
+    },
+    {
+      "from": 40,
+      "to": 10
+    },
+    {
+      "from": 41,
+      "to": 33
+    },
+    {
+      "from": 42,
+      "to": 38
+    },
+    {
+      "from": 43,
+      "to": 41
+    },
+    {
+      "from": 43,
+      "to": 42
+    },
+    {
+      "from": 44,
+      "to": 39
+    },
+    {
+      "from": 45,
+      "to": 44
+    },
+    {
+      "from": 46,
+      "to": 44
+    },
+    {
+      "from": 46,
+      "to": 42
+    },
+    {
+      "from": 47,
+      "to": 44
+    },
+    {
+      "from": 47,
+      "to": 46
+    },
+    {
+      "from": 48,
+      "to": 44
+    },
+    {
+      "from": 49,
+      "to": 44
+    },
+    {
+      "from": 49,
+      "to": 5
+    },
+    {
+      "from": 50,
+      "to": 35
+    },
+    {
+      "from": 51,
+      "to": 50
+    },
+    {
+      "from": 52,
+      "to": 51
+    },
+    {
+      "from": 53,
+      "to": 52
+    },
+    {
+      "from": 54,
+      "to": 53
+    },
+    {
+      "from": 55,
+      "to": 54
+    },
+    {
+      "from": 56,
+      "to": 54
+    },
+    {
+      "from": 56,
+      "to": 49
+    },
+    {
+      "from": 57,
+      "to": 54
+    },
+    {
+      "from": 58,
+      "to": 54
+    },
+    {
+      "from": 59,
+      "to": 54
+    },
+    {
+      "from": 60,
+      "to": 58
+    },
+    {
+      "from": 61,
+      "to": 60
+    },
+    {
+      "from": 62,
+      "to": 54
+    },
+    {
+      "from": 63,
+      "to": 59
+    },
+    {
+      "from": 64,
+      "to": 58
+    },
+    {
+      "from": 64,
+      "to": 59
+    },
+    {
+      "from": 65,
+      "to": 64
+    },
+    {
+      "from": 66,
+      "to": 65
+    },
+    {
+      "from": 67,
+      "to": 64
+    },
+    {
+      "from": 67,
+      "to": 55
+    },
+    {
+      "from": 68,
+      "to": 54
+    },
+    {
+      "from": 68,
+      "to": 37
+    },
+    {
+      "from": 69,
+      "to": 64
+    },
+    {
+      "from": 70,
+      "to": 69
+    },
+    {
+      "from": 71,
+      "to": 24
+    },
+    {
+      "from": 72,
+      "to": 71
+    },
+    {
+      "from": 73,
+      "to": 72
+    },
+    {
+      "from": 74,
+      "to": 71
+    },
+    {
+      "from": 75,
+      "to": 27
+    },
+    {
+      "from": 75,
+      "to": 73
+    },
+    {
+      "from": 76,
+      "to": 75
+    },
+    {
+      "from": 77,
+      "to": 27
+    },
+    {
+      "from": 77,
+      "to": 73
+    },
+    {
+      "from": 78,
+      "to": 77
+    },
+    {
+      "from": 79,
+      "to": 38
+    },
+    {
+      "from": 80,
+      "to": 79
+    },
+    {
+      "from": 81,
+      "to": 43
+    },
+    {
+      "from": 82,
+      "to": 81
+    },
+    {
+      "from": 83,
+      "to": 81
+    },
+    {
+      "from": 84,
+      "to": 35
+    },
+    {
+      "from": 85,
+      "to": 35
+    },
+    {
+      "from": 86,
+      "to": 35
+    },
+    {
+      "from": 87,
+      "to": 71
+    },
+    {
+      "from": 87,
+      "to": 79
+    },
+    {
+      "from": 87,
+      "to": 75
+    },
+    {
+      "from": 88,
+      "to": 71
+    },
+    {
+      "from": 88,
+      "to": 79
+    },
+    {
+      "from": 88,
+      "to": 81
+    },
+    {
+      "from": 88,
+      "to": 75
+    },
+    {
+      "from": 89,
+      "to": 17
+    },
+    {
+      "from": 90,
+      "to": 89
+    },
+    {
+      "from": 90,
+      "to": 25
+    },
+    {
+      "from": 91,
+      "to": 89
+    },
+    {
+      "from": 92,
+      "to": 89
+    },
+    {
+      "from": 93,
+      "to": 89
+    },
+    {
+      "from": 94,
+      "to": 89
+    },
+    {
+      "from": 95,
+      "to": 90
+    },
+    {
+      "from": 95,
+      "to": 91
+    },
+    {
+      "from": 96,
+      "to": 90
+    },
+    {
+      "from": 96,
+      "to": 46
+    },
+    {
+      "from": 97,
+      "to": 90
+    },
+    {
+      "from": 98,
+      "to": 91
+    },
+    {
+      "from": 98,
+      "to": 32
+    },
+    {
+      "from": 99,
+      "to": 30
+    },
+    {
+      "from": 100,
+      "to": 99
+    },
+    {
+      "from": 101,
+      "to": 100
+    },
+    {
+      "from": 102,
+      "to": 100
+    },
+    {
+      "from": 102,
+      "to": 43
+    },
+    {
+      "from": 103,
+      "to": 46
+    },
+    {
+      "from": 104,
+      "to": 96
+    },
+    {
+      "from": 105,
+      "to": 104
+    },
+    {
+      "from": 106,
+      "to": 71
+    },
+    {
+      "from": 107,
+      "to": 79
+    },
+    {
+      "from": 108,
+      "to": 106
+    },
+    {
+      "from": 108,
+      "to": 74
+    },
+    {
+      "from": 109,
+      "to": 106
+    },
+    {
+      "from": 110,
+      "to": 106
+    },
+    {
+      "from": 110,
+      "to": 74
+    },
+    {
+      "from": 111,
+      "to": 110
+    },
+    {
+      "from": 111,
+      "to": 108
+    },
+    {
+      "from": 112,
+      "to": 107
+    },
+    {
+      "from": 113,
+      "to": 112
+    },
+    {
+      "from": 114,
+      "to": 107
+    },
+    {
+      "from": 115,
+      "to": 107
+    },
+    {
+      "from": 115,
+      "to": 80
+    },
+    {
+      "from": 116,
+      "to": 81
+    },
+    {
+      "from": 116,
+      "to": 106
+    },
+    {
+      "from": 117,
+      "to": 97
+    },
+    {
+      "from": 117,
+      "to": 106
+    },
+    {
+      "from": 118,
+      "to": 106
+    },
+    {
+      "from": 119,
+      "to": 106
+    },
+    {
+      "from": 120,
+      "to": 75
+    },
+    {
+      "from": 120,
+      "to": 106
+    },
+    {
+      "from": 121,
+      "to": 76
+    },
+    {
+      "from": 122,
+      "to": 94
+    },
+    {
+      "from": 123,
+      "to": 84
+    },
+    {
+      "from": 124,
+      "to": 13
+    },
+    {
+      "from": 124,
+      "to": 9
+    },
+    {
+      "from": 125,
+      "to": 124
+    },
+    {
+      "from": 125,
+      "to": 17
+    },
+    {
+      "from": 126,
+      "to": 125
+    },
+    {
+      "from": 127,
+      "to": 35
+    },
+    {
+      "from": 128,
+      "to": 127
+    },
+    {
+      "from": 129,
+      "to": 128
+    },
+    {
+      "from": 129,
+      "to": 124
+    },
+    {
+      "from": 130,
+      "to": 124
+    },
+    {
+      "from": 131,
+      "to": 46
+    },
+    {
+      "from": 131,
+      "to": 127
+    },
+    {
+      "from": 132,
+      "to": 50
+    },
+    {
+      "from": 132,
+      "to": 127
+    },
+    {
+      "from": 133,
+      "to": 54
+    },
+    {
+      "from": 134,
+      "to": 125
+    },
+    {
+      "from": 135,
+      "to": 108
+    },
+    {
+      "from": 135,
+      "to": 113
+    },
+    {
+      "from": 136,
+      "to": 71
+    },
+    {
+      "from": 136,
+      "to": 79
+    },
+    {
+      "from": 136,
+      "to": 78
+    },
+    {
+      "from": 137,
+      "to": 136
+    },
+    {
+      "from": 138,
+      "to": 136
+    },
+    {
+      "from": 139,
+      "to": 126
+    },
+    {
+      "from": 140,
+      "to": 126
+    },
+    {
+      "from": 141,
+      "to": 24
+    },
+    {
+      "from": 142,
+      "to": 141
+    },
+    {
+      "from": 143,
+      "to": 141
+    },
+    {
+      "from": 144,
+      "to": 141
+    },
+    {
+      "from": 144,
+      "to": 142
+    },
+    {
+      "from": 144,
+      "to": 46
+    },
+    {
+      "from": 145,
+      "to": 141
+    },
+    {
+      "from": 145,
+      "to": 142
+    },
+    {
+      "from": 146,
+      "to": 144
+    },
+    {
+      "from": 147,
+      "to": 146
+    },
+    {
+      "from": 147,
+      "to": 145
+    },
+    {
+      "from": 148,
+      "to": 144
+    },
+    {
+      "from": 149,
+      "to": 144
+    },
+    {
+      "from": 149,
+      "to": 142
+    },
+    {
+      "from": 150,
+      "to": 145
+    },
+    {
+      "from": 151,
+      "to": 42
+    },
+    {
+      "from": 151,
+      "to": 144
+    },
+    {
+      "from": 152,
+      "to": 96
+    },
+    {
+      "from": 152,
+      "to": 144
+    },
+    {
+      "from": 153,
+      "to": 97
+    },
+    {
+      "from": 153,
+      "to": 41
+    },
+    {
+      "from": 154,
+      "to": 17
+    },
+    {
+      "from": 155,
+      "to": 154
+    },
+    {
+      "from": 155,
+      "to": 116
+    },
+    {
+      "from": 156,
+      "to": 144
+    },
+    {
+      "from": 156,
+      "to": 154
+    },
+    {
+      "from": 157,
+      "to": 25
+    },
+    {
+      "from": 157,
+      "to": 141
+    },
+    {
+      "from": 158,
+      "to": 157
+    },
+    {
+      "from": 159,
+      "to": 157
+    },
+    {
+      "from": 160,
+      "to": 157
+    },
+    {
+      "from": 160,
+      "to": 142
+    },
+    {
+      "from": 161,
+      "to": 160
+    },
+    {
+      "from": 161,
+      "to": 145
+    },
+    {
+      "from": 162,
+      "to": 160
+    },
+    {
+      "from": 162,
+      "to": 144
+    },
+    {
+      "from": 163,
+      "to": 160
+    },
+    {
+      "from": 164,
+      "to": 160
+    },
+    {
+      "from": 165,
+      "to": 160
+    },
+    {
+      "from": 166,
+      "to": 160
+    },
+    {
+      "from": 167,
+      "to": 160
+    },
+    {
+      "from": 168,
+      "to": 160
+    },
+    {
+      "from": 168,
+      "to": 41
+    },
+    {
+      "from": 169,
+      "to": 154
+    },
+    {
+      "from": 170,
+      "to": 169
+    },
+    {
+      "from": 170,
+      "to": 110
+    },
+    {
+      "from": 171,
+      "to": 169
+    },
+    {
+      "from": 171,
+      "to": 37
+    },
+    {
+      "from": 172,
+      "to": 169
+    },
+    {
+      "from": 173,
+      "to": 169
+    },
+    {
+      "from": 173,
+      "to": 157
+    },
+    {
+      "from": 174,
+      "to": 75
+    },
+    {
+      "from": 175,
+      "to": 71
+    },
+    {
+      "from": 175,
+      "to": 33
+    },
+    {
+      "from": 176,
+      "to": 46
+    },
+    {
+      "from": 177,
+      "to": 47
+    },
+    {
+      "from": 177,
+      "to": 176
+    },
+    {
+      "from": 178,
+      "to": 103
+    },
+    {
+      "from": 179,
+      "to": 44
+    },
+    {
+      "from": 179,
+      "to": 46
+    },
+    {
+      "from": 180,
+      "to": 37
+    },
+    {
+      "from": 181,
+      "to": 76
+    },
+    {
+      "from": 182,
+      "to": 71
+    },
+    {
+      "from": 182,
+      "to": 154
+    },
+    {
+      "from": 183,
+      "to": 108
+    },
+    {
+      "from": 184,
+      "to": 183
+    },
+    {
+      "from": 184,
+      "to": 118
+    },
+    {
+      "from": 185,
+      "to": 113
+    },
+    {
+      "from": 186,
+      "to": 19
+    },
+    {
+      "from": 187,
+      "to": 35
+    },
+    {
+      "from": 188,
+      "to": 178
+    },
+    {
+      "from": 189,
+      "to": 188
+    },
+    {
+      "from": 190,
+      "to": 19
+    },
+    {
+      "from": 190,
+      "to": 35
+    },
+    {
+      "from": 191,
+      "to": 190
+    },
+    {
+      "from": 192,
+      "to": 190
+    },
+    {
+      "from": 192,
+      "to": 97
+    },
+    {
+      "from": 193,
+      "to": 190
+    },
+    {
+      "from": 194,
+      "to": 4
+    },
+    {
+      "from": 194,
+      "to": 191
+    },
+    {
+      "from": 195,
+      "to": 190
+    },
+    {
+      "from": 195,
+      "to": 61
+    },
+    {
+      "from": 196,
+      "to": 191
+    },
+    {
+      "from": 196,
+      "to": 190
+    },
+    {
+      "from": 197,
+      "to": 190
+    },
+    {
+      "from": 198,
+      "to": 190
+    },
+    {
+      "from": 199,
+      "to": 46
+    },
+    {
+      "from": 200,
+      "to": 46
+    },
+    {
+      "from": 200,
+      "to": 199
+    },
+    {
+      "from": 201,
+      "to": 200
+    },
+    {
+      "from": 202,
+      "to": 191
+    },
+    {
+      "from": 203,
+      "to": 81
+    },
+    {
+      "from": 204,
+      "to": 71
+    },
+    {
+      "from": 205,
+      "to": 196
+    },
+    {
+      "from": 206,
+      "to": 17
+    },
+    {
+      "from": 207,
+      "to": 206
+    },
+    {
+      "from": 207,
+      "to": 89
+    },
+    {
+      "from": 208,
+      "to": 206
+    },
+    {
+      "from": 208,
+      "to": 140
+    },
+    {
+      "from": 209,
+      "to": 207
+    },
+    {
+      "from": 210,
+      "to": 209
+    },
+    {
+      "from": 211,
+      "to": 24
+    },
+    {
+      "from": 212,
+      "to": 211
+    },
+    {
+      "from": 213,
+      "to": 212
+    },
+    {
+      "from": 213,
+      "to": 62
+    },
+    {
+      "from": 214,
+      "to": 71
+    },
+    {
+      "from": 214,
+      "to": 79
+    },
+    {
+      "from": 214,
+      "to": 81
+    },
+    {
+      "from": 215,
+      "to": 214
+    },
+    {
+      "from": 216,
+      "to": 214
+    },
+    {
+      "from": 217,
+      "to": 216
+    },
+    {
+      "from": 217,
+      "to": 206
+    },
+    {
+      "from": 218,
+      "to": 216
+    },
+    {
+      "from": 218,
+      "to": 185
+    },
+    {
+      "from": 219,
+      "to": 216
+    },
+    {
+      "from": 219,
+      "to": 79
+    },
+    {
+      "from": 220,
+      "to": 216
+    },
+    {
+      "from": 220,
+      "to": 82
+    },
+    {
+      "from": 221,
+      "to": 214
+    },
+    {
+      "from": 221,
+      "to": 73
+    },
+    {
+      "from": 222,
+      "to": 206
+    },
+    {
+      "from": 223,
+      "to": 24
+    },
+    {
+      "from": 224,
+      "to": 223
+    },
+    {
+      "from": 224,
+      "to": 25
+    },
+    {
+      "from": 225,
+      "to": 223
+    },
+    {
+      "from": 225,
+      "to": 25
+    },
+    {
+      "from": 226,
+      "to": 225
+    },
+    {
+      "from": 226,
+      "to": 72
+    },
+    {
+      "from": 227,
+      "to": 75
+    },
+    {
+      "from": 227,
+      "to": 223
+    },
+    {
+      "from": 228,
+      "to": 223
+    },
+    {
+      "from": 228,
+      "to": 25
+    },
+    {
+      "from": 229,
+      "to": 32
+    },
+    {
+      "from": 229,
+      "to": 98
+    },
+    {
+      "from": 230,
+      "to": 25
+    },
+    {
+      "from": 230,
+      "to": 33
+    },
+    {
+      "from": 231,
+      "to": 41
+    },
+    {
+      "from": 231,
+      "to": 42
+    },
+    {
+      "from": 232,
+      "to": 45
+    },
+    {
+      "from": 232,
+      "to": 223
+    },
+    {
+      "from": 233,
+      "to": 152
+    },
+    {
+      "from": 234,
+      "to": 97
+    },
+    {
+      "from": 235,
+      "to": 97
+    },
+    {
+      "from": 235,
+      "to": 234
+    },
+    {
+      "from": 236,
+      "to": 96
+    },
+    {
+      "from": 236,
+      "to": 103
+    },
+    {
+      "from": 237,
+      "to": 66
+    },
+    {
+      "from": 238,
+      "to": 54
+    },
+    {
+      "from": 238,
+      "to": 237
+    },
+    {
+      "from": 239,
+      "to": 156
+    },
+    {
+      "from": 239,
+      "to": 96
+    },
+    {
+      "from": 240,
+      "to": 239
+    },
+    {
+      "from": 240,
+      "to": 89
+    },
+    {
+      "from": 241,
+      "to": 240
+    },
+    {
+      "from": 241,
+      "to": 234
+    },
+    {
+      "from": 242,
+      "to": 240
+    },
+    {
+      "from": 243,
+      "to": 156
+    },
+    {
+      "from": 243,
+      "to": 239
+    },
+    {
+      "from": 244,
+      "to": 242
+    },
+    {
+      "from": 245,
+      "to": 151
+    },
+    {
+      "from": 245,
+      "to": 154
+    },
+    {
+      "from": 246,
+      "to": 155
+    },
+    {
+      "from": 246,
+      "to": 245
+    },
+    {
+      "from": 247,
+      "to": 239
+    },
+    {
+      "from": 247,
+      "to": 244
+    },
+    {
+      "from": 248,
+      "to": 247
+    },
+    {
+      "from": 249,
+      "to": 54
+    },
+    {
+      "from": 250,
+      "to": 249
+    },
+    {
+      "from": 250,
+      "to": 64
+    },
+    {
+      "from": 251,
+      "to": 54
+    },
+    {
+      "from": 252,
+      "to": 17
+    },
+    {
+      "from": 253,
+      "to": 17
+    },
+    {
+      "from": 254,
+      "to": 99
+    },
+    {
+      "from": 255,
+      "to": 254
+    },
+    {
+      "from": 256,
+      "to": 255
+    },
+    {
+      "from": 257,
+      "to": 33
+    },
+    {
+      "from": 257,
+      "to": 255
+    },
+    {
+      "from": 258,
+      "to": 256
+    },
+    {
+      "from": 259,
+      "to": 256
+    },
+    {
+      "from": 259,
+      "to": 46
+    },
+    {
+      "from": 260,
+      "to": 259
+    },
+    {
+      "from": 261,
+      "to": 257
+    },
+    {
+      "from": 262,
+      "to": 25
+    },
+    {
+      "from": 263,
+      "to": 24
+    },
+    {
+      "from": 264,
+      "to": 263
+    },
+    {
+      "from": 265,
+      "to": 263
+    },
+    {
+      "from": 265,
+      "to": 46
+    },
+    {
+      "from": 266,
+      "to": 71
+    },
+    {
+      "from": 266,
+      "to": 78
+    },
+    {
+      "from": 267,
+      "to": 33
+    },
+    {
+      "from": 268,
+      "to": 35
+    },
+    {
+      "from": 269,
+      "to": 261
+    },
+    {
+      "from": 270,
+      "to": 54
+    },
+    {
+      "from": 271,
+      "to": 64
+    },
+    {
+      "from": 272,
+      "to": 271
+    },
+    {
+      "from": 272,
+      "to": 62
+    },
+    {
+      "from": 273,
+      "to": 272
+    },
+    {
+      "from": 274,
+      "to": 273
+    },
+    {
+      "from": 275,
+      "to": 271
+    },
+    {
+      "from": 276,
+      "to": 272
+    },
+    {
+      "from": 277,
+      "to": 276
+    },
+    {
+      "from": 277,
+      "to": 95
+    },
+    {
+      "from": 278,
+      "to": 276
+    },
+    {
+      "from": 278,
+      "to": 92
+    },
+    {
+      "from": 279,
+      "to": 276
+    },
+    {
+      "from": 279,
+      "to": 91
+    },
+    {
+      "from": 280,
+      "to": 93
+    },
+    {
+      "from": 280,
+      "to": 271
+    },
+    {
+      "from": 281,
+      "to": 277
+    },
+    {
+      "from": 281,
+      "to": 88
+    },
+    {
+      "from": 282,
+      "to": 271
+    },
+    {
+      "from": 283,
+      "to": 271
+    },
+    {
+      "from": 284,
+      "to": 283
+    },
+    {
+      "from": 285,
+      "to": 283
+    },
+    {
+      "from": 285,
+      "to": 270
+    },
+    {
+      "from": 286,
+      "to": 64
+    },
+    {
+      "from": 286,
+      "to": 63
+    },
+    {
+      "from": 287,
+      "to": 286
+    },
+    {
+      "from": 288,
+      "to": 286
+    },
+    {
+      "from": 289,
+      "to": 288
+    },
+    {
+      "from": 289,
+      "to": 6
+    },
+    {
+      "from": 290,
+      "to": 289
+    },
+    {
+      "from": 290,
+      "to": 44
+    },
+    {
+      "from": 291,
+      "to": 288
+    },
+    {
+      "from": 291,
+      "to": 19
+    },
+    {
+      "from": 292,
+      "to": 288
+    },
+    {
+      "from": 293,
+      "to": 288
+    },
+    {
+      "from": 293,
+      "to": 94
+    },
+    {
+      "from": 294,
+      "to": 96
+    },
+    {
+      "from": 294,
+      "to": 286
+    },
+    {
+      "from": 295,
+      "to": 49
+    },
+    {
+      "from": 295,
+      "to": 56
+    },
+    {
+      "from": 296,
+      "to": 295
+    },
+    {
+      "from": 297,
+      "to": 295
+    },
+    {
+      "from": 297,
+      "to": 94
+    },
+    {
+      "from": 298,
+      "to": 297
+    },
+    {
+      "from": 298,
+      "to": 292
+    },
+    {
+      "from": 299,
+      "to": 5
+    },
+    {
+      "from": 299,
+      "to": 292
+    },
+    {
+      "from": 300,
+      "to": 295
+    },
+    {
+      "from": 300,
+      "to": 31
+    },
+    {
+      "from": 301,
+      "to": 295
+    },
+    {
+      "from": 302,
+      "to": 70
+    },
+    {
+      "from": 303,
+      "to": 302
+    },
+    {
+      "from": 304,
+      "to": 8
+    },
+    {
+      "from": 304,
+      "to": 7
+    },
+    {
+      "from": 305,
+      "to": 304
+    },
+    {
+      "from": 306,
+      "to": 304
+    },
+    {
+      "from": 306,
+      "to": 13
+    },
+    {
+      "from": 307,
+      "to": 69
+    },
+    {
+      "from": 308,
+      "to": 302
+    },
+    {
+      "from": 308,
+      "to": 190
+    },
+    {
+      "from": 309,
+      "to": 302
+    },
+    {
+      "from": 310,
+      "to": 68
+    },
+    {
+      "from": 311,
+      "to": 310
+    },
+    {
+      "from": 312,
+      "to": 37
+    },
+    {
+      "from": 312,
+      "to": 174
+    },
+    {
+      "from": 313,
+      "to": 310
+    },
+    {
+      "from": 313,
+      "to": 90
+    },
+    {
+      "from": 314,
+      "to": 310
+    },
+    {
+      "from": 314,
+      "to": 98
+    },
+    {
+      "from": 315,
+      "to": 313
+    },
+    {
+      "from": 315,
+      "to": 314
+    },
+    {
+      "from": 316,
+      "to": 310
+    },
+    {
+      "from": 316,
+      "to": 54
+    },
+    {
+      "from": 317,
+      "to": 310
+    },
+    {
+      "from": 317,
+      "to": 87
+    },
+    {
+      "from": 318,
+      "to": 4
+    },
+    {
+      "from": 319,
+      "to": 318
+    },
+    {
+      "from": 320,
+      "to": 318
+    },
+    {
+      "from": 320,
+      "to": 4
+    },
+    {
+      "from": 321,
+      "to": 320
+    },
+    {
+      "from": 321,
+      "to": 92
+    },
+    {
+      "from": 322,
+      "to": 318
+    },
+    {
+      "from": 322,
+      "to": 54
+    },
+    {
+      "from": 323,
+      "to": 318
+    },
+    {
+      "from": 323,
+      "to": 75
+    },
+    {
+      "from": 324,
+      "to": 318
+    },
+    {
+      "from": 325,
+      "to": 4
+    },
+    {
+      "from": 325,
+      "to": 76
+    },
+    {
+      "from": 326,
+      "to": 325
+    },
+    {
+      "from": 326,
+      "to": 92
+    },
+    {
+      "from": 327,
+      "to": 325
+    },
+    {
+      "from": 328,
+      "to": 325
+    },
+    {
+      "from": 329,
+      "to": 15
+    },
+    {
+      "from": 330,
+      "to": 329
+    },
+    {
+      "from": 331,
+      "to": 329
+    },
+    {
+      "from": 332,
+      "to": 329
+    },
+    {
+      "from": 332,
+      "to": 90
+    },
+    {
+      "from": 333,
+      "to": 330
+    },
+    {
+      "from": 334,
+      "to": 17
+    },
+    {
+      "from": 334,
+      "to": 66
+    },
+    {
+      "from": 335,
+      "to": 334
+    },
+    {
+      "from": 335,
+      "to": 54
+    },
+    {
+      "from": 336,
+      "to": 335
+    },
+    {
+      "from": 337,
+      "to": 334
+    },
+    {
+      "from": 337,
+      "to": 35
+    },
+    {
+      "from": 338,
+      "to": 337
+    },
+    {
+      "from": 339,
+      "to": 334
+    },
+    {
+      "from": 339,
+      "to": 338
+    },
+    {
+      "from": 340,
+      "to": 334
+    },
+    {
+      "from": 341,
+      "to": 340
+    },
+    {
+      "from": 342,
+      "to": 334
+    },
+    {
+      "from": 342,
+      "to": 289
+    },
+    {
+      "from": 343,
+      "to": 342
+    },
+    {
+      "from": 344,
+      "to": 343
+    },
+    {
+      "from": 345,
+      "to": 344
+    },
+    {
+      "from": 346,
+      "to": 344
+    },
+    {
+      "from": 347,
+      "to": 345
+    },
+    {
+      "from": 347,
+      "to": 203
+    },
+    {
+      "from": 348,
+      "to": 334
+    },
+    {
+      "from": 348,
+      "to": 246
+    },
+    {
+      "from": 349,
+      "to": 341
+    },
+    {
+      "from": 349,
+      "to": 206
+    },
+    {
+      "from": 350,
+      "to": 348
+    },
+    {
+      "from": 351,
+      "to": 350
+    },
+    {
+      "from": 352,
+      "to": 351
+    },
+    {
+      "from": 352,
+      "to": 349
+    },
+    {
+      "from": 353,
+      "to": 346
+    },
+    {
+      "from": 353,
+      "to": 248
+    },
+    {
+      "from": 354,
+      "to": 353
+    },
+    {
+      "from": 355,
+      "to": 350
+    },
+    {
+      "from": 356,
+      "to": 355
+    },
+    {
+      "from": 357,
+      "to": 208
+    },
+    {
+      "from": 357,
+      "to": 105
+    },
+    {
+      "from": 358,
+      "to": 357
+    },
+    {
+      "from": 358,
+      "to": 223
+    },
+    {
+      "from": 359,
+      "to": 358
+    },
+    {
+      "from": 360,
+      "to": 358
+    },
+    {
+      "from": 361,
+      "to": 358
+    },
+    {
+      "from": 361,
+      "to": 105
+    },
+    {
+      "from": 362,
+      "to": 356
+    },
+    {
+      "from": 362,
+      "to": 353
+    },
+    {
+      "from": 363,
+      "to": 361
+    },
+    {
+      "from": 364,
+      "to": 363
+    },
+    {
+      "from": 364,
+      "to": 362
+    },
+    {
+      "from": 365,
+      "to": 364
+    },
+    {
+      "from": 366,
+      "to": 100
+    },
+    {
+      "from": 366,
+      "to": 103
+    },
+    {
+      "from": 367,
+      "to": 366
+    },
+    {
+      "from": 368,
+      "to": 106
+    },
+    {
+      "from": 368,
+      "to": 107
+    }
+  ]
+}

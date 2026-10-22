@@ -1,0 +1,90 @@
+{
+  "title": "Festival Wheel",
+  "description": "A 12-month calendar wheel of South Asian festivals. A year slider (1990 to 2060) moves dates that are computed from the Moon's phases, showing that solar festivals stay fixed, lunisolar festivals shift within a season, and Islamic festivals move about 11 days earlier every Gregorian year.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-22",
+  "subject": [
+    "South Asian cultures",
+    "Festivals",
+    "Calendars",
+    "Lunar and solar years",
+    "World religions"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/south-asian-culture-textbook/sims/ch07-festival-wheel/",
+  "publisher": "Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, South Asian student club leaders",
+  "version": "1.0.0",
+  "chapter": "07-festivals",
+  "learningObjectives": [
+    "Explain why festivals on a solar calendar keep the same Gregorian date each year.",
+    "Explain why lunisolar festivals such as Diwali and Holi move by up to a month but stay in the same season.",
+    "Explain why Islamic festivals such as Eid al-Fitr move about 11 days earlier each Gregorian year and circle the whole year in about 33 years."
+  ],
+  "bloomLevel": [
+    "Understand"
+  ],
+  "concepts": [
+    "Lunisolar Calendar",
+    "Islamic Lunar Calendar",
+    "Diwali",
+    "Holi",
+    "Navaratri and Durga Puja",
+    "Dashain and Tihar",
+    "Ramadan",
+    "Eid al-Fitr",
+    "Eid al-Adha",
+    "Ashura",
+    "Vaisakhi",
+    "Pohela Boishakh",
+    "Pongal and Makar Sankranti",
+    "Onam",
+    "Vesak",
+    "Losar",
+    "Nowruz",
+    "Christmas in South Asia"
+  ],
+  "prerequisites": [
+    "Knowing that a year is one trip of the Earth around the Sun",
+    "Knowing that the Moon goes through phases (new moon to full moon and back) about once a month"
+  ],
+  "keyQuestions": [
+    "Why does Eid come about 11 days earlier every year?",
+    "Why do Diwali and Holi move around but never leave their season?",
+    "Which festivals keep the same date every year, and why?"
+  ],
+  "misconceptions": [
+    "All festivals that follow the moon move the same way.",
+    "Eid moves because people choose a new date each year.",
+    "A computed calendar date is always the date a community actually celebrates."
+  ],
+  "controls": [
+    "Play years / Pause button",
+    "Year slider (1990 to 2060)",
+    "Color by calendar type or faith menu",
+    "Festival menu",
+    "Show Islamic dates from the past 4 years checkbox",
+    "Click or tap a festival dot or label"
+  ],
+  "dataSources": [
+    "Jean Meeus, Astronomical Algorithms (2nd ed., 1998), chapter 49, phases of the Moon (algorithm used to compute new and full moons)",
+    "Government of India, Department of Personnel and Training, holidays for central government offices in 2026 (used to check computed dates): https://www.gconnect.in/news/holidays-to-be-observed-in-central-government-offices-during-the-year-2026.html"
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10"
+}

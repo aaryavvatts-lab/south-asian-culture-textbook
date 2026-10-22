@@ -1,0 +1,87 @@
+{
+  "title": "Region Explorer",
+  "description": "A schematic tile map of the eight countries of South Asia with the Hindu Kush, Himalaya, Western and Eastern Ghats, the Indus, Ganga and Brahmaputra rivers, and the surrounding seas. Learners click countries to see capitals, 2025 populations (World Bank) and main languages, and animate the southwest monsoon on its normal schedule from late May to about 8 July.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-22",
+  "subject": [
+    "South Asian cultures",
+    "Geography",
+    "South Asia",
+    "Monsoon",
+    "Mountains and rivers"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/south-asian-culture-textbook/sims/ch01-region-explorer/",
+  "publisher": "Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, South Asian student club leaders",
+  "version": "1.0.0",
+  "chapter": "01-what-is-south-asia",
+  "learningObjectives": [
+    "Locate the eight countries of South Asia on a schematic map.",
+    "Explain how the Himalaya, the Hindu Kush and the Ghats shape the region.",
+    "Explain how the southwest monsoon spreads across the region and why some areas, such as most of Afghanistan, stay dry."
+  ],
+  "bloomLevel": [
+    "Understand"
+  ],
+  "concepts": [
+    "South Asia",
+    "SAARC",
+    "Himalaya",
+    "Hindu Kush",
+    "Indus River",
+    "Ganges (Ganga) River",
+    "Brahmaputra River",
+    "Indo-Gangetic Plain",
+    "Deccan Plateau",
+    "Western and Eastern Ghats",
+    "Thar Desert",
+    "Monsoon",
+    "Bay of Bengal",
+    "Indian Ocean",
+    "Population of South Asia"
+  ],
+  "prerequisites": [
+    "Basic map reading (north, south, east, west)",
+    "Knowing that a country and a region are different things"
+  ],
+  "keyQuestions": [
+    "Which eight countries make up South Asia?",
+    "Where does the southwest monsoon arrive first, and where does it barely reach?",
+    "Why do so many people live on the river plains below the Himalaya?"
+  ],
+  "misconceptions": [
+    "South Asia is the same thing as India.",
+    "The Himalaya lies in a single country.",
+    "Monsoon means it rains all day, every day.",
+    "All of South Asia is hot all year."
+  ],
+  "controls": [
+    "Start monsoon / Pause button",
+    "Reset button",
+    "Country menu",
+    "Show mountains, rivers and seas checkbox",
+    "Click or tap a country tile"
+  ],
+  "dataSources": [
+    "World Bank, Population, total (SP.POP.TOTL), 2025: https://data.worldbank.org/indicator/SP.POP.TOTL",
+    "India Meteorological Department, Monsoon FAQ (normal onset over Kerala around 1 June; covers the country around 8 July): https://mausam.imd.gov.in/imd_latest/monsoonfaq.pdf"
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10"
+}

@@ -1,0 +1,17 @@
+---
+title: "References: Bring It Home"
+description: "Curated readings and sources for Chapter 22."
+---
+
+# References: Bring It Home
+
+1. [OHA Statement on Ethics](https://oralhistory.org/oha-statement-on-ethics/) - Oral History Association - The professional standard for oral history in the US: informed consent, the narrator's right to decline questions and review an interview, privacy, and archiving. Read this before your capstone interview.
+2. [Principles and Best Practices (revised 2018)](https://oralhistory.org/principles-and-best-practices-revised-2018/) - Oral History Association - The overview page that links the association's full guidance, including a document written for people being interviewed. Good for club officers who run Ask Your Elders nights.
+3. [AFC Plans to Enhance Resources for Higher Education](https://blogs.loc.gov/folklife/2020/09/afc-plans-to-enhance-resources-for-higher-education/) - Library of Congress, American Folklife Center (Folklife Today blog) - Points students and teachers to *Folklife and Fieldwork*, the Library of Congress's free step-by-step fieldwork guide in English and Spanish, and to other interview resources.
+4. [South Asian American Digital Archive](https://en.wikipedia.org/wiki/South_Asian_American_Digital_Archive) - Wikipedia - A short overview of SAADA, founded in 2008, and its First Days Project (2013), which collects immigrants' stories of their first days in the US. Use it as a starting point, then visit saada.org.
+5. [About The 1947 Partition Archive](https://www.1947partitionarchive.org/about) - The 1947 Partition Archive - Explains how volunteer "citizen historians" recorded more than 12,000 life stories of people who lived through Partition, and how anyone can train to record one.
+6. [Liberation War Museum](https://www.hurights.or.jp/archives/focus/section3/2021/09/liberation-war-museum.html) - Mofidul Hoque, HURIGHTS OSAKA *FOCUS* Vol. 105 (September 2021) - A founder-trustee of Dhaka's Liberation War Museum describes its mobile museum for schools and the 60,000-plus 1971 accounts that students collected from elders.
+7. [The Citizens Archive of Pakistan](https://citizensarchive.org/) - Citizens Archive of Pakistan - A Karachi-based nonprofit, founded in 2007, that runs an Oral History Project and reports more than 5,000 oral histories collected. Shows how a country-wide archive works.
+8. [Indians in the U.S. Fact Sheet](https://www.pewresearch.org/race-and-ethnicity/fact-sheet/asian-americans-indians-in-the-u-s/) - Pew Research Center - Population, language use and other data on Indian Americans, including the share who speak only English at home (2021-23 data). Pew has matching fact sheets for Pakistani, Bangladeshi, Sri Lankan and Nepalese Americans.
+9. [Why Hyphenation of Dual Heritage Terms Has Been a Point of Contention in Newsrooms](https://www.dailybruin.com/2019/04/26/the-copy-shop-why-hyphenation-of-dual-heritage-terms-has-been-a-point-of-contention-in-newsrooms) - Daily Bruin (UCLA student newspaper), April 2019 - A clear, student-written explainer on the history of the "hyphenated American" insult and the Associated Press's 2019 decision to drop the hyphen.
+10. [Third culture kid](https://en.wikipedia.org/wiki/Third_culture_kid) - Wikipedia - Explains Ruth Useem's term, its link to her research in India, and why second-generation immigrants are usually not counted as third culture kids. Follow its footnotes to the original research.

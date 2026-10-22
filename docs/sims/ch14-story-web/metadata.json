@@ -1,0 +1,90 @@
+{
+  "title": "Story Web",
+  "description": "A timeline network of thirty South Asian works and writers, from the Valmiki Ramayana and the Sangam poems to Heart Lamp (2025), colored by language group. Links show retellings, translations and responses, such as the Ramayana's Tamil, Bangla, Awadhi, Nepali and Javanese tellings and the Panchatantra's journey into Arabic as Kalila wa Dimna. Learners click works to read cards and filter by language.",
+  "creator": "Aaryav Sharma",
+  "date": "2026-10-22",
+  "subject": [
+    "South Asian cultures",
+    "Literature",
+    "Oral tradition",
+    "Epics and fables",
+    "Translation"
+  ],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contributor": [
+    "Claude Code"
+  ],
+  "identifier": "https://aaryavvatts-lab.github.io/south-asian-culture-textbook/sims/ch14-story-web/",
+  "publisher": "Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students",
+  "educationalLevel": "High School",
+  "gradeLevels": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "learningResourceType": "simulation",
+  "audience": "Students, Educators, South Asian student club leaders",
+  "version": "1.0.0",
+  "chapter": "14-stories-and-literature",
+  "learningObjectives": [
+    "Trace how the Ramayana was retold in Tamil, Bangla, Awadhi, Nepali and Javanese.",
+    "Trace how the Panchatantra traveled into Middle Persian and Arabic as Kalila wa Dimna.",
+    "Compare which languages and eras South Asian works come from, including writing in English and in translation."
+  ],
+  "bloomLevel": [
+    "Analyze"
+  ],
+  "concepts": [
+    "Oral Tradition",
+    "Ramayana",
+    "Mahabharata",
+    "Bhagavad Gita",
+    "Jataka Tales",
+    "Panchatantra",
+    "Sangam Literature",
+    "Kalidasa",
+    "Kabir",
+    "Akbar and Birbal Tales",
+    "Mirza Ghalib",
+    "Rabindranath Tagore",
+    "Kazi Nazrul Islam",
+    "Allama Iqbal",
+    "Partition Literature",
+    "South Asian English Writing"
+  ],
+  "prerequisites": [
+    "Knowing that an epic is a long story poem",
+    "Basic idea of translation from one language to another",
+    "The 1947 Partition (Chapter 4)"
+  ],
+  "keyQuestions": [
+    "Which Ramayana is the real one, if there are many tellings?",
+    "How did a Sanskrit book of animal fables reach the Arab world and Europe?",
+    "How can one poet belong to more than one country?"
+  ],
+  "misconceptions": [
+    "There is only one Ramayana.",
+    "South Asian literature is all religious.",
+    "Urdu poetry is only about love.",
+    "English writing is not real South Asian literature."
+  ],
+  "controls": [
+    "Click or tap a dot",
+    "Language filter menu",
+    "Show all links checkbox",
+    "Reset button"
+  ],
+  "dataSources": [
+    "UNESCO Intangible Cultural Heritage, Ramlila: https://ich.unesco.org/en/RL/ramlila-the-traditional-performance-of-the-ramayana-00110",
+    "Library of Congress, Kalila and Dimna manuscript: https://www.loc.gov/item/2021667224/",
+    "NobelPrize.org, Rabindranath Tagore facts: https://www.nobelprize.org/prizes/literature/1913/tagore/facts/",
+    "Chapter 14 fact log (dates and details of each work)"
+  ],
+  "library": "p5.js",
+  "libraryVersion": "1.11.10"
+}

@@ -1,0 +1,37 @@
+name: Request a sensitivity review
+description: Something feels one-sided, unfair, stereotyped, or disrespectful to a community, faith, country or language.
+title: "[Sensitivity] "
+labels: ["sensitivity"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Roots & Rivers tries to describe every community the way its own members would recognize. If a passage misses that, we want to know. Every request is read, and changes are logged on the Accuracy page.
+  - type: input
+    id: location
+    attributes:
+      label: Where is it?
+      placeholder: "Chapter 4, section 4.6"
+    validations:
+      required: true
+  - type: textarea
+    id: concern
+    attributes:
+      label: What feels wrong?
+      description: Quote the passage if you can, and tell us how it reads to you.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: How would you say it?
+      description: A suggested rewrite, or a source that tells the story from another perspective.
+  - type: dropdown
+    id: perspective
+    attributes:
+      label: Which perspective are you bringing? (optional)
+      options:
+        - Member of the community described
+        - Teacher or scholar
+        - Student or reader
+        - Prefer not to say

@@ -14,7 +14,7 @@ status: implemented
 
 ## About This MicroSim
 
-Nepal, Bhutan and the Maldives sit at opposite ends of South Asia's "staircase." This MicroSim draws a schematic elevation profile that starts at a low coral atoll in the Maldives (average ground about 1.5 m, highest natural point about 2.4 m), crosses the Indian Ocean, and climbs through Nepal's Terai plains (about 67 to 300 m), Kathmandu (about 1,400 m) and Bhutan's capital Thimphu (about 2,250 to 2,650 m) to the summit of Mount Everest (8,848.86 m, 2020 China-Nepal survey). The places are lined up as steps on one staircase, and horizontal distances are not to scale.
+Nepal, Bhutan and the Maldives sit at opposite ends of South Asia's "staircase." This MicroSim draws a schematic elevation profile that starts at a low coral atoll in the Maldives (average ground about 1.5 m, highest natural point about 2.4 m), crosses the Indian Ocean, and climbs through Nepal's Terai plains (about 59 to 300 m), Kathmandu (about 1,400 m) and Bhutan's capital Thimphu (about 2,250 to 2,650 m) to the summit of Mount Everest (8,848.86 m, 2020 China-Nepal survey). The places are lined up as steps on one staircase, and horizontal distances are not to scale.
 
 The sea-level slider raises the ocean by up to 2 m. On the mountain-scale panel, the sea line barely moves (the sim reports how many pixels). In the close-up below, a sample atoll island, shaped from the Maldives' average and highest elevations, floods as the sea rises, and the sim reports how much of the island's width lies below the new sea level. Optional bands show the IPCC's likely global sea-level rise by 2100: 0.28 to 0.55 m with very low emissions and 0.63 to 1.01 m with very high emissions (IPCC AR6, 2021).
 

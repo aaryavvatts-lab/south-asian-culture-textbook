@@ -100,7 +100,7 @@ Indo-Aryan languages are spoken by the largest number of people in the region. I
 
 ### Dravidian languages
 
-**Dravidian Languages** form a completely separate family, not related to Indo-European at all. The four big ones are Tamil, Telugu, Kannada and Malayalam, spoken by about 20% of India's people, mostly in the south. Tamil is also an official language of Sri Lanka, and Tamil-speaking communities live in Singapore, Malaysia and around the world. A Dravidian language even survives far to the northwest: **Brahui** is spoken mainly in Balochistan, Pakistan, and is usually written in Arabic script.
+**Dravidian Languages** form a completely separate family, not related to Indo-European at all. The four big ones are Tamil, Telugu, Kannada and Malayalam, spoken mostly in the south, and in 2011 the Dravidian family as a whole was the mother tongue of about 20% of India's people. Tamil is also an official language of Sri Lanka, and Tamil-speaking communities live in Singapore, Malaysia and around the world. A Dravidian language even survives far to the northwest: **Brahui** is spoken mainly in Balochistan, Pakistan, and is usually written in Arabic script.
 
 Dravidian languages have borrowed many words from Sanskrit over the centuries, especially for religion and learning, and Indo-Aryan languages have borrowed from Dravidian ones too. But their grammar and core vocabulary come from a different ancestor. That matters for one of the most common myths about South Asia, which we'll get to in Common Misconceptions.
 
@@ -151,7 +151,7 @@ Tamil is a good reminder that "South Asian languages" don't all come from Sanskr
 
 ## 6.6 Official Languages and the Eighth Schedule
 
-Every country in South Asia has to decide which languages its government, schools and courts will use. Here is how the eight countries handle it, in short:
+Every country in South Asia has to decide which languages its government, schools and courts will use. The eight countries handle it like this:
 
 | Country | Official or national language(s) | Script(s) |
 |---|---|---|
@@ -187,7 +187,7 @@ Brahmi changed slowly as scribes in different regions wrote it with different to
 - **Northern branch** (through the Gupta script): Devanagari and its close cousin Gujarati; Gurmukhi (through the Sharada script of Kashmir); Bengali-Assamese and Odia (through an eastern script called Gaudi); and Tibetan, which Bhutan uses for Dzongkha.
 - **Southern branches**: Kannada and Telugu (through the Kadamba script), and Tamil, Malayalam and Sinhala (through the Pallava and Grantha scripts).
 
-This is the surprising part: script families and language families are different trees. Telugu and Tamil are Dravidian languages, but their scripts are Brahmi's descendants, just like Hindi's. Sinhala is an Indo-Aryan language, but its rounded script grew up under strong influence from south Indian scripts. That's exactly the language-versus-script difference from Section 6.2.
+Script families and language families are different trees. Telugu and Tamil are Dravidian languages, but their scripts are Brahmi's descendants, just like Hindi's. Sinhala is an Indo-Aryan language, but its rounded script grew up under strong influence from south Indian scripts. That's exactly the language-versus-script difference from Section 6.2.
 
 ## 6.8 How an Abugida Works
 
@@ -226,7 +226,7 @@ Not every script in South Asia comes from Brahmi. A second family of scripts cam
 
 Much later, Arabic script, which also descends from Aramaic through older Semitic scripts, came to South Asia with Persian- and Arabic-speaking traders, scholars and rulers. Persian writers had already adapted it by adding letters, and South Asian writers added still more for sounds like the retroflex "ṭ" and "ḍ" that Arabic lacks.
 
-The **Perso-Arabic Script** is the Arabic script as adapted for Persian and then for many South Asian languages. Today it is used for Urdu, Pashto, Dari, Sindhi, Balochi, Kashmiri and Shahmukhi Punjabi, and for Brahui. It's written right to left. It works mostly as an **abjad**, a script that writes consonants and long vowels but usually leaves short vowels out. Readers fill them in from context, the way you can read "txt msgs" without vowels. Small optional marks can show the short vowels when needed, for example in children's books or the Qur'an. Urdu is usually written in Nastaliq, an elegant hanging style in which many words slope downward from right to left.
+The **Perso-Arabic Script** is the Arabic script as adapted for Persian and then for many South Asian languages. Today it is used for Urdu, Pashto, Dari, Sindhi, Balochi, Kashmiri and Shahmukhi Punjabi, and for Brahui. It's written right to left. It works mostly as an **abjad**, a script that writes consonants and long vowels but usually leaves short vowels out. Readers fill them in from context, the way you can read "txt msgs" without vowels. Small optional marks can show the short vowels when needed, for example in children's books or the Quran. Urdu is usually written in Nastaliq, an elegant hanging style in which many words slope downward from right to left.
 
 **Thaana**, the script of Dhivehi in the Maldives, has an unusual history. It is written right to left like Arabic, and its first nine letters were formed from Arabic numerals, while the next nine came from old Dhivehi numerals. Every vowel must be written, as a mark called a *fili* placed above or below the consonant, so Thaana sits somewhere between an abugida and a true alphabet. The oldest surviving Thaana writing, carved on the door posts of a mosque in the northern Maldives, is dated 1599, and over the following centuries Thaana replaced the older Maldivian script, Dives Akuru.
 

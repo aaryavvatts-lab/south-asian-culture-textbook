@@ -45,7 +45,7 @@ Between about 600 and 1800 CE, South Asia was shared by many powers at once: oce
 
 It's the second meeting of Prairie Ridge High School's South Asian Student Association. Zara Hossain has asked everyone to bring a photo of one old building from their family's home city. Ayesha Qureshi goes first. Her photo shows a huge red sandstone mosque with white marble domes. "This is the Badshahi Mosque in Lahore," she says. "My Dada calls Lahore 'the city of the Mughals.'"
 
-Arjun Reddy holds up his phone. It shows a square stone gateway with four tall minarets. "This is the Charminar in Hyderabad. My grandmother says Hyderabad was built by the Qutb Shahi sultans, not the Mughals." Zara shows a picture her Nanu sent from Bangladesh: a low brick mosque crowned with rows of small domes. "And this one is in Bagerhat. Nanu says it's from the Bengal Sultanate."
+Arjun Reddy holds up his phone. It shows a square stone monument with four big arches and four tall minarets. "This is the Charminar in Hyderabad. My grandmother says Hyderabad was built by the Qutb Shahi sultans, not the Mughals." Zara shows a picture her Nanu sent from Bangladesh: a low brick mosque crowned with rows of small domes. "And this one is in Bagerhat. Nanu says it's from the Bengal Sultanate."
 
 Ben Lindqvist has been writing names on the whiteboard: Mughals, Qutb Shahis, Bengal Sultanate. He stops, marker in the air. "Wait. If the Mughals ruled Lahore, who ruled Hyderabad and Bengal? Were these all the same empire with different names? How many empires *were* there?" That question is the whole chapter.
 
@@ -133,7 +133,7 @@ The **Delhi Sultanate** was a series of Muslim-ruled kingdoms based in Delhi tha
 4. Sayyid, 1414 to 1451
 5. Lodi, 1451 to 1526
 
-At various times the Sultanate covered parts of today's India, Pakistan, Bangladesh and southern Nepal. Its sultans fought off Mongol armies from Central Asia, built forts and mosques, and drew scholars, poets and soldiers from Persia and Central Asia. One of its rulers was a woman: **Razia Sultan**, who ruled from 1236 to 1240 and remains the only woman to have sat on the throne of Delhi. The 72.5 m (238 ft) Qutb Minar, a red sandstone tower in south Delhi begun in the early 1200s, is the Sultanate's best-known monument.
+At various times the Sultanate covered parts of today's India, Pakistan and Bangladesh. Its sultans fought off Mongol armies from Central Asia, built forts and mosques, and drew scholars, poets and soldiers from Persia and Central Asia. One of its rulers was a woman: **Razia Sultan**, who ruled from 1236 to 1240 and was the only woman ever to rule the Delhi Sultanate. The 72.5 m (238 ft) Qutb Minar, a red sandstone tower in south Delhi begun in the early 1200s, is the Sultanate's best-known monument.
 
 The Moroccan traveler Ibn Battuta reached the Indus in 1333 and worked as a judge in Delhi under Sultan Muhammad bin Tughluq. Later he sailed to the Maldives. His travel book is one of our best eyewitness sources for the 1300s, and it shows how connected the Muslim world, from North Africa to the Maldives, had become.
 
@@ -226,7 +226,7 @@ You can still see and hear Indo-Persian culture all around you:
 
 The most famous Mughal building is a tomb. The **Taj Mahal** is a white marble mausoleum (a large tomb) in Agra, built between about 1631 and 1648 by order of the emperor Shah Jahan in memory of his wife Mumtaz Mahal. The surrounding gardens, mosque and gateways were finished around 1653. Shah Jahan himself was later buried there beside her. UNESCO listed it as a World Heritage Site in 1983, calling it a jewel of Muslim art in India.
 
-Shah Jahan also built the Red Fort and the Jama Masjid in Delhi and added marble palaces to the fort in Lahore. Lahore's fort, started under Akbar in 1566, and the Shalamar Gardens are a UNESCO World Heritage Site in Pakistan. Shah Jahan's son, Aurangzeb, built the Badshahi Mosque opposite the fort between 1671 and 1673. That's the mosque in Ayesha's photo, and it's why her Dada calls Lahore "the city of the Mughals."
+Shah Jahan also built the Red Fort and the Jama Masjid in Delhi and added marble palaces to the fort in Lahore. Lahore's fort, rebuilt under Akbar starting in 1566, and the Shalamar Gardens are a UNESCO World Heritage Site in Pakistan. Shah Jahan's son, Aurangzeb, built the Badshahi Mosque opposite the fort between 1671 and 1673. That's the mosque in Ayesha's photo, and it's why her Dada calls Lahore "the city of the Mughals."
 
 ### Height and decline
 
@@ -428,7 +428,7 @@ Then press **Play** and watch the year line sweep across. Notice that new powers
 
 - Between about 600 and 1800, South Asia was shared by many powers at once. History in this period looks like parallel lanes, not a relay race.
 - Indian Ocean Trade, powered by the monsoon winds, linked South Asia's ports with Africa, Arabia and Southeast Asia, and carried goods, people and faiths, including early Islam.
-- In the south, the Chola Dynasty and the Vijayanagara Empire built great temples and cities. In Sri Lanka, Sinhala and Tamil kingdoms ruled side by side until the Kingdom of Kandy fell in 1815.
+- In the south, the Chola Dynasty and the Vijayanagara Empire built great temples and cities. In Sri Lanka, Sinhala and Tamil kingdoms ruled side by side for centuries, and the Kingdom of Kandy stayed independent until 1815.
 - The Delhi Sultanate (1206 to 1526) and the Mughal Empire (1526 to 1857) spread Indo-Persian Culture, from the Hindustani language to buildings like the Taj Mahal, a tomb built for Mumtaz Mahal.
 - The Bhakti Movement, Sufism and the teachings of Guru Nanak brought devotion to ordinary people in their own languages.
 - As the Mughal Empire weakened after 1707, the Maratha Empire and the Durrani Empire rose, and clashed at Panipat in 1761.

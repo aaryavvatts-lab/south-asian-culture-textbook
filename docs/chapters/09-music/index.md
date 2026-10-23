@@ -65,7 +65,7 @@ A cooking comparison helps. A scale is like a list of ingredients. A raga is mor
 
 Before you can talk about a raga, you need names for the notes. In South Asian music the seven basic notes are **sa, re, ga, ma, pa, dha, ni**, then sa again an octave higher. Singing the notes with these syllables is called **Sargam** (a word made from the first four: sa-re-ga-ma). It works a lot like "do, re, mi" in Western solfege, which you may know from music class or *The Sound of Music*. In the south, re is often called ri.
 
-There's one big difference from a piano keyboard. Sa isn't fixed to one pitch. The singer or main player chooses a comfortable note to be sa, and everything else is measured from it. Sa and pa (the fifth note) never change. The other five notes can each be lowered (komal, "soft") or, in the case of ma, raised (tivra, "sharp"), which gives twelve notes in all, the same twelve as in Western music.
+There's one big difference from a piano keyboard. Sa isn't fixed to one pitch. The singer or main player chooses a comfortable note to be sa, and everything else is measured from it. Sa and pa (the fifth note) never change. Four of the other notes (re, ga, dha and ni) can each be lowered (komal, "soft"), and ma can be raised (tivra, "sharp"), which gives twelve notes in all, the same twelve as in Western music.
 
 ### Raga: a melodic framework
 
@@ -100,7 +100,7 @@ In written notation, sam is marked **X**, khali is marked **0**, and the other c
 
 ### Four talas to count
 
-Here are four common talas. The first three are Hindustani; Adi tala is Carnatic. Read the "how to count" column out loud while clapping, and you'll be doing what millions of music students do every day.
+Here are four common talas. The first three are Hindustani; Adi tala is Carnatic. Read the "how to count" column out loud while clapping, the same way beginning music students are taught.
 
 | Tala | System | Beats | Sections | How to count it |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ Hindustani performances often give a lot of time to improvisation. A typical per
 
 A typical Carnatic concert has a singer, a violinist who follows and answers the singer, a mridangam (a double-headed drum made of jackfruit wood) and a drone. Improvisation happens too, inside and around the compositions. Chennai's December music season, which grew out of a music conference held in Madras in December 1927 (the Music Academy that runs it opened in 1928), now fills the city with hundreds of concerts every winter.
 
-The violin Zara saw came from Europe. Balaswami Dikshitar, a brother of the composer Muthuswami Dikshitar, heard Western orchestral music at Fort St. George in Madras (now Chennai) and pioneered the violin in Carnatic music. Players sit on the floor, rest the scroll on the foot, and tune the strings to sa and pa. Today the violin is so central to Carnatic music that most people there never think of it as a foreign instrument.
+The violin Zara saw came from Europe. Balaswami Dikshitar, a brother of the composer Muthuswami Dikshitar, heard Western orchestral music at Fort St. George in Madras (now Chennai) and pioneered the violin in Carnatic music. Players sit on the floor, rest the scroll on the foot, and tune the strings to sa and pa. Today the violin is so central to Carnatic music that many listeners no longer think of it as a foreign instrument.
 
 | | Hindustani Music | Carnatic Music |
 |---|---|---|
@@ -151,7 +151,7 @@ Hundreds of instruments are played across South Asia. Three of them have become 
 
 The **Sitar** (सितार, *si-TAAR*) is a long-necked plucked string instrument with a round gourd body. Its name comes from the Persian *sehtar*, "three strings," after a small Persian lute. A modern sitar has 18 to 21 strings: six or seven are played, and the rest are **sympathetic strings** that run under the frets and ring by themselves when the played strings sound the same notes. That's what gives the sitar its shimmering, buzzing sound. Its curved metal frets can be moved, and players pull the string sideways across them to bend a note smoothly, a technique called meend.
 
-The sitar is most closely linked with Ravi Shankar (1920-2012), a Bengali musician born in Benares (now Varanasi). In the 1960s he performed at the Monterey Pop Festival and Woodstock and taught George Harrison of the Beatles, who put the sitar on Beatles records. In early 1971 Shankar told Harrison about the millions of refugees who had fled the war in what is now Bangladesh, and together they organized the Concert for Bangladesh, held on 1 August 1971 at Madison Square Garden in New York, to raise money for them. Shankar received India's highest civilian honor, the Bharat Ratna, in 1999.
+The sitar is most closely linked with Ravi Shankar (1920-2012), a Bengali musician born in Benares (now Varanasi). In the 1960s he performed at the Monterey Pop Festival and Woodstock and taught George Harrison of the Beatles, who put the sitar on Beatles records. In 1971 Shankar told Harrison about the millions of refugees who had fled the war in what is now Bangladesh, and together they organized the Concert for Bangladesh, held on 1 August 1971 at Madison Square Garden in New York, to raise money for them. Shankar received India's highest civilian honor, the Bharat Ratna, in 1999.
 
 ### Tabla
 
@@ -204,7 +204,7 @@ The most famous Baul, Lalon (c. 1774-1890), lived near Kushtia in present-day Ba
 
 ## 9.9 Folk Music Across Eight Countries
 
-Classical music has stars and concert halls, but most South Asians grew up with **Folk Music**: songs and rhythms passed down in villages and communities, tied to work, seasons, weddings, festivals and faith, usually learned by ear and performed by ordinary people. Every region has its own, and folk music often feeds classical and film music too.
+Classical music has stars and concert halls, but many South Asians grew up with **Folk Music**: songs and rhythms passed down in villages and communities, tied to work, seasons, weddings, festivals and faith, usually learned by ear and performed by ordinary people. Every region has its own, and folk music often feeds classical and film music too.
 
 | Country | Folk tradition | What to listen for |
 |---|---|---|
@@ -227,11 +227,11 @@ Bhangra changed when it traveled. In the 1970s and 1980s, young Punjabis in Brit
 
 ## 9.10 Film Music and Music Today
 
-For many people in South Asia and the diaspora, "Indian music" or "Pakistani music" means film songs. **Film Music (Filmi)** (फ़िल्मी, *FILL-mee*) is the music written for South Asian movies, especially the song-and-dance numbers that are a key part of most films. Filmi borrows from everything: ragas, folk songs, qawwali, ghazal, Western pop, jazz, disco and hip-hop.
+For many people in South Asia and the diaspora, "Indian music" or "Pakistani music" means film songs. **Film Music (Filmi)** (फ़िल्मी, *FILL-mee*) is the music written for South Asian movies, especially the song-and-dance numbers that are a key part of many films. Filmi borrows from everything: ragas, folk songs, qawwali, ghazal, Western pop, jazz, disco and hip-hop.
 
 Filmi depends on the **playback singer**, because actors rarely sing their own songs. Instead, professional singers record them in a studio, and the actors lip-sync on screen. Playback singers can become as famous as movie stars. Lata Mangeshkar (1929-2022) recorded songs in dozens of languages over about seven decades and received the Bharat Ratna in 2001. Her sister Asha Bhosle, and singers like Mohammed Rafi and Kishore Kumar, are just as loved. Film industries in Mumbai (Hindi), Chennai (Tamil), Hyderabad (Telugu), Lahore (Punjabi and Urdu), Dhaka (Bangla) and elsewhere each have their own composers and stars. You'll read more about them in [Chapter 15](../15-cinema-cricket-pop-culture/index.md).
 
-Film music has also won the world's top awards. A. R. Rahman won two Academy Awards in 2009 for the score and the song "Jai Ho" from *Slumdog Millionaire*. In 2023, "Naatu Naatu" from the Telugu film *RRR*, composed by M. M. Keeravani, became the first song from an Indian film, and the first Asian song, to win the Academy Award for Best Original Song.
+Film music has also won the world's top awards. A. R. Rahman won two Academy Awards in 2009 for the score and the song "Jai Ho" from *Slumdog Millionaire*. In 2023, "Naatu Naatu" from the Telugu film *RRR*, composed by M. M. Keeravani, became the first song from an Indian film to win the Academy Award for Best Original Song.
 
 Not all popular music comes from films. Pakistan's television series *Coke Studio* pairs folk and classical singers with modern bands. Its 2022 song "Pasoori," sung by Ali Sethi and Shae Gill in Punjabi, was the most-streamed Pakistani song worldwide on Spotify that year and was hugely popular in India too. Bangladeshi rock bands, Nepali pop, Sri Lankan baila-pop and diaspora artists in the United States, Britain and Canada keep remixing the old sounds in new ways.
 
@@ -384,7 +384,7 @@ Then switch to **Rupak**. Before you press Start, predict: what will you do on b
 - Teentaal has 16 beats (wave on 9), Rupak 7 (starting on a wave), Dadra 6 and the Carnatic Adi tala 8.
 - Hindustani music (north) and Carnatic music (south) share roots but differ in instruments, emphasis and repertoire; both pass from teacher to student through the guru-shishya tradition, and in the north through gharanas.
 - The sitar, tabla and veena are classical icons, and instruments like the violin and harmonium show how traditions absorb new sounds.
-- Qawwali (Sufi devotion), ghazal (sung poetry) and Baul songs (Bengali mystic minstrels) express faith and love; every one of the eight countries has its own folk music, and bhangra went global from Punjab and Britain.
+- Qawwali (Sufi devotion), ghazal (sung poetry) and Baul songs (sung by wandering Bengali devotional singers) express faith and love; every one of the eight countries has its own folk music, and bhangra went global from Punjab and Britain.
 - Film music, sung by playback singers, is among the most widely heard music in the region, and it has won Academy Awards in 2009 and 2023.
 
 !!! mascot-celebration "You found beat one!"

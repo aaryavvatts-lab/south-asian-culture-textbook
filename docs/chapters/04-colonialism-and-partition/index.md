@@ -59,7 +59,7 @@ Zara laughs, then stops. She knows Bangladesh became independent in 1971. She ha
 
 Ben has a version of this in his own family history. For most of the 1800s, Norway was joined to Sweden under the Swedish king. In 1905 the union ended peacefully and Norway became fully independent. A Norwegian farmer who never left his farm went from one country to another without packing a bag.
 
-South Asia's borders changed in a similar way, but on a much larger scale and, in 1947 and 1971, with terrible violence. Here is the short version of what happened to the land around Nanu's mother's house:
+South Asia's borders changed in a similar way, but on a much larger scale and, in 1947 and 1971, with terrible violence. This is what happened to the land around Nanu's mother's house:
 
 | Year | What the area near Chattogram was part of |
 |---|---|
@@ -99,13 +99,13 @@ The **British Raj** (*Raj* means "rule" in Hindi-Urdu) is the name for direct ru
 
 ## 4.4 A Patchwork, Not a Single Colony
 
-On a map of "British India" from 1900, it can look like one solid block of British pink. It wasn't. The Raj was really a patchwork.
+On a map of "British India" from 1900, it can look like one solid block of British pink, but the Raj was a patchwork.
 
 ### The princely states
 
 **Princely States** were the hundreds of kingdoms inside British-controlled South Asia that kept their own Indian rulers (called maharajas, nawabs, nizams and other titles) but accepted British control over their defense and foreign relations through treaties. At the time Britain left, there were officially about 565 of them. Some were tiny, a few villages. Others were huge: Hyderabad, ruled by a Nizam, and Jammu and Kashmir, ruled by a Maharaja, were each larger than many European countries. In 1947, princely states covered about 40 percent of the land of pre-independence India and held about 23 percent of its people.
 
-That detail becomes very important in 1947, when every one of those princes had to decide what to do.
+That matters in 1947, when every one of those princes had to decide what to do.
 
 ### The neighbors Britain never fully ruled
 
@@ -121,7 +121,7 @@ Several of today's South Asian countries were never formally colonized, though B
 
 What did British rule mean for ordinary people? Historians still argue about the balance. The Raj built railways, universities and courts, but decisions were made in London, most people had no vote, and many historians argue that colonial policies drained wealth from the region and weakened older industries such as handloom weaving.
 
-One of the worst disasters of colonial rule was the famine in Bengal during the Second World War.
+One of the worst disasters of colonial rule came during the Second World War, in Bengal.
 
 The **Bengal Famine of 1943** was a famine in the province of Bengal (today's Bangladesh and the Indian state of West Bengal) and parts of neighboring Orissa (now Odisha) during the Second World War, when a very large number of people died of starvation and of diseases such as malaria that spread among people weakened by hunger. Estimates of the death toll vary widely, from about 800,000 to as many as 3.8 million. The economic historian Cormac Ó Gráda describes the scholarly consensus as about 2.1 million deaths.
 
@@ -136,7 +136,7 @@ Historians weigh these causes differently, but most agree that government decisi
 
 ## 4.6 Organizing for Freedom
 
-The movement to end British rule lasted about sixty years and took many forms, including petitions, marches, strikes and armed revolt. These were the main organizations and leaders.
+The movement to end British rule lasted about sixty years and took many forms, including petitions, marches, strikes and armed revolt. Two parties and a few leaders shaped it most.
 
 ### Two political parties
 
@@ -148,7 +148,7 @@ The **All-India Muslim League** was a political party founded in 1906 in Dhaka t
 
 **Mahatma Gandhi** (Mohandas Karamchand Gandhi, 1869 to 1948) was a lawyer from Porbandar, in present-day Gujarat, who became the most famous leader of the Indian independence movement by leading mass campaigns of nonviolent resistance. *Mahatma* is an honorific from Sanskrit meaning "great soul." Gandhi first developed his methods in South Africa, where he lived from 1893 and fought discrimination against Indians there. He returned to India in 1915 and soon became the leading figure in the Congress.
 
-Gandhi called his method **Satyagraha** (સત્યાગ્રહ, *SUT-yaa-gruh*), "holding firmly to truth" or "truth force": nonviolent resistance in which people openly refuse to obey unjust laws, accept the punishment, and try to win over their opponents rather than defeat them. The word comes from Gujarati, Gandhi's first language, combining *satya* (truth) and *agraha* (insistence).
+Gandhi called his method **Satyagraha** (સત્યાગ્રહ, *SUT-yaa-gruh*), "holding firmly to truth" or "truth force": nonviolent resistance in which people openly refuse to obey unjust laws, accept the punishment, and try to win over their opponents rather than defeat them. Gandhi chose the word in South Africa as a Gujarati name for his campaign (Gujarati was his first language), building it from *satya* (truth) and *agraha* (firmness, insistence).
 
 The most famous example is the Salt March. The British government held a monopoly on salt and taxed it, which hit the poorest people hardest. On 12 March 1930, Gandhi and 78 followers set out from his ashram near Ahmedabad and walked about 387 km (240 miles) to the seaside village of Dandi. Crowds joined along the way. On 6 April 1930, Gandhi picked up natural salt from the shore, breaking the law. Across India, people began making and selling salt, and tens of thousands were arrested.
 
@@ -195,7 +195,7 @@ The **Partition of 1947** was the division of British India into two independent
 Pakistan was created in two parts, with India in between:
 
 - **West Pakistan**, made up of Sindh, Baluchistan, the North-West Frontier Province and the western half of Punjab.
-- **East Pakistan** (first called East Bengal), made up of the eastern half of Bengal and the Sylhet district of Assam. It had more people than the western wing: about 44 million of Pakistan's 69 million people lived there, and most of them spoke Bangla.
+- **East Pakistan** (first called East Bengal), made up of the eastern half of Bengal and the Sylhet district of Assam. It had more people than the western wing: in Pakistan's first census, in 1951, about 42 million of its roughly 76 million people lived there, and most of them spoke Bangla.
 
 India was not created as a "Hindu country." Its leaders built a secular state, meaning it would not have an official religion, and many millions of Muslims stayed in India.
 
@@ -218,7 +218,7 @@ As the new borders became known and violence spread, huge numbers of people bega
 
 **Partition Migration** is the movement of millions of people across the new India-Pakistan borders in 1947 and the years after: Hindus and Sikhs moving into India, and Muslims moving into Pakistan. In Punjab, the migration was concentrated into a few terrible months. People traveled on foot in columns many kilometers long, on bullock carts and on overcrowded trains. In Bengal, the movement was slower and continued for years and even decades.
 
-Historians don't know the exact numbers, and the estimates differ. Here's what the sources say:
+Historians don't know the exact numbers, and the estimates differ:
 
 - **People displaced:** Stanford Libraries' Partition guide gives about 14 million refugees. A study based on census records (Bharadwaj, Khwaja and Mian, 2008) estimated about 14.5 million people arriving in the new countries and about 17.9 million leaving, which leaves about 3.4 million people unaccounted for. So a fair range is **about 14 million to 18 million people displaced**.
 - **Deaths:** Estimates range from **about 200,000 to 2 million** people killed. No one counted at the time, and many deaths were never recorded.
@@ -249,7 +249,7 @@ The **Kashmir Dispute** is the continuing disagreement, mainly between India and
 - **Pakistan's position:** the accession was not valid, the region's Muslim majority should have joined Pakistan, and the people of Kashmir should decide their future through a vote, as early United Nations resolutions called for.
 - **Many Kashmiris** have their own views, which differ from region to region and person to person: some favor India, some Pakistan, and some want independence or more self-rule.
 
-China also controls part of the wider Kashmir region, including Aksai Chin, which India claims. Today India controls roughly 55 percent of the region's land, Pakistan about 30 percent, and China about 15 percent. The dispute has led to several wars and much loss of life, and as of 2026 it remains unresolved. This book describes Kashmir as disputed and does not take a side, which is also why its maps never draw official borders.
+China also controls part of the wider Kashmir region, including Aksai Chin, which India claims. Today India controls roughly 55 percent of the region's land, Pakistan about 30 percent, and China about 15 percent. The dispute has led to several wars and much loss of life. In August 2019, India ended the special self-governing status of the part it administers and split it into two union territories, a move Pakistan rejected. In May 2025, after gunmen killed 26 people, most of them tourists, near Pahalgam in Indian-administered Kashmir, India and Pakistan exchanged missile and drone strikes for four days before agreeing to a ceasefire on 10 May. As of October 2026 the dispute remains unresolved. This book describes Kashmir as disputed and does not take a side, which is also why its maps never draw official borders.
 
 ## 4.9 Sri Lankan Independence
 

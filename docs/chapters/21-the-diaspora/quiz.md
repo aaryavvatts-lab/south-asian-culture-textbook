@@ -192,7 +192,7 @@ Balbir Singh Sodhi, a Sikh man, was killed on 15 September 2001 by an attacker w
 </div>
 
 ??? question "Show Answer"
-    The correct answer is **B**. Sodhi was targeted because of his turban and beard, even though he was not Muslim or Arab, which shows how attackers profiled people by appearance. Option A is wrong because Sikhs and other South Asians were also attacked, and FBI data show anti-Islamic incidents rose, not fell, from 28 in 2000 to 481 in 2001.
+    The correct answer is **B**. Sodhi was targeted because of his turban and beard, even though he was not Muslim or Arab, which shows how attackers profiled people by appearance. Option A is wrong because Sikhs and other South Asians were also attacked. Option C is wrong because FBI data show anti-Islamic incidents rose, not fell, from 28 in 2000 to 481 in 2001.
 
     **Concept Tested:** Post-9/11 Backlash
     **Bloom's Level:** Analyze

@@ -28,6 +28,7 @@ It is written for high school students: South Asian heritage teens who grew up w
 | Glossary terms | 368 |
 | FAQ | 90 questions |
 | Appendices | 3 (pronunciation and scripts, country fact sheets, festival calendar 2026-27) |
+| Interactive data charts | population, faiths by country, South Asian Americans |
 | Words | about 265,000 |
 
 Every chapter has a story with two fictional Minnesota sophomores, Zara and Ben; an interactive MicroSim; a **Whose Story?** box showing how different communities tell the same history; an **Ask Your Elders** interview guide; Myth/Reality pairs; practice questions; 12 exercises; a quiz; and references.
@@ -50,9 +51,22 @@ Every chapter has a story with two fictional Minnesota sophomores, Zara and Ben;
 - [Downloads](https://aaryavvatts-lab.github.io/south-asian-culture-textbook/downloads/): PDFs of every chapter and the full book.
 - `Materials/pilot-study/`: a consent-first pre/post study kit for measuring what readers learn.
 
-## How it's checked
+## How it was made
 
-Every chapter went through sourced writing, structural checks by script, an independent fact-check, an expert pass for nuance, balance and currency, and a plain-language edit verified by a fact-preservation script. Corrections are logged publicly on the [Accuracy and Corrections](https://aaryavvatts-lab.github.io/south-asian-culture-textbook/accuracy/) page. Found a mistake? Please [open an issue](https://github.com/aaryavvatts-lab/south-asian-culture-textbook/issues/new/choose).
+Aaryav Sharma created the book: chose its audience, scope and structure, wrote the rules every chapter follows (accuracy, fairness, no ranking of faiths or countries, disputed history presented as disputed), and reviewed the results. AI agents (Claude, running Dan McCreary's open intelligent-textbook framework) drafted the chapters and simulations and did most of the checking, under those rules. Every chapter then went through structural checks by script, an independent fact-check, an expert-standard pass for nuance, balance and currency, a plain-language edit verified by a fact-preservation script, and (in v1.1) a full specialist re-read. The full process is on [How This Book Was Made](https://aaryavvatts-lab.github.io/south-asian-culture-textbook/methods/), and every correction is logged on [Accuracy and Corrections](https://aaryavvatts-lab.github.io/south-asian-culture-textbook/accuracy/).
+
+## Impact
+
+The [Impact page](https://aaryavvatts-lab.github.io/south-asian-culture-textbook/impact/) shows live counts read from this repository's issue forms: classrooms and clubs using the book, stories shared, errors reported and expert reviewers. Nothing there is estimated. The first pilot, with the EVHS South Asian Student Association, is planned for the 2026-27 school year (see the [Roadmap](https://aaryavvatts-lab.github.io/south-asian-culture-textbook/roadmap/)).
+
+## Get involved
+
+- **Students:** record pronunciations, translate a chapter summary, share an Ask Your Elders story, or run a Club Kit session at your school.
+- **Teachers:** try one lesson and tell us how it went.
+- **Scholars:** review one chapter (about 30 minutes); reviewers are credited.
+- **Everyone:** report an error or request a sensitivity review.
+
+Details: [Get Involved](https://aaryavvatts-lab.github.io/south-asian-culture-textbook/get-involved/) · [open an issue](https://github.com/aaryavvatts-lab/south-asian-culture-textbook/issues/new/choose)
 
 ## Run it locally
 

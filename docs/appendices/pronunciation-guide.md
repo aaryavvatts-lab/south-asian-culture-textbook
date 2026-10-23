@@ -114,7 +114,7 @@ The table lists words from twelve languages, grouped by language. Every script s
 | mishti | মিষ্টি | *MISH-tee* | sweets | Bangla | [8](../chapters/08-food-and-the-table/index.md) |
 | bhat | ভাত | *BHAHT* | cooked rice | Bangla | [8](../chapters/08-food-and-the-table/index.md) |
 | golpo | গল্প | *GOL-po* | story | Bangla | [14](../chapters/14-stories-and-literature/index.md) |
-| Baul | বাউল | *BAH-ool* | wandering mystic singers | Bangla | [9](../chapters/09-music/index.md) |
+| Baul | বাউল | *BAH-ool* | wandering devotional singers | Bangla | [9](../chapters/09-music/index.md) |
 | Punjabi | ਪੰਜਾਬੀ | *pun-JAH-bee* | the Punjabi language | Punjabi | [6](../chapters/06-languages-and-scripts/index.md) |
 | Sat Sri Akal | ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ | *sut sree uh-KAHL* | a Sikh greeting | Punjabi | [5](../chapters/05-faiths-of-south-asia/index.md) |
 | gurdwara | ਗੁਰਦੁਆਰਾ | *gur-DWAH-rah* | Sikh place of worship | Punjabi | [5](../chapters/05-faiths-of-south-asia/index.md) |

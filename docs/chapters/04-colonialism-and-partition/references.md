@@ -23,4 +23,4 @@ description: "Curated readings and sources for Chapter 4."
 
 9. [Article 17: Abolition of Untouchability](https://www.constitutionofindia.net/articles/article-17-abolition-of-untouchability/) - Constitution of India (constitutionofindia.net) - The text of Article 17 and a summary of how the Constituent Assembly debated and adopted it in 1948, part of B. R. Ambedkar's legacy.
 
-10. [Kashmir conflict](https://en.wikipedia.org/wiki/Kashmir_conflict) - Wikipedia - A detailed overview of the dispute from 1947 to today, with the positions of India, Pakistan, China and Kashmiri groups. Use it as a starting point and follow its citations to primary sources.
+10. [India-Pakistan Conflict in Spring 2025](https://www.congress.gov/crs-product/IF13000) - Congressional Research Service (US Congress) - A short, neutral report on the April 2025 Pahalgam attack, the strikes India and Pakistan exchanged in May 2025, and the ceasefire of 10 May. It also gives background on relations between the two countries since 2019.

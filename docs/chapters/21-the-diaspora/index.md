@@ -48,7 +48,7 @@ It's a snowy Saturday, and Zara Hossain is at Ben Lindqvist's house for his gran
 
 Zara looks at the photo for a long time. She has heard bits of her own family's story: her parents grew up in Chattogram, Bangladesh, and moved to Minnesota in the 2000s, before she was born. But she has never asked the real questions. Why did they leave? Why Minnesota, of all places? Did they plan to stay forever?
 
-That night at dinner, Zara asks her mother, "Why did you and Abbu come here?" Her mother laughs, then gets quiet, then says, "That's a long story. Ask Nanu about her brother first. He went to England before any of us left." Zara realizes her family's move was not one trip but part of a chain of moves, across generations and continents. How did so many South Asian families end up scattered around the world, and why did they go where they went?
+That night at dinner, Zara asks her mother, "Why did you and Abbu come here?" Her mother laughs, then gets quiet, then says, "That's a long story. Ask Nanu about her brother first. He went to England before any of us left." Zara realizes her family's move was part of a chain of moves, across generations and continents. How did so many South Asian families end up scattered around the world, and why did they go where they went?
 
 ## 21.2 What Is a Diaspora?
 
@@ -98,7 +98,7 @@ Many recruits came from poor villages in what are now the Indian states of Uttar
 
 Most indentured workers never went back. They stayed, saved, bought land, built temples and mosques, and raised families. **Indo-Caribbean Communities** are the descendants of these South Asian migrants living in the Caribbean, especially in Guyana, Trinidad and Tobago, and Suriname, where they are the largest ethnic group. In Guyana's 2012 census about 40% of people were Indo-Guyanese, and in Trinidad and Tobago's 2011 census about 35% were of Indian descent.
 
-Indo-Caribbean culture is its own thing, not a copy of India. Over generations, families blended South Asian and Caribbean food, music, language and faith. Many Indo-Caribbeans are Hindu, many are Muslim and many are Christian. Trinidad marks Indian Arrival Day on 30 May.
+Indo-Caribbean culture grew in its own direction. Over generations, families blended South Asian and Caribbean food, music, language and faith. Many Indo-Caribbeans are Hindu, many are Muslim and many are Christian. Trinidad marks Indian Arrival Day on 30 May.
 
 Many Indo-Caribbean families have since moved again, especially to the New York area; since the 1960s a large community has grown in Richmond Hill, Queens, where a spring Phagwah (Holi) parade draws thousands of people each year. A person's family history might run from Bihar to Guyana to Queens. The same pattern happened in Fiji, where many Indo-Fijians left after coups in 1987, and in Mauritius and South Africa.
 
@@ -125,7 +125,7 @@ South Asians have lived in Britain for centuries. Sailors called *lascars*, many
 
 The big wave came after 1947. **British South Asians** are people in the United Kingdom with roots in South Asia, a community that grew sharply after independence when Britain needed workers to rebuild after World War II. As Commonwealth citizens, people from India and Pakistan could come fairly easily, and many did in the 1950s and 1960s:
 
-- **From Pakistan**, many came from Mirpur, in Pakistani-administered Kashmir, after the Mangla Dam, built in the 1960s, flooded villages and displaced tens of thousands. Others came from Punjab. Many worked in the textile mills of Lancashire and Yorkshire and in factories in the Midlands.
+- **From Pakistan**, many came from Mirpur, in Pakistani-administered Kashmir, especially after the Mangla Dam, built in the 1960s, flooded villages and displaced tens of thousands. Others came from Punjab. Many worked in the textile mills of Lancashire and Yorkshire and in factories in the Midlands.
 - **From India**, many came from Punjab and Gujarat, and others arrived later by way of East Africa, especially after the Uganda expulsion.
 - **From Bangladesh**, most came from the Sylhet region, with migration peaking in the 1970s. Many settled in East London's Tower Hamlets, around Brick Lane, and Sylheti families opened many of the restaurants Britons call "Indian."
 
@@ -143,7 +143,7 @@ British South Asians include members of Parliament, doctors, business owners, ar
 
 ## 21.6 The Gulf: Workers and Money Home
 
-In the 1970s, oil prices shot up and the countries of the Persian Gulf, such as Saudi Arabia, the United Arab Emirates (UAE), Kuwait, Qatar, Oman and Bahrain, became very rich very fast. They needed workers to build roads, airports, hospitals and whole new cities, and to staff homes, shops and offices.
+In the 1970s, oil prices shot up and the countries around the Gulf, such as Saudi Arabia, the United Arab Emirates (UAE), Kuwait, Qatar, Oman and Bahrain, became very rich very fast. They needed workers to build roads, airports, hospitals and whole new cities, and to staff homes, shops and offices.
 
 **Gulf Migrant Workers** are people from South Asia and other regions who go to work in the Gulf states, usually on temporary contracts, without the chance to become citizens. The wave started in the 1970s and has never stopped. Between 1972 and 1983, mass migration from the Indian state of Kerala to the Gulf was so large that it is called the "Kerala Gulf Boom." Workers also come in large numbers from Pakistan, Bangladesh, Nepal and Sri Lanka. Indians are the largest national group in the UAE.
 
@@ -170,7 +170,7 @@ You read in [Chapter 20](../20-nepal-bhutan-maldives/index.md) how important rem
 
 ### Punjabi Pioneers in California
 
-Many people think South Asians first came to the US in the 1960s. They didn't. **Punjabi Pioneers in California** were the South Asian men, mostly Sikhs from Punjab, who came to the US West Coast in the early 1900s to work in mills, on railways and on farms, and who later farmed in California's agricultural valleys.
+Many people think South Asians first came to the US in the 1960s, but they arrived more than half a century earlier. **Punjabi Pioneers in California** were the South Asian men, mostly Sikhs from Punjab, who came to the US West Coast in the early 1900s to work in mills, on railways and on farms, and who later farmed in California's agricultural valleys.
 
 They faced hostility from the start. On 4 September 1907, a mob in Bellingham, Washington, attacked and drove out South Asian mill workers. Newspapers called them "Hindus," even though most were Sikh. In 1912 the pioneers founded a gurdwara in Stockton, California, the first Sikh house of worship in the US. The Immigration Act of 1917 then created an "Asiatic Barred Zone" that banned new immigrants from British India, Afghanistan and much of Asia.
 
@@ -201,6 +201,8 @@ This is how big South Asian American communities were in 2023, according to Pew 
 | Sri Lankan | about 85,000 |
 | Bhutanese | about 20,000 |
 
+<div class="rr-chart" data-chart="usgroups"></div>
+
 Indian Americans are the second-largest Asian origin group in the US, about 21% of all Asian Americans. Most South Asian Americans are immigrants or children of immigrants: 66% of Indian Americans and 71% of Bangladeshi Americans were born abroad (2023, Pew).
 
 ### The Model Minority Myth
@@ -224,7 +226,7 @@ The myth causes harm in several ways. It makes struggling students feel invisibl
 
 After the terrorist attacks of 11 September 2001, many South Asian, Arab and Muslim Americans faced a wave of hatred. **Post-9/11 Backlash** refers to the hate crimes, harassment, profiling and discrimination aimed at people perceived as Muslim or Middle Eastern after the attacks, including many South Asians.
 
-The first killing reported as revenge for the attacks happened on 15 September 2001, in Mesa, Arizona. Balbir Singh Sodhi, a Sikh immigrant who owned a gas station, was shot and killed by a man who wanted revenge for 9/11 and who profiled him as an Arab Muslim because of his turban and beard. Sodhi was not Muslim, and he had nothing to do with the attacks, which shows how hatred lumped together people of different faiths and backgrounds. FBI data show that reported anti-Islamic hate crime incidents jumped from 28 in 2000 to 481 in 2001, and attacks on people because of their ethnicity, including South Asians, also rose sharply.
+The first killings reported as revenge for the attacks happened on 15 September 2001. In Mesa, Arizona, Balbir Singh Sodhi, a Sikh immigrant who owned a gas station, was shot and killed by a man who wanted revenge for 9/11 and who profiled him as an Arab Muslim because of his turban and beard. Sodhi was not Muslim, and he had nothing to do with the attacks; his killer lumped together people of different faiths and backgrounds. The same day, Waqar Hasan, a Muslim immigrant from Pakistan, was shot and killed in his store in Dallas, Texas. On 4 October the same gunman killed Vasudev Patel, a Hindu immigrant from India, at a gas station in nearby Mesquite. FBI data show that reported anti-Islamic hate crime incidents jumped from 28 in 2000 to 481 in 2001, and attacks on people because of their ethnicity, including South Asians, also rose sharply.
 
 Many communities responded by organizing. The Sikh Coalition, for example, was formed by volunteers on the night of 11 September 2001 to defend Sikh Americans' civil rights, and Sodhi's family later gave one of his turbans to the Smithsonian's 9/11 collection. Many teens today hear about this period from their parents, who remember changing how they dressed, or being stopped at airports again and again.
 
@@ -244,7 +246,7 @@ How many are there? The best source is the US Census Bureau's American Community
 | Afghan (listed by the Census as Central Asian) | 1,380 | ± 719 |
 | Bhutanese | 694 | ± 710 |
 
-Add the South Asian groups and you get about 64,000 people, a little over 1% of Minnesota's roughly 5.7 million residents (US Census Bureau, ACS 2020-2024, table B02018).
+Add the six South Asian rows (leaving out the Afghan row) and you get about 63,400. The same table counts a few hundred more people under "Sikh" and "Other South Asian," which brings the total to about 64,000, a little over 1% of Minnesota's roughly 5.7 million residents (US Census Bureau, ACS 2020-2024, table B02018).
 
 !!! mascot-tip "How to read a Census table"
     ![Mora giving a tip](../../img/mascot/tip.png){ class="mascot-admonition-img" }
@@ -266,7 +268,7 @@ But "desi" doesn't fit everyone the same way. Some Afghans, Nepalis, Sri Lankans
 
 **Transnational Families** are families whose members live in two or more countries but stay closely connected, sharing money, decisions, care and daily life across borders. Many South Asian diaspora families live this way. A grandmother in Dhaka joins dinner every night by video call. A cousin in Dubai sends money for a sister's wedding in Kerala. Parents in Minnesota debate whether to retire "back home." Teens spend summers with grandparents in Lahore or Kathmandu.
 
-Living across borders brings both strength and strain. Families keep languages and traditions alive, and they can help each other in a crisis. But they also miss weddings and funerals, worry about relatives far away, and sometimes feel they don't fully belong in either place. Zara feels that when she answers her Nanu in English. Many second-generation teens describe it as being "too South Asian" in one place and "too American" in the other, and then slowly building an identity that is fully both.
+Living across borders helps families and also strains them. Families keep languages and traditions alive, and they can help each other in a crisis. But they also miss weddings and funerals, worry about relatives far away, and sometimes feel they don't fully belong in either place. Zara feels that when she answers her Nanu in English. Many second-generation teens describe it as being "too South Asian" in one place and "too American" in the other, and then slowly building an identity that is fully both.
 
 Back at dinner, Zara's mother finally tells the story. Nanu's brother went to London in the 1970s and worked in a restaurant. Years later, he helped Zara's father get a student visa, and her parents chose Minnesota because a friend from Chattogram already lived here and said the schools were good. "So it was a chain," Zara says. "Everyone pulled the next person." Her mother nods. "That's how it always works."
 

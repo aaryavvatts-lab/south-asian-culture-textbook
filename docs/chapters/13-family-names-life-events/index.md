@@ -40,7 +40,7 @@ Family sits at the center of social life in much of South Asia, and you can hear
 
 !!! mascot-welcome "Who's Who at the Party?"
     ![Mora waving hello](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
-    Hi, I'm Mora! If you've ever stood at a family wedding or a dinner and had no idea what to call the aunt who just pinched your cheek, this chapter is for you. Knowing the right word for each relative, and the story behind your own name, is one of the easiest ways to feel at home in your family. And if your friends are South Asian, it will help you understand why their family events are so big.
+    Hi, I'm Mora! If you've ever stood at a family wedding or a dinner and had no idea what to call the aunt who just pinched your cheek, this chapter is for you. Knowing the right word for each relative, and the story behind your own name, is one of the easiest ways to feel at home in your family. And if your friends are South Asian, it will help you follow what's happening at their family events.
 
 ## 13.1 Four Uncles, One English Word
 
@@ -121,7 +121,7 @@ Ben's name is simple: a first name, Ben, and a family name, Lindqvist, which his
 - **Hindu families.** The Hindu naming ceremony, the **namakarana**, is one of the traditional samskaras (Section 13.6). Some families ask a priest or consult astrology for a lucky first sound for the name.
 - **Bengali families**, both Hindu and Muslim, often give a child two names: a "good name," ভালো নাম (*BHAA-lo naam*, "bhalo nam"), used at school and on documents, and a "call name," ডাক নাম (*DAAK naam*, "dak nam"), a nickname used at home. Zara has one too, but she only lets her family use it.
 - **Sherpa families** in Nepal, like Nima's, traditionally name a child after the day of the week the baby was born. Nima (also spelled Nyima, "sun") is the name for Sunday, Dawa for Monday, Mingma for Tuesday, Lhakpa for Wednesday, Phurba for Thursday, Pasang for Friday and Pemba for Saturday. That's why so many Sherpas share the same few names.
-- **Bhutanese families** usually do not have family names at all. A Buddhist lama is often asked to choose the baby's name in the first weeks of life, and most people have two given names, such as Sonam or Tshering, Dorji or Karma, that don't show family or gender.
+- **Bhutanese families** usually do not have family names at all. A Buddhist lama is often asked to choose the baby's name in the first weeks of life, and most people have two given names, such as Sonam or Tshering, Dorji or Karma. The names don't show which family a person belongs to, and many of them are given to both boys and girls.
 
 ### Surnames
 
@@ -204,7 +204,7 @@ Sikh families mark a birth with Naam Karan. Buddhist families in Sri Lanka, Bhut
 
 **Coming-of-Age Rites** are ceremonies that mark the move from childhood toward adulthood or full membership in a community. Some examples from the region:
 
-- **Upanayana** (उपनयन, *oo-puh-NUH-yun*, "initiation"). In this Hindu ceremony, traditionally for boys from certain communities, a child receives the sacred thread, worn over the left shoulder, and is accepted as a student by a teacher. In Nepal it is called **Bratabandha** (ब्रतबन्ध). Boys have their heads shaved, receive the thread, and make a symbolic first round asking relatives for alms.
+- **Upanayana** (उपनयन, *oo-puh-NUH-yun*, "initiation"). In this Hindu ceremony, traditionally for boys from certain communities, a child receives the sacred thread, worn over the left shoulder, and is accepted as a student by a teacher. In Nepal it is called **Bratabandha** (व्रतबन्ध). Boys have their heads shaved, receive the thread, and make a symbolic first round asking relatives for alms.
 - **Amrit Sanchar**. In Sikh tradition, people who are ready to commit fully to the faith take amrit (water stirred with a double-edged sword called a khanda) in a ceremony led by five initiated Sikhs, recalling the Panj Pyare ("beloved five") whom Guru Gobind Singh first initiated, and join the Khalsa. There is no fixed age.
 - **Puberty ceremonies for girls.** In many Tamil families in Tamil Nadu and in the Tamil diaspora, a girl's first period has traditionally been marked by a family celebration, sometimes called manjal neerattu vizha, with a turmeric-water bath, new clothes, food and gifts. Rituals differ by community and region. Some families still hold big celebrations, while others, including some critics in Tamil Nadu, argue the custom puts unfair attention on girls and should change.
 
@@ -214,7 +214,7 @@ Sikh families mark a birth with Naam Karan. Buddhist families in Sri Lanka, Bhut
 
 ## 13.7 Weddings
 
-**Weddings** in South Asia are often multi-day events that join two families, not just two people, with separate ceremonies before, during and after the main rite. Guest lists of hundreds are common. Details differ hugely by faith, region and family budget, but a few pieces show up again and again.
+**Weddings** in South Asia are often multi-day events that join two families as well as two people, with separate ceremonies before, during and after the main rite. Guest lists of hundreds are common. Details differ a lot by faith, region and family budget, but a few pieces show up again and again.
 
 ### Arranged Marriage
 
@@ -239,11 +239,11 @@ A **Nikah** (نکاح, *ni-KAAH*) is the Islamic marriage contract and ceremony.
 
 ### Anand Karaj
 
-The **Anand Karaj** (ਅਨੰਦ ਕਾਰਜ, *uh-NUND KAA-raj*, "blissful ceremony") is the Sikh wedding ceremony. It takes place in front of the Guru Granth Sahib, usually in a gurdwara. Many Sikh weddings take place in the morning. The center of the ceremony is the **laavan**, four hymns composed by Guru Ram Das, the fourth Sikh Guru. As each hymn is sung, the couple walks around the Guru Granth Sahib, the groom leading the bride, who holds one end of a scarf that he holds too. Four hymns, four rounds, and they are married. The Anand Marriage Act of 1909 gave Sikh marriages by this rite legal recognition in British India, and India amended the law in 2012 to let these marriages be registered under it.
+The **Anand Karaj** (ਅਨੰਦ ਕਾਰਜ, *uh-NUND KAA-raj*, "blissful ceremony") is the Sikh wedding ceremony. It takes place in front of the Guru Granth Sahib, usually in a gurdwara. Many Sikh weddings take place in the morning. The center of the ceremony is the **laavan**, four hymns composed by Guru Ram Das, the fourth Sikh Guru. As each hymn is sung, the couple walks around the Guru Granth Sahib, the groom leading the bride, who holds one end of a scarf that he holds too. After the fourth round, the couple is married. The Anand Marriage Act of 1909 gave Sikh marriages by this rite legal recognition in British India, and India amended the law in 2012 to let these marriages be registered under it.
 
 ### Hindu and Buddhist weddings
 
-In many Hindu weddings, the couple's marriage is witnessed by a sacred fire. The central moment is often the **saptapadi** ("seven steps"), when the couple takes seven steps or circles the fire together, making a promise at each one. Rituals vary hugely between, say, a Telugu wedding in Hyderabad like the ones Arjun's cousins have had, a Gujarati wedding and a Nepali wedding. In Sri Lanka, many Sinhala couples marry on a poruwa, a decorated wooden platform, in a ceremony with a traditional officiant, betel leaves and blessings from both families. Buddhist monks do not usually lead the wedding itself, and many Sri Lankans trace the poruwa custom to before Buddhism reached the island.
+In many Hindu weddings, the couple's marriage is witnessed by a sacred fire. The central moment is often the **saptapadi** ("seven steps"), when the couple takes seven steps or circles the fire together, making a promise at each one. Rituals vary a lot between, say, a Telugu wedding in Hyderabad like the ones Arjun's cousins have had, a Gujarati wedding and a Nepali wedding. In Sri Lanka, many Sinhala couples marry on a poruwa, a decorated wooden platform, in a ceremony with a traditional officiant, betel leaves and blessings from both families. Buddhist monks do not usually lead the wedding itself, and many Sri Lankans trace the poruwa custom to before Buddhism reached the island.
 
 | Wedding | Tradition | Where the key moment happens | Key moment |
 |---|---|---|---|
@@ -257,7 +257,7 @@ In many Hindu weddings, the couple's marriage is witnessed by a sacred fire. The
 Death is hard to talk about in any culture, but knowing what a friend's family is doing helps you show up for them. **Funeral Customs** are the rites families follow when someone dies: how the body is cared for, the funeral itself, and the period of mourning afterward.
 
 - **Hindu families** usually cremate the body, often within a day. In the Antyeshti, a son or close relative traditionally lights the funeral pyre, and the ashes are later placed in a river, for many families the Ganga. A period of mourning follows, and rituals called shraddha honor the dead in later years. Details vary by region, community and the age of the person who died.
-- **Muslim families** bury the body as soon as possible, often within a day. The body is washed and wrapped in simple white cloth, a funeral prayer called the janazah is said, and the person is buried facing Mecca. Cremation is not allowed in Islam.
+- **Muslim families** bury the body as soon as possible, often within a day. The body is washed and wrapped in simple white cloth, a funeral prayer called the janazah is said, and the person is buried lying on their right side, with the face turned toward Mecca. Cremation is not allowed in Islam.
 - **Sikh families** usually cremate the body. In the Antim Sanskar ("final rite") the family recites prayers, and the ashes are scattered in running water. Sikh tradition discourages gravestones or monuments.
 - **Buddhist families** in Sri Lanka, Nepal and Bhutan may cremate or bury. In Sri Lanka, families often offer food (dana) to monks on the seventh day after a death, again about three months later, and at the end of a year, dedicating the merit to the person who has died.
 - **Parsi (Zoroastrian) families** in Mumbai have traditionally placed the dead in a dakhma, or "tower of silence," where the body is exposed to the sun and birds instead of being buried or burned. As vultures have become rare, some families now choose cremation or burial.
@@ -266,7 +266,7 @@ If a friend's relative dies, a simple "I'm so sorry" is always welcome. Ask your
 
 ## 13.9 Gender Roles and Change
 
-Back at the wedding, Ben notices that the women are mostly in the kitchen and the men are mostly greeting guests. Then he notices Zara's Khala, a surgeon, giving a speech, and Zara's cousin, the bride, signing her own marriage contract. Both things are true, and that's the story of gender in South Asian families today.
+Back at the wedding, Ben notices that the women are mostly in the kitchen and the men are mostly greeting guests. Then he notices Zara's Khala, a surgeon, giving a speech, and Zara's cousin, the bride, signing her own marriage contract. Both scenes are common in South Asian families today.
 
 **Gender Roles and Change** is about the expectations families and societies have for women and men, and how those expectations are shifting. In many traditional South Asian families, men were expected to earn money and represent the family in public, and women were expected to run the home, raise children and care for elders, often in their husband's family's house. Daughters often received less schooling than sons and moved away at marriage.
 

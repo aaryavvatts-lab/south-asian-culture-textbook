@@ -82,7 +82,7 @@ Where did these ideas come from? Many dancers trace them to one famous text.
 
 The **Natya Shastra** (नाट्य शास्त्र, *NAHT-yuh SHAHS-truh*), "treatise on drama," is a Sanskrit handbook on the performing arts. Tradition credits it to a sage named Bharata. Nobody knows exactly when it was written. Scholars think it grew over a long time, and most place its first complete version somewhere between about 200 BCE and 200 CE, though estimates range more widely, from about 500 BCE to 500 CE.
 
-It is a big book: about 6,000 verses in 36 chapters. It covers playwriting, stage building, acting, makeup, costumes, body movement, hand gestures and music. Think of it as a drama-class textbook, a choreography manual and a music theory guide rolled into one. Later writers added their own books on top of it. One of the most used by dancers today is the *Abhinaya Darpana* ("Mirror of Gesture"), credited to a writer named Nandikeshvara, which describes hand gestures in detail.
+It is a big book: about 6,000 verses in 36 chapters. It covers playwriting, stage building, acting, makeup, costumes, body movement, hand gestures and music, so it works like a drama textbook and a choreography manual in one. Later writers added their own books on top of it. One of the most used by dancers today is the *Abhinaya Darpana* ("Mirror of Gesture"), credited to a writer named Nandikeshvara, which describes hand gestures in detail.
 
 In April 2025, UNESCO added manuscripts of the Natya Shastra, together with the Bhagavad Gita, to its Memory of the World Register, a list of documents considered important to all of humanity.
 
@@ -131,7 +131,7 @@ A single mudra can mean many different things, depending on where the hand is, h
 
 Teachers and styles describe some of these shapes a little differently, so don't worry if your cousin's dance teacher holds Kartarimukha a bit differently from the drawing in the MicroSim.
 
-Mudras aren't only for dance. You'll also see hand gestures in Hindu and Buddhist statues and paintings, such as an open palm raised to mean "do not fear." Dancers, sculptors and painters shared much of this visual language. ([Chapter 11](../11-art-architecture-craft/index.md) looks at the sculpture and painting side.)
+You'll also see hand gestures outside dance, in Hindu and Buddhist statues and paintings, such as an open palm raised to mean "do not fear." Dancers, sculptors and painters shared much of this visual language. ([Chapter 11](../11-art-architecture-craft/index.md) looks at the sculpture and painting side.)
 
 ## 10.6 What Makes a Dance "Classical"?
 
@@ -139,7 +139,7 @@ Now back to Ben's question: what does "classical" mean?
 
 In this book, **Classical Dance** means a dance tradition with a long, written theory behind it (usually traced to the Natya Shastra), a fixed technique that takes years of training with a teacher, a set order of pieces in a performance, and official recognition as a classical art. It's similar to how people use "classical" for Western ballet or for Carnatic and Hindustani music: it describes a trained, codified art form, not something better than other dance.
 
-So who decides which dances count? In India, the main official body is the **Sangeet Natak Akademi**, the national academy of music, dance and drama, set up in 1953. It recognizes eight classical dances:
+So who decides which dances count? In India, the main official body is the **Sangeet Natak Akademi**, the national academy of music, dance and drama, created by the Indian government in 1952. It recognizes eight classical dances:
 
 1. Bharatanatyam
 2. Kathak
@@ -179,13 +179,13 @@ Here's a quick guide to all eight. Use it like a field guide: notice where each 
 
 **Bharatanatyam** (பரதநாட்டியம், *BHUH-ruh-tuh-NAHT-yum*) comes from Tamil Nadu in southern India. Its older name was *Sadir*. For centuries the dance was closely linked to Hindu temples and royal courts in the Tamil region. Later, four musicians and teachers known as the Thanjavur Quartet organized much of the order of pieces still used today.
 
-In the late 1800s and early 1900s, colonial officials, missionaries and some Indian reformers attacked temple dance, and it nearly disappeared. In the 1930s, revivalists including Rukmini Devi Arundale and E. Krishna Iyer helped bring it to concert stages under a new name, Bharatanatyam, in 1932.
+In the late 1800s and early 1900s, colonial officials, missionaries and some Indian reformers attacked temple dance and the hereditary women dancers who performed it, and the dance nearly disappeared. In the 1930s, revivalists including Rukmini Devi Arundale and E. Krishna Iyer helped bring it to concert stages under a new name, Bharatanatyam, adopted in 1932.
 
 You can spot Bharatanatyam by its *aramandi*, a half-sitting position with bent knees turned out, a steady upper body, and sharp, geometric arm lines. The dancer usually performs solo for up to two hours, with a singer, drummer and a *nattuvanar* (conductor) keeping the rhythm with small cymbals.
 
 ### Kathak
 
-**Kathak** (*KUH-thuk*) comes from northern India. Its name comes from *katha*, the Sanskrit word for "story," and it grew from traveling storytellers who acted out tales, especially about Krishna. Later it was also danced in royal courts, including Mughal courts and the court of Awadh in Lucknow, where Persian poetry and music shaped it. That double history, in temples and storytelling on one side and Muslim-ruled courts on the other, is part of why Kathak is danced today in India, Pakistan and Bangladesh.
+**Kathak** (*KUH-thuk*) comes from northern India. Its name comes from *katha*, the Sanskrit word for "story." Many dancers trace it to traveling storytellers who acted out tales, especially about Krishna, though historians debate how direct that link is. Later it was also danced in royal courts, including Mughal courts and the court of Awadh in Lucknow, where Persian poetry and music shaped it. That double history, in temples and storytelling on one side and Muslim-ruled courts on the other, is part of why Kathak is danced today in India, Pakistan and Bangladesh.
 
 Kathak dancers keep their legs straight and wear ankle bells called *ghungroo*, sometimes with more than a hundred bells on each ankle. Footwork patterns called *tatkar* trade rhythms with the tabla player, and dancers finish phrases with dizzying spins. Different schools, called *gharanas*, are named after cities such as Jaipur, Lucknow and Banaras (Varanasi).
 
@@ -193,7 +193,7 @@ Kathak dancers keep their legs straight and wear ankle bells called *ghungroo*, 
 
 **Odissi** (*oh-DIS-ee*) comes from Odisha on India's east coast. Dancing figures carved on the walls of Odisha's old temples, such as the Sun Temple at Konark, show poses that dancers still use. Like Bharatanatyam, Odissi was attacked under colonial rule and rebuilt in the twentieth century.
 
-Look for two poses. The *chauka* is a strong, square stance with bent knees. The *tribhangi* ("three bends") curves the body into an S-shape at the neck, waist and knee, like a statue come to life. Many pieces are devotional poems about Jagannath (a form of Vishnu) and Krishna, especially from the twelfth-century Sanskrit poem *Gita Govinda*.
+Look for two poses. The *chauka* is a strong, square stance with bent knees. The *tribhangi* ("three bends") curves the body into an S-shape at the neck, waist and knee, like a statue come to life. Many pieces are devotional poems about Jagannath (whom many devotees see as a form of Vishnu) and Krishna, especially from the twelfth-century Sanskrit poem *Gita Govinda*.
 
 ### Kathakali
 
@@ -211,7 +211,7 @@ Kuchipudi shares a lot with Bharatanatyam, which is why Ben mixed them up. Both 
 
 ### Manipuri Dance
 
-**Manipuri Dance** comes from Manipur in northeastern India, where it is part of the culture of the Meitei people. The best-known form is the *Raas Leela*, dances about Krishna and Radha. A Meitei king, Bhagyachandra (who ruled 1759 to 1798), is credited with organizing the style and designing its famous costume.
+**Manipuri Dance** comes from Manipur in northeastern India, where it is part of the culture of the Meitei people. The best-known form is the *Raas Leela*, dances about Krishna and Radha. A Meitei king, Bhagyachandra, who ruled in the second half of the 1700s, is credited with organizing the style and designing its famous costume.
 
 Manipuri movement is soft and rounded, with no hard stamping, and the dancers' faces stay calm and gentle. Women playing the *gopis* (cowherd girls who love Krishna) wear the *potloi*, a stiff, barrel-shaped skirt decorated with mirrors and embroidery that makes them look as if they're floating. Manipuri is also danced in Bangladesh, especially in Sylhet. In 1919 the poet Rabindranath Tagore saw a Manipuri performance in Sylhet and later brought Manipuri teachers to his school at Shantiniketan, which helped make the dance known across Bengal.
 
@@ -219,11 +219,11 @@ Manipuri movement is soft and rounded, with no hard stamping, and the dancers' f
 
 **Mohiniyattam** (*mo-hi-nee-YAHT-tum*) is Kerala's second classical dance. It is named after Mohini, the enchanting female form of the Hindu god Vishnu. Mohiniyattam is traditionally a solo dance by women. Its movements sway gently from side to side, a little like palm trees in the breeze or waves on the backwaters, and it uses the soft, graceful style that the Natya Shastra calls *lasya*. Dancers wear an ivory-white sari with a gold border, and a round hair bun worn to one side.
 
-In the 1930s, laws against temple dancing and colonial-era prejudice pushed Mohiniyattam almost out of sight. The Malayalam poet Vallathol Narayana Menon led its revival and founded the Kerala Kalamandalam, a school for Kerala's performing arts.
+By the early 1900s, colonial-era prejudice against temple and court dancers had pushed Mohiniyattam almost out of sight. The Malayalam poet Vallathol Narayana Menon led its revival. In 1930 he founded the Kerala Kalamandalam, a school for Kerala's performing arts, and in the early 1930s it began teaching Mohiniyattam.
 
 ### Sattriya
 
-**Sattriya** (*SUT-tree-yuh*) comes from Assam in northeastern India. It began in the *sattras*, Vaishnava (Krishna-worshipping) monasteries founded after the teacher, poet and playwright Srimanta Sankardev in the 1400s and 1500s. Sankardev wrote short dance-dramas, and for centuries male monks called *bhokots* performed them as part of worship.
+**Sattriya** (*SUT-tree-yuh*) comes from Assam in northeastern India. It began in the *sattras*, Vaishnava (Krishna-worshipping) monasteries started by the teacher, poet and playwright Srimanta Sankardev (1449 to 1568) and his followers. Sankardev wrote short dance-dramas, and for centuries male monks called *bhokots* performed them as part of worship.
 
 In the second half of the twentieth century, Sattriya moved from the monasteries to public stages, and women began to perform it too. Its music features the *khol*, a two-headed clay drum played with the fingers, along with cymbals. When the Sangeet Natak Akademi recognized it in 2000, it became the eighth classical dance on the list.
 
@@ -255,13 +255,13 @@ Different regions have their own versions, such as Kabuli and Kandahari styles. 
 
 **Kandyan Dance** comes from the hill country around Kandy in Sri Lanka's central highlands. In Sinhala it's called *Uda Rata Natum*, "up-country dance." Legend traces it to a healing ritual called the *Kohomba Kankariya*, and for generations its dancers served the Temple of the Sacred Tooth Relic in Kandy and performed in the city's great yearly procession, the *Perahera*.
 
-Kandyan dancers are known for high leaps, fast spins and strong, athletic footwork. The most famous costume is the *ves*, with a shining metal headdress, a beaded net over the chest and rattling anklets. The music is mostly drumming, led by the *geta bera*, the main drum of Kandyan dance, though some pieces also have sung verses. There are 18 classic *vannam*, solo dances that each describe an animal or idea, such as the elephant, the monkey or the eagle. Traditionally only men trained in the dance, but today many schools teach women too. Kandyan dance is one of the strongest symbols of Sri Lankan culture, at home and in the diaspora.
+Kandyan dancers are known for high leaps, fast spins and strong, athletic footwork. The most famous costume is the *ves*, with a shining metal headdress, a beaded net over the chest and rattling anklets. The music is mostly drumming, led by the *geta bera*, the main drum of Kandyan dance, though some pieces also have sung verses. There are 18 classic *vannam*, solo dances that each describe an animal or idea, such as the elephant, the monkey or the eagle. Traditionally only men trained in the dance, but today many schools teach women too. Many Sri Lankans, especially Sinhalese, see Kandyan dance as a symbol of their culture, at home and in the diaspora.
 
 ### More dances across the region
 
 - **Bhutan:** Buddhist monasteries hold festivals with *cham*, masked dances that teach moral lessons and honor Buddhist teachers. One of them, the *Drametse Ngacham* ("mask dance of the drums from Drametse"), features sixteen masked men and ten musicians. UNESCO first recognized it in 2005.
 - **Nepal:** In the Kathmandu Valley, Newar communities perform the *Lakhey* dance at festivals. A dancer in a fierce mask with fangs and a long mane of hair plays a forest demon who became a protector of the town.
-- **The Maldives:** *Boduberu* ("big drum") is the Maldives' best-known music and dance. About 20 performers, including drummers and a lead singer, start slow and build to a frenzied finish while one or two dancers move to the beat.
+- **The Maldives:** *Boduberu* ("big drum") is the Maldives' best-known music and dance. A group of about 15 to 20 performers, usually with three drummers and a lead singer, starts slow and builds to a fast finish while one or two dancers move to the beat.
 - **Bangladesh:** Besides Manipuri in Sylhet, Bangladesh has many folk dances and a famous folk theater, *jatra*, described in the next section.
 
 ## 10.9 Theater and Shadow Puppetry
@@ -270,7 +270,7 @@ Many South Asian dance forms are really dance-drama. The same region also has th
 
 **Jatra** (যাত্রা, *JAH-trah*), "journey," is a lively folk theater of Bengal, performed in Bangladesh and in India's West Bengal, Odisha and Assam. It goes back at least to the 1500s, when it grew out of devotional plays about Krishna. Jatra was traditionally played on open ground with the audience all around, and it mixed songs, dances, loud dialogue and comic characters. Over time it took up history, social issues and, in the twentieth century, patriotic themes. Jatra troupes still tour villages and towns today.
 
-**Yakshagana** from coastal Karnataka is an all-night dance-drama with huge headdresses, painted faces and a lead singer who narrates the story. Like many strong traditions, it isn't on any official "classical" list.
+**Yakshagana** from coastal Karnataka is an all-night dance-drama with huge headdresses, painted faces and a lead singer who narrates the story. It isn't on any official "classical" list.
 
 **Shadow Puppetry** is a form of storytelling in which flat cut-out figures are held between a light and a thin cloth screen, so the audience sees moving shadows. South India has several shadow puppet traditions, and they share a word for leather:
 
@@ -283,7 +283,7 @@ Many South Asian dance forms are really dance-drama. The same region also has th
 The puppets are cut from animal hide, scraped so thin that light shines through, and painted in bright colors, so the shadows glow with color. Puppeteers sit behind the screen, move the jointed puppets with sticks, sing and speak all the voices, and often perform stories from the Ramayana all night. In Kerala, *Tholpavakoothu* is performed in temples of the goddess Bhadrakali, and a full Ramayana cycle can run for weeks of night-long shows. Many historians think South Asian shadow theater influenced shadow puppet traditions in Southeast Asia, though how and when are still debated.
 
 !!! abstract "Whose Story?"
-    Who gets to say which dances are "classical"? India's Sangeet Natak Akademi lists eight, India's Ministry of Culture adds Chhau, and dancers in West Bengal and elsewhere have argued for other styles to join the list. In Bangladesh, the national encyclopedia uses "classical dance" mainly for styles such as Kathak and Manipuri that Bengali dancers learned from teachers of those schools, while Sri Lankans see Kandyan dance as their own classical tradition with its own rules. Historians also tell the revival story of the 1930s in different ways. Some celebrate the revivalists who saved Bharatanatyam and Odissi from colonial attacks. Others point out that the hereditary women performers who had kept these dances alive for generations were often pushed aside in the process.
+    Who gets to say which dances are "classical"? India's Sangeet Natak Akademi lists eight, India's Ministry of Culture adds Chhau, and dancers in West Bengal and elsewhere have argued for other styles to join the list. In Bangladesh, the national encyclopedia uses "classical dance" mainly for styles such as Kathak and Manipuri that Bengali dancers learned from teachers of those schools, while many Sri Lankans see Kandyan dance as their own classical tradition with its own rules. Historians also tell the revival story of the 1930s in different ways. Some celebrate the revivalists who saved Bharatanatyam and Odissi from colonial attacks. Others point out that the hereditary women performers who had kept these dances alive for generations were often pushed aside in the process.
 
 ## 10.10 Dance Today
 

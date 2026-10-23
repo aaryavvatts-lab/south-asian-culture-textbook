@@ -10,7 +10,7 @@ version: 1.0
 
 ## Summary
 
-South Asia has been telling stories for thousands of years, first out loud and later in writing, in dozens of languages. This chapter starts with oral tradition and the two great Sanskrit epics, the Ramayana and the Mahabharata, then follows the animal fables of the Jatakas and the Panchatantra as they travel to Persia, the Arab world and Europe. You'll meet Tamil Sangam poetry, the playwright Kalidasa, the poet-saint Kabir, the ghazals of Mirza Ghalib, and three modern poets who became symbols of nations: Rabindranath Tagore, Kazi Nazrul Islam and Allama Iqbal. The chapter ends with the literature of Partition and with South Asian writing in English and in translation. The big idea is that a good story never stays in one language, faith or country.
+South Asia has been telling stories for thousands of years, first out loud and later in writing, in dozens of languages. This chapter starts with oral tradition and the two great Sanskrit epics, the Ramayana and the Mahabharata, then follows the animal fables of the Jatakas and the Panchatantra as they travel to Persia, the Arab world and Europe. You'll meet Tamil Sangam poetry, the playwright Kalidasa, the poet-saint Kabir, the ghazals of Mirza Ghalib, and three modern poets who became symbols of nations: Rabindranath Tagore, Kazi Nazrul Islam and Allama Iqbal. The chapter ends with the literature of Partition and with South Asian writing in English and in translation. The big idea is that good stories rarely stay in one language, faith or country.
 
 ## Concepts Covered
 
@@ -90,7 +90,7 @@ The Mahabharata is famous for being morally complicated: heroes make bad choices
 
 ### The Bhagavad Gita
 
-The most famous section inside the Mahabharata is the **Bhagavad Gita** (भगवद्गीता, *BHUG-uh-vud GEE-taa*), "God's song," a poem of about 700 verses found in the epic's sixth book. Just before the great battle, the warrior prince Arjuna sees relatives and teachers on the other side and loses the will to fight. His charioteer, Krishna, whom Hindus revere as a form of Vishnu, answers his doubts in a long conversation about duty, action, devotion and the self. Scholars think it was likely composed in the second or first century BCE.
+The most famous section inside the Mahabharata is the **Bhagavad Gita** (भगवद्गीता, *BHUG-uh-vud GEE-taa*), "God's song," a poem of about 700 verses found in the epic's sixth book. Just before the great battle, the warrior prince Arjuna sees relatives and teachers on the other side and loses the will to fight. His charioteer, Krishna, whom Hindus revere as a form of Vishnu, answers his doubts in a long conversation about duty, action, devotion and the self. Scholars disagree about when it was composed. Many place it around the second or first century BCE, while others argue for earlier or later dates.
 
 For many Hindus, the Gita is one of the most important sacred texts. Thinkers over the centuries have written commentaries on it that disagree about its deepest meaning.
 
@@ -98,7 +98,7 @@ For many Hindus, the Gita is one of the most important sacred texts. Thinkers ov
 |---|---|---|---|---|
 | Ramayana (Valmiki) | Sanskrit | Oral core about 750 to 500 BCE | Nearly 24,000 verses, 7 books | Rama's exile, Sita's capture by Ravana, her rescue |
 | Mahabharata | Sanskrit | Mostly about 300 BCE to 300 CE | More than 100,000 verses | A war between royal cousins and the questions it raises |
-| Bhagavad Gita | Sanskrit | About 2nd to 1st century BCE | About 700 verses | Krishna's answers to Arjuna's doubts before battle |
+| Bhagavad Gita | Sanskrit | Debated; often placed about 2nd to 1st century BCE | About 700 verses | Krishna's answers to Arjuna's doubts before battle |
 
 ## 14.4 One Story, Many Tellings
 
@@ -112,7 +112,7 @@ Now back to Ben's question. Valmiki's Ramayana is the oldest well-known version,
 
 There are also Buddhist and Jain tellings, in which parts of the plot and the meaning change.
 
-In 1987 the scholar A. K. Ramanujan presented an essay called "Three Hundred Ramayanas: Five Examples and Three Thoughts on Translation." He chose the word **tellings** instead of "versions" on purpose, because "version" suggests there is one true original and the rest are copies. His point was that Valmiki's Ramayana is one telling among many. The essay became controversial: Delhi University assigned it to history students for several years, then voted in October 2011 to remove it from the course after objections. The fight showed how much these stories still matter.
+In 1987 the scholar A. K. Ramanujan presented an essay called "Three Hundred Ramayanas: Five Examples and Three Thoughts on Translation." He chose the word **tellings** instead of "versions" on purpose, because "version" suggests there is one true original and the rest are copies. His point was that Valmiki's Ramayana is one telling among many. The essay became controversial: Delhi University assigned it to history students for several years, then voted in October 2011 to remove it from the course after objections.
 
 !!! mascot-warning "Many tellings is not the same as 'made up'"
     ![Mora with a warning](../../img/mascot/warning.png){ class="mascot-admonition-img" }
@@ -167,7 +167,7 @@ The Sangam collections hold 2,381 poems by 473 poets, 102 of them anonymous. The
 - **Akam** (inner) poems are about love: longing, meeting, separation and jealousy.
 - **Puram** (outer) poems are about public life: kings, war, generosity, death and fame.
 
-Sangam poets also sorted poems by landscape, such as hills, pastures or seashore, so the setting of a poem helped signal its mood. Many readers find them surprisingly modern: short, vivid and about ordinary emotions. Tamil is spoken today in India's Tamil Nadu, in northern and eastern Sri Lanka, and in a large diaspora, and Sangam poetry is a point of pride for Tamils everywhere.
+Sangam poets also sorted poems by landscape, such as hills, pastures or seashore, so the setting of a poem helped signal its mood. Many readers find them surprisingly modern: short, vivid and about ordinary emotions. Tamil is spoken today in India's Tamil Nadu, in northern and eastern Sri Lanka, and in a large diaspora, and many Tamils around the world take pride in Sangam poetry.
 
 ### Kalidasa
 

@@ -70,9 +70,9 @@ The **People's Republic of Bangladesh** is the official name of Bangladesh: a pa
 
 Bangladesh's story runs through [Chapter 4](../04-colonialism-and-partition/index.md). In 1947, when British India was divided, the Muslim-majority eastern half of Bengal became East Pakistan, part of a Pakistan whose two wings were separated by the whole width of northern India. Many Bengalis felt the government in West Pakistan treated them unfairly, starting with language, as you'll see in Section 19.6. After years of tension and a brutal war, Bangladesh declared independence on 26 March 1971, and the Liberation War ended on 16 December 1971. Its constitution was adopted on 4 November 1972.
 
-Bangladesh had **175,686,899 people in 2025** (about 176 million, World Bank), making it one of the ten most populous countries in the world. Fit that many people into an area of about 148,000 km², about the size of Iowa, and you get one of the most densely populated large countries on Earth. In Bangladesh's 2022 census, about 91% of people were Muslim and about 8% Hindu, with smaller Buddhist and Christian communities.
+Bangladesh had **175,686,899 people in 2025** (about 176 million, World Bank), making it one of the ten most populous countries in the world. Fit that many people into an area of about 148,000 km², about the size of Iowa, and you get one of the most densely populated large countries on Earth. In Bangladesh's 2022 census, about 91% of people were Muslim and about 8% Hindu, with smaller Buddhist and Christian communities, including Indigenous peoples such as the Chakma and Marma of the Chittagong Hill Tracts.
 
-Bangladesh's national anthem, "Amar Shonar Bangla" ("My Golden Bengal"), was written by Rabindranath Tagore, the same poet who wrote India's anthem ([Chapter 17](../17-india/index.md)). One poet wrote the anthems of two neighboring nations, because Bengal's culture is older than any border.
+Bangladesh's national anthem, "Amar Shonar Bangla" ("My Golden Bengal"), was written by Rabindranath Tagore, the same poet who wrote India's anthem ([Chapter 17](../17-india/index.md)). Tagore wrote the song in 1905, more than 40 years before either country existed.
 
 ### Dhaka
 
@@ -102,7 +102,7 @@ The Padma and the Jamuna join, then meet the Meghna, and the combined water pour
 
 **Rivers and Floods** in Bangladesh means the yearly rhythm in which monsoon rain and Himalayan meltwater raise the rivers, which spread across the low delta, bringing both fertile soil and danger. Life in Bangladesh moves with this rhythm.
 
-The most important fact is that most of the water in Bangladesh's rivers comes from rain that falls outside the country, upstream in India, Nepal, Bhutan and China. It flows in mostly through the Ganges, the Brahmaputra and the Meghna. So when heavy monsoon rain falls on India, Nepal, Bhutan and Tibet, Bangladesh feels it.
+Most of the water in Bangladesh's rivers comes from rain that falls outside the country, upstream in India, Nepal, Bhutan and China. It flows in mostly through the Ganges, the Brahmaputra and the Meghna. So when heavy monsoon rain falls on India, Nepal, Bhutan and Tibet, Bangladesh feels it.
 
 - **In an average year,** about 21% of Bangladesh floods (about 31,000 km²).
 - **In severe years,** much more. In 1998, more than two-thirds of the country was under water, including half of Dhaka.
@@ -155,7 +155,7 @@ The industry has brought jobs and growth, but it has also brought hard questions
 
 Bangladesh made microfinance famous. In 1976, Muhammad Yunus, an economics professor at the University of Chittagong, began a research project lending tiny sums to villagers in Jobra, near the university. In 1983 it became the Grameen Bank, an independent bank. "Grameen" means "of the village." Its borrowers were mostly women, organized in small groups that supported one another.
 
-In 2006, Muhammad Yunus and Grameen Bank jointly won the Nobel Peace Prize for their efforts to create development "from below." Microfinance spread to dozens of countries, including the United States. Economists still debate how much it reduces poverty on its own, and some borrowers have struggled with debt. But it changed how the world thinks about banking for the poor.
+In 2006, Muhammad Yunus and Grameen Bank jointly won the Nobel Peace Prize for their efforts to create development "from below." Microfinance spread to dozens of countries, including the United States. Economists still debate how much it reduces poverty on its own, and some borrowers have struggled with debt.
 
 ## 19.8 Bangladesh Today
 
@@ -190,7 +190,7 @@ According to the 2024 census:
 |---|---|
 | Sinhalese | 74.1% |
 | Sri Lankan Tamils | 12.3% |
-| Muslims (often called Moors) | 10.5% |
+| Sri Lankan Moors (most of the island's Muslims) | 10.5% |
 | Indian-origin (Hill Country) Tamils | 2.8% |
 | Burghers, Malays, Veddas and others | 0.3% |
 
@@ -261,11 +261,11 @@ Because most Sinhalese are Buddhist and most Tamils are Hindu, people sometimes 
 
 ## 19.12 Ceylon Tea and the Hill Country
 
-**Ceylon Tea** is the black tea grown on Sri Lanka's hill-country plantations, still sold around the world under the island's old name. It is one of Sri Lanka's best-known exports: in the first nine months of 2025 alone, tea exports earned about 1.16 billion US dollars.
+**Ceylon Tea** is the black tea grown on Sri Lanka's hill-country plantations, still sold around the world under the island's old name. It is one of Sri Lanka's best-known exports: in 2025, tea exports earned more than 1.5 billion US dollars.
 
 Tea isn't native to Sri Lanka. In the 1800s, British planters grew coffee in the hills. Then, starting in 1869, a fungus called coffee leaf rust destroyed the coffee plantations. Planters switched to tea, which a British planter named James Taylor had begun growing commercially in 1867. Within a few decades, the green, terraced slopes of the central highlands were covered in tea bushes.
 
-The plantations depended on workers brought by the British from South India, the ancestors of today's Hill Country Tamils. For generations, many lived in crowded housing on the estates, with low pay, and a 1948 citizenship law left most of them without Sri Lankan citizenship for decades. Their descendants still make up much of the tea workforce, and many families today are still pushing for better wages and housing. So a cup of Ceylon tea carries a history of colonial plantations, migration and work.
+The plantations depended on workers brought by the British from South India, the ancestors of today's Hill Country Tamils. For generations, many lived in crowded housing on the estates, with low pay, and a 1948 citizenship law left most of them without Sri Lankan citizenship for decades. Their descendants still make up much of the tea workforce, and many families today are still pushing for better wages and housing.
 
 ## 19.13 Sri Pada (Adam's Peak)
 
@@ -276,10 +276,10 @@ Each faith tells its own story about that mark:
 | Tradition | Whose footprint? |
 |---|---|
 | Buddhist | The Buddha's |
-| Sri Lankan Hindu | Shiva's (its Tamil name means "mountain of Shiva's light") |
+| Sri Lankan Hindu | Shiva's (its Tamil name, Sivanolipatha Malai, refers to Shiva) |
 | Some Muslim and Christian traditions | Adam's, from his first step on Earth after leaving paradise (hence "Adam's Peak") |
 
-Pilgrims climb mostly between December and May, often at night by lit stairways, to reach the top at sunrise. At dawn, the mountain casts a perfect triangle of shadow across the plains below. Pilgrims of different faiths climb the same steps in the same crowd, and each honors the mark in their own way, so one mountain holds several stories at once.
+Pilgrims climb mostly between December and May, often at night by lit stairways, to reach the top at sunrise. At dawn, the mountain casts a perfect triangle of shadow across the plains below. Pilgrims of different faiths climb the same steps in the same crowd, and each honors the mark in their own way.
 
 ## 19.14 Sri Lanka Today
 

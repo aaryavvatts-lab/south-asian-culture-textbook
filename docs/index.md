@@ -28,7 +28,7 @@ hide:
 
 South Asia is eight countries: Afghanistan, Bangladesh, Bhutan, India, the Maldives, Nepal, Pakistan and Sri Lanka. Together they're home to about 1.99 billion people (2025), roughly one in four people on Earth. Millions of families in the United States, including here in Minnesota, carry its traditions.
 
-A lot of us grew up with those traditions and never learned the "why". Why does Diwali move every year? Why does your grandmother have a different word for your mother's brother and your father's brother? Why do so many scripts look different but work the same way? This book answers those questions, one chapter at a time.
+Many readers grew up with those traditions and never learned the "why". Why does Diwali move every year? Why does your grandmother have a different word for your mother's brother and your father's brother? Why do so many scripts look different but work the same way? This book answers those questions, one chapter at a time.
 
 Every chapter has:
 

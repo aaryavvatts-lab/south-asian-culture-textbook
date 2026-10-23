@@ -59,7 +59,7 @@ All across the region, families decorate the floor at the doorway, especially fo
 
 The most traditional style is the *pulli kolam*, "dot kolam." The artist first sets down a grid of dots (*pulli*). Then she draws lines that loop around the dots, usually without touching them. In the hardest designs, a single line winds around every dot and joins back to where it started, with no loose ends. That answers Ben's question. The dots work like graph paper, and the rules (go around, don't touch, keep the line moving) work like a recipe. Learning those rules takes years of watching relatives draw, and many women keep a notebook of designs and swap the hardest ones.
 
-Kolams are meant to disappear. During the day, feet, wind and rain wear them away, and ants and birds eat the rice flour. Many families see that as part of the point: a kolam is thought to welcome prosperity into the home, the flour feeds small creatures, and the next morning it's drawn again.
+Kolams are meant to disappear. During the day, feet, wind and rain wear them away, and ants and birds eat the rice flour. Many families see that as part of the point. They believe a kolam welcomes prosperity into the home, the flour feeds small creatures, and the next morning it's drawn again.
 
 !!! mascot-thinking "Kolam meets computer science"
     ![Mora thinking](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
@@ -88,12 +88,12 @@ As Buddhism spread, the stupa took new shapes and names.
 - In **Nepal**, the Kathmandu Valley (a World Heritage Site since 1979) includes the great stupas of Swayambhu and Boudhanath. Boudhanath is one of the largest spherical stupas in the world.
 - In **Bhutan**, stupas are called *chortens*. Chorten Kora in eastern Bhutan, built in 1740, was modeled on Boudhanath.
 - In **Pakistan**, the hilltop Buddhist monastery of Takht-i-Bahi, founded in the 1st century CE in the old region of Gandhara, is so well preserved that UNESCO listed it in 1980.
-- In **Afghanistan**, the Bamiyan Valley held two giant Buddha figures carved into a cliff, possibly in the 6th century, surrounded by painted caves. They were destroyed by the Taliban in March 2001, an act UNESCO describes as a tragedy that "shook the world." The valley became a World Heritage Site in 2003.
+- In **Afghanistan**, the Bamiyan Valley held two giant Buddha figures carved into a cliff, probably in the 6th and early 7th centuries, surrounded by painted caves. The Taliban destroyed them in March 2001, despite pleas from around the world to spare them. The valley became a World Heritage Site in 2003.
 - In **Bangladesh**, the great Buddhist monastery at Paharpur (Somapura Mahavihara), built under the Pala kings from the late 8th century, was a center of learning until the 12th century and is a World Heritage Site (1985).
 
 ### The Hindu temple
 
-**Hindu Temple Architecture** is the set of shared design traditions used to build Hindu temples as homes for a deity. At the heart of a temple is the *garbhagriha* ("womb chamber"), a small, dark sanctum holding the image of the deity. Above it rises a tower: a *shikhara* (शिखर, *SHIK-huh-ruh*, "mountain peak") in the north, or a *vimana* in the south. In front there is usually a *mandapa*, a hall where worshippers gather, and a path for walking around the sanctum. The tower is often shaped like a mountain, and the walls are covered with sculpture.
+**Hindu Temple Architecture** is the set of shared design traditions used to build Hindu temples, which many Hindus see as homes for a deity. At the heart of a temple is the *garbhagriha* ("womb chamber"), a small, dark sanctum holding the image of the deity. Above it rises a tower: a *shikhara* (शिखर, *SHIK-huh-ruh*, "mountain peak") in the north, or a *vimana* in the south. In front there is usually a *mandapa*, a hall where worshippers gather, and a path for walking around the sanctum. The tower is often shaped like a mountain, and the walls are covered with sculpture.
 
 Historians describe two main regional styles.
 
@@ -111,9 +111,9 @@ The Brihadisvara Temple is part of the Great Living Chola Temples, a World Herit
 
 Three sites show how the style grew.
 
-1. **Humayun's Tomb, Delhi.** Commissioned in 1558 by Bega Begum, Emperor Humayun's widow, and designed by Persian architects Mirak Mirza Ghiyas and his son, it was finished around 1570. It was the first garden-tomb in the subcontinent and the first building to use red sandstone on such a scale. UNESCO calls it the model that inspired the Taj Mahal.
+1. **Humayun's Tomb, Delhi.** Commissioned by Bega Begum, Emperor Humayun's widow, after his death in 1556, and designed by the Persian architect Mirak Mirza Ghiyas and his son, it was finished around 1570. It was the first garden-tomb in the subcontinent and the first building to use red sandstone on such a scale. UNESCO calls it the model that inspired the Taj Mahal.
 2. **The Taj Mahal, Agra.** Shah Jahan ordered it in 1631 as a tomb for his wife Mumtaz Mahal, who died that year. The white marble mausoleum was built between 1631 and 1648, and the whole complex, with its gardens and red sandstone buildings, was finished around 1653. More than 20,000 workers and artisans worked on it under a board of architects led by Ustad Ahmad Lahori. It is a World Heritage Site (1983).
-3. **The Lahore Fort and Shalimar Gardens, Pakistan.** The fort holds marble palaces, a hall of mirrors (Sheesh Mahal) and the enormous Picture Wall, covered in glazed tile mosaics of court life, begun under Jahangir and finished under Shah Jahan around 1632. Shah Jahan's Shalimar Gardens (1641 to 1642) step down three terraces with pools, cascades and fountains. Both became a World Heritage Site in 1981. Across from the fort stands the Badshahi Mosque, built by Emperor Aurangzeb from 1671 to 1673, which was the largest Mughal mosque.
+3. **The Lahore Fort and Shalimar Gardens, Pakistan.** The fort holds marble palaces, a hall of mirrors (Sheesh Mahal) and the enormous Picture Wall, covered in glazed tile mosaics of court life, begun under Jahangir and finished under Shah Jahan around 1632. Shah Jahan's Shalimar Gardens (1641 to 1642) step down three terraces with pools, cascades and fountains. Both became a World Heritage Site in 1981. Across from the fort stands the Badshahi Mosque, built by Emperor Aurangzeb from 1671 to 1673, one of the largest mosques the Mughals ever built.
 
 Islamic architecture in the region didn't start with the Mughals. In southern Bangladesh, the Historic Mosque City of Bagerhat (a World Heritage Site since 1985) was founded in the 15th century by Khan Jahan Ali. Despite its name, its great brick Sixty Dome Mosque has 81 domes held up by 60 columns. And in the Maldives, builders cut mosques from coral stone: the Malé Friday Mosque (Hukuru Miskiy), completed in 1658, is built from blocks of coral that fit together without mortar. It is on UNESCO's tentative list, and on 21 January 2026 the Maldives submitted a full World Heritage nomination for it and four other coral stone mosques, which was still being evaluated in 2026.
 
@@ -136,7 +136,7 @@ Calligraphy runs through the region in many scripts. Urdu is usually written in 
 
 **Mughal Miniature Painting** is the style of small, detailed paintings made in the workshops of the Mughal emperors, either to illustrate books or to be collected in albums. It grew out of Persian miniature painting, made a tentative start under Emperor Humayun, and soon mixed with the styles of Indian painters. Under Akbar, a large workshop of artists often worked in teams: senior artists might draw the outlines, and junior artists fill in the colors, especially the backgrounds. Akbar's most ambitious project was the *Hamzanama*, a giant illustrated adventure story begun around 1562. According to his court historian, it had illustrations for 1,400 passages of the story.
 
-Mughal painters were known for realistic portraits, court scenes and nature studies. Under Emperor Jahangir, the artist Ustad Mansur became famous for his studies of birds, animals and flowers. He was the first to illustrate the Siberian crane. Pages were made with fine brushes and rich colors, sometimes on paper flecked with gold. Hindu Rajput and Pahari kings in the hills also kept painters at court, so related miniature styles flourished in Rajasthan and the Himalayan foothills.
+Mughal painters were known for realistic portraits, court scenes and nature studies. Under Emperor Jahangir, the artist Ustad Mansur became famous for his studies of birds, animals and flowers. One of his best-known works is a careful study of a Siberian crane. Pages were made with fine brushes and rich colors, sometimes on paper flecked with gold. Rajput kings in Rajasthan and Pahari kings in the Himalayan foothills also kept painters at court, so related miniature styles grew up in both places.
 
 ### Sigiriya
 
@@ -148,7 +148,7 @@ Partway up, the king had the rock face painted with colorful frescoes, and some 
 
 **Thangka** (Tibetan ཐང་ཀ, *TAHNG-kah*) is a Buddhist painting on cotton or silk that can be rolled up like a scroll, showing a deity, a scene from the Buddha's life, or a *mandala* (a circular diagram of the universe used in meditation). Thangkas are made in Nepal, Bhutan, Tibet and the Himalayan parts of India, and they are used as teaching tools and as aids for personal meditation. Painters follow precise, traditional rules about the proportions, postures and measurements of each figure, a little like the kolam artist's rules for her dot grid. Thangka painting grew in part from the Newar painting tradition of Nepal's Kathmandu Valley, called *paubha*.
 
-Bhutan makes the biggest thangkas of all. A *thongdrel* is a giant appliqué religious image, sewn from colored cloth, that covers the side of a building. It is unveiled only once a year, usually on the last day of a district's *tsechu*, Bhutan's main religious festivals. Nima Sherpa tells the club that her family's monastery in Solukhumbu keeps its thangkas rolled up and brings them out for special days.
+Bhutan is known for giant thangkas. A *thongdrel* is a giant appliqué religious image, sewn from colored cloth, that covers the side of a building. It is unveiled only once a year, usually on the last day of a district's *tsechu*, Bhutan's main religious festivals. Nima Sherpa tells the club that the monastery near her family's village in Solukhumbu keeps its thangkas rolled up and brings them out for special days.
 
 ### Madhubani Painting
 
@@ -170,9 +170,9 @@ In the late 1960s, during a severe drought, a few women began painting these des
 
 **Terracotta** (Italian for "baked earth") is clay that is shaped and then fired, usually to an orange-red color. In the delta of Bengal, where there is plenty of river clay but little building stone, builders turned brick and terracotta into an art form. Temple walls were covered with fired-clay panels showing gods, epics, hunting scenes and daily life.
 
-- The Kantajew Temple in Dinajpur, **Bangladesh**, built between 1704 and 1752, is a celebrated example of terracotta architecture, with walls covered in clay panels.
+- The Kantajew Temple in Dinajpur, **Bangladesh**, built between 1704 and 1752, has walls covered in clay panels showing scenes from the epics and daily life.
 - The Malla kings of Bishnupur, in West Bengal, **India**, built a group of terracotta temples in the 17th and 18th centuries.
-- Earlier still, the walls of the great Buddhist monastery at Paharpur in Bangladesh were covered with carved decoration.
+- Earlier still, the walls of the great Buddhist monastery at Paharpur in Bangladesh were decorated with rows of terracotta plaques.
 
 Terracotta is also a living village craft. The long-necked Bankura horse, made in Panchmura village in West Bengal, was first made for village rituals and is now a symbol of Indian folk art around the world.
 
@@ -190,7 +190,7 @@ Karachi is one of the biggest centers of the trade. In 2002, the Karachi truck p
 
 ### Rickshaw Art
 
-**Rickshaw Art** is the painting and decoration of cycle rickshaws, best known in Dhaka, Bangladesh. Almost every part of a rickshaw, from the back panel to the hood and seat, is painted with flowers, birds, animals, scenes from history and fables, national heroes, movie stars and text, then decorated with tassels, plastic flowers and tinsel. Because rickshaws move slowly through the streets, they work like a moving art gallery. Traditionally, the craft is passed down in workshops by hands-on training, and both men and women paint. In 2023, UNESCO added "Rickshaws and rickshaw painting in Dhaka" to its list of the Intangible Cultural Heritage of Humanity, partly because the craft is under pressure as motorized rickshaws spread.
+**Rickshaw Art** is the painting and decoration of cycle rickshaws, best known in Dhaka, Bangladesh. Almost every part of a rickshaw, from the back panel to the hood and seat, is painted with flowers, birds, animals, scenes from history and fables, national heroes, movie stars and text, then decorated with tassels, plastic flowers and tinsel. Because rickshaws move slowly through the streets, they work like a moving art gallery. Rickshaw builders, who are all men, learn in workshops by hands-on training. The painters include both men and women, and they usually teach the craft to their children and close relatives. In 2023, UNESCO added "Rickshaws and rickshaw painting in Dhaka" to its Representative List of the Intangible Cultural Heritage of Humanity.
 
 !!! mascot-encourage "You're surrounded by art"
     ![Mora cheering you on](../../img/mascot/encouraging.png){ class="mascot-admonition-img" }
@@ -338,7 +338,7 @@ Then press **Clear** and make your own. With **4-fold symmetry** on, draw one sm
 9. Should everyday crafts like kolam or mehndi be displayed in museums next to Mughal paintings? Evaluate the pros and cons.
     *Hint: the Whose Story? box raises the question of labels like "folk art."*
 
-10. UNESCO says rickshaw painting is under pressure as motorized rickshaws spread. Evaluate one way a community could keep a craft like this alive.
+10. Hand-painted crafts can lose customers when cheaper machine-made or printed options appear. Evaluate one way a community could keep a craft like rickshaw painting alive.
     *Hint: think about who learns it, who pays for it, and where people see it.*
 
 ### Create

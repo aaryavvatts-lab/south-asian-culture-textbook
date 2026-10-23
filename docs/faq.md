@@ -73,7 +73,7 @@ Partition was the division of British India into two independent countries, Indi
 
 ### Why is Kashmir disputed?
 
-When Britain left in 1947, the ruler of Jammu and Kashmir, a Hindu maharaja over a mostly Muslim population, joined India after fighters from Pakistan's northwest entered the state, and the first India-Pakistan war followed. India's position is that the accession was legal and final; Pakistan's position is that it was not valid and that Kashmiris should decide by a vote. Many Kashmiris hold their own views, and China also controls part of the wider region. As of 2026 the dispute is unresolved, and this book does not take a side. See [The Kashmir Dispute](chapters/04-colonialism-and-partition/index.md#48-the-kashmir-dispute).
+When Britain left in 1947, the ruler of Jammu and Kashmir, a Hindu maharaja over a mostly Muslim population, joined India after fighters from Pakistan's northwest entered the state, and the first India-Pakistan war followed. India's position is that the accession was legal and final; Pakistan's position is that it was not valid and that Kashmiris should decide by a vote. Many Kashmiris hold their own views, and China also controls part of the wider region. As of October 2026 the dispute remains unresolved, and this book does not take a side. See [The Kashmir Dispute](chapters/04-colonialism-and-partition/index.md#48-the-kashmir-dispute).
 
 ### How did Bangladesh become a country?
 
@@ -145,7 +145,7 @@ A thali is a large round plate, usually metal, holding a complete meal: a staple
 
 ### Are most South Asians vegetarian?
 
-No. In India, the most vegetarian country in the region, 39% of adults called themselves vegetarian in a 2019-2020 Pew survey, though 81% limit meat in some way. In Pakistan, Bangladesh, Afghanistan and the Maldives most people eat meat or fish, and many people in Sri Lanka, Nepal and Bhutan do too. See [Vegetarianism in South Asia](chapters/08-food-and-the-table/index.md#vegetarianism-in-south-asia).
+No. In India, 39% of adults called themselves vegetarian in a 2019-2020 Pew survey, though 81% limit meat in some way. In Pakistan, Bangladesh, Afghanistan and the Maldives most people eat meat or fish, and many people in Sri Lanka, Nepal and Bhutan do too. See [Vegetarianism in South Asia](chapters/08-food-and-the-table/index.md#vegetarianism-in-south-asia).
 
 ### What does halal mean?
 
@@ -175,7 +175,7 @@ They are related doorstep arts. Kolam is traditionally drawn in white rice flour
 
 ### Who wears the saree and the shalwar kameez?
 
-The saree is worn in India, Bangladesh, Nepal and Sri Lanka and in parts of Pakistan; it is the national attire for women in Bangladesh, and Sri Lanka has its own Kandyan style. The shalwar kameez is Pakistan's national dress but is also widely worn in India (especially Punjab), Bangladesh and Afghanistan, by people of many faiths. See [Draped Garments](chapters/12-clothing-and-textiles/index.md#126-draped-garments-saree-dhoti-and-lungi) and [Stitched Garments](chapters/12-clothing-and-textiles/index.md#127-stitched-garments-kurta-shalwar-kameez-and-dupatta).
+The saree is worn in India, Bangladesh, Nepal and Sri Lanka and in parts of Pakistan; it is widely seen as the national dress for women in Bangladesh, and Sri Lanka has its own Kandyan style. The shalwar kameez is Pakistan's national dress but is also widely worn in India (especially Punjab), Bangladesh and Afghanistan, by people of many faiths. See [Draped Garments](chapters/12-clothing-and-textiles/index.md#126-draped-garments-saree-dhoti-and-lungi) and [Stitched Garments](chapters/12-clothing-and-textiles/index.md#127-stitched-garments-kurta-shalwar-kameez-and-dupatta).
 
 ### Why are there so many versions of the Ramayana?
 
@@ -187,7 +187,7 @@ No. Bollywood is the Hindi-language industry in Mumbai. India also has large Tel
 
 ### Why is India versus Pakistan such a big deal in cricket?
 
-It is often called the most intense rivalry in the sport. The teams first played Test matches in 1952, politics has shaped the rivalry ever since, and no cricket was played between them from 1962 to 1977. When they meet, huge audiences watch, including Indian and Pakistani families in the diaspora who are friends and neighbors. See [The India-Pakistan Rivalry](chapters/15-cinema-cricket-pop-culture/index.md#the-india-pakistan-rivalry).
+It is often called the most intense rivalry in the sport. The teams first played Test matches in 1952, politics has shaped the rivalry ever since, and no cricket was played between them from 1961 to 1978. When they meet, huge audiences watch, including Indian and Pakistani families in the diaspora who are friends and neighbors. See [The India-Pakistan Rivalry](chapters/15-cinema-cricket-pop-culture/index.md#the-india-pakistan-rivalry).
 
 ### Did India invent zero?
 
@@ -357,7 +357,7 @@ Practice varies inside every faith, region and family, and the book uses "many f
 
 ### Can I use this book in my classroom?
 
-Yes. The book is free under a Creative Commons BY-NC-SA 4.0 license: you can use it in class, print it, share it and adapt it if you give credit, share your version under the same license and don't sell it. It also fits Minnesota's 2023 law requiring every high school to offer an ethnic studies course starting in 2026-27. See [For Teachers](teachers.md) and [Clubs, Organizing and Impact](chapters/22-bring-it-home/index.md#228-bring-it-home-clubs-organizing-and-impact).
+Yes. The book is free under a Creative Commons BY-NC-SA 4.0 license: you can use it in class, print it, share it and adapt it if you give credit, share your version under the same license and don't sell it. It also fits Minnesota's 2023 law requiring every public high school to offer an ethnic studies course, starting this school year, 2026-27. See [For Teachers](teachers.md) and [Clubs, Organizing and Impact](chapters/22-bring-it-home/index.md#228-bring-it-home-clubs-organizing-and-impact).
 
 ### How should I teach Partition and 1971?
 

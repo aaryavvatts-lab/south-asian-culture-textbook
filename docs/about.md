@@ -11,7 +11,7 @@ Many South Asian American teens grow up inside traditions they were never taught
 
 Good free material is scattered. Some covers only ancient history or art. Some is written for teachers, not students. Some covers a single country, or only the diaspora. No single resource is interactive, covers all eight countries of South Asia, and sends readers back to their own families with good questions. Roots & Rivers tries to be that book.
 
-It also comes at a useful time. Starting in the 2026-27 school year, Minnesota high schools must offer an ethnic studies course ([Sahan Journal](https://sahanjournal.com/education/minnesota-social-studies-standards-add-ethnic-studies); [Minn. Stat. 120B.021](https://www.revisor.mn.gov/statutes/cite/120B.021)), and teachers need free, sourced material they can trust.
+Starting in the 2026-27 school year, Minnesota high schools must offer an ethnic studies course ([Sahan Journal](https://sahanjournal.com/education/minnesota-social-studies-standards-add-ethnic-studies); [Minn. Stat. 120B.021](https://www.revisor.mn.gov/statutes/cite/120B.021)), and teachers need free, sourced material they can trust.
 
 ## What makes it different
 
@@ -23,7 +23,7 @@ It also comes at a useful time. Starting in the 2026-27 school year, Minnesota h
 
 ## How it was checked
 
-Each chapter went through several separate passes by different reviewers. A script checked the structure. Every claim was fact-checked against its source. Another review looked at nuance, balance and whether facts were current. A final edit put the language in plain words, and a script checked that no fact changed. The details, and every correction made, are on the [Accuracy and Corrections](accuracy.md) page. If you spot something wrong, please tell us.
+The chapters were drafted and checked by AI agents working under the creator's direction, with written rules for accuracy and fairness, and each chapter went through several separate passes by different agents. A script checked the structure. Every claim was fact-checked against its source. Another review looked at nuance, balance and whether facts were current. A final edit put the language in plain words, and a script checked that no fact changed. The details, and every correction made, are on the [Accuracy and Corrections](accuracy.md) page. The full process is described on [How This Book Was Made](methods.md). If you spot something wrong, please tell us.
 
 ## Who made it
 

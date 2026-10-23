@@ -74,13 +74,13 @@ Mehrgarh matters because cities need food. Farming villages like it are the root
 
 ### A civilization bigger than Egypt and Mesopotamia
 
-The **Indus Valley Civilization** was a Bronze Age civilization that grew up along the Indus River and nearby rivers, mostly in what is now Pakistan and northwestern India, with outposts as far as northeastern Afghanistan. It is also called the **Harappan Civilization**, after Harappa, the first of its cities to be found. Its full city-building phase, which archaeologists call the Mature Harappan period, lasted from **about 2600 to 1900 BCE**. Early Harappan towns go back to about 3300 BCE.
+The **Indus Valley Civilization** was a Bronze Age civilization that grew up along the Indus River and nearby rivers, mostly in what is now Pakistan and northwestern India, with outposts as far as northeastern Afghanistan. It is also called the **Harappan Civilization**, after Harappa, the first of its cities to be excavated. Its full city-building phase, which archaeologists call the Mature Harappan period, lasted from **about 2600 to 1900 BCE**. Early Harappan towns go back to about 3300 BCE.
 
 It was one of the world's three earliest civilizations, alongside Mesopotamia (in today's Iraq) and Egypt. Of the three, it covered by far the most land. According to *Encyclopaedia Britannica*, its sites stretch from Sutkagen Dor near the Arabian Sea coast of Balochistan to Ropar at the foot of the Shimla Hills in India's Punjab, and as far east as the Yamuna River basin north of Delhi. A Harappan trading post, Shortugai, even sat on the Amu Darya (Oxus) River in northern Afghanistan. Of more than a thousand known sites, most were villages and small towns.
 
 ### Harappa and Mohenjo-daro
 
-**Harappa and Mohenjo-daro** are the two best-known cities of the Indus Valley Civilization, both in present-day Pakistan. Harappa, in Punjab, was identified as an ancient site in 1921. Mohenjo-daro, in Sindh, beside the Indus River, was identified in 1922. Other large cities include Dholavira and Rakhigarhi, both in India, and Ganeriwala in Pakistan's Cholistan Desert.
+**Harappa and Mohenjo-daro** are the two best-known cities of the Indus Valley Civilization, both in present-day Pakistan. Excavations began at Harappa, in Punjab, in 1921, and at Mohenjo-daro, in Sindh, beside the Indus River, in 1922. Other large cities include Dholavira and Rakhigarhi, both in India, and Ganeriwala in Pakistan's Cholistan Desert.
 
 These cities stand out because they were planned so carefully. At Mohenjo-daro:
 
@@ -115,7 +115,7 @@ The big Indus cities did not end in one dramatic day. Britannica describes a dec
 
 The **Indus Script** is the set of signs that Indus people carved on seals, pottery, tools and small tablets. It has **not been deciphered**, which means nobody can read it with confidence.
 
-Here's why it's so hard:
+Four problems make it so hard:
 
 - **The inscriptions are tiny.** The average one is about five signs long. Imagine learning a language from license plates.
 - **There are many signs.** Scholars count around 400 (the Indian scholar Iravatham Mahadevan listed 419 in the 1970s), too many for an alphabet.
@@ -168,7 +168,7 @@ This is also when **varna**, a division of society into priests, warriors and ru
 
 Most scholars date the bulk of the Rigveda, the oldest, to about 1500 to 1000 BCE. Later layers include the **Upanishads**, philosophical dialogues about the self and ultimate reality that shaped central ideas in Hinduism.
 
-Maybe the most amazing thing about the Vedas is how they survived. For centuries nobody wrote them down at all. Teachers passed them to students by voice, using memory techniques so precise that the sound of each word stayed fixed for thousands of years. UNESCO recognized the **Tradition of Vedic Chanting** as part of the world's intangible cultural heritage (it was proclaimed in 2003 and inscribed on the list in 2008). In Hindu tradition, the Vedas are *shruti*, "what is heard," revealed to ancient sages rather than written by human authors.
+The way the Vedas survived is unusual. For centuries nobody wrote them down at all. Teachers passed them to students by voice, using memory techniques so precise that the sound of each word stayed fixed for thousands of years. UNESCO recognized the **Tradition of Vedic Chanting** as part of the world's intangible cultural heritage (it was proclaimed in 2003 and inscribed on the list in 2008). In Hindu tradition, the Vedas are *shruti*, "what is heard," revealed to ancient sages rather than written by human authors.
 
 ### Sanskrit
 
@@ -223,7 +223,7 @@ Both traditions questioned the idea that rituals performed by priests were the o
 
 The **Maurya Empire** was the first empire to rule most of the Indian subcontinent. It lasted from **about 321 to 185 BCE**, with its capital at **Pataliputra**.
 
-It was founded by **Chandragupta Maurya**, who took the Punjab after Alexander the Great's death in 323 BCE and defeated Seleucus, one of Alexander's generals, around 305 BCE. A Greek ambassador, Megasthenes, lived at his court. His book is lost, but pieces survive in later Greek and Roman writers. Chandragupta's son Bindusara pushed the empire south into the Deccan. The Mauryas ran a large government with a standing army and officials, and built a great road linking eastern Afghanistan to Pataliputra.
+It was founded by **Chandragupta Maurya**, who took the Punjab after Alexander the Great's death in 323 BCE. Around 305 BCE he fought Seleucus, one of Alexander's generals, and the two made a treaty that gave Chandragupta lands in the northwest. A Greek ambassador, Megasthenes, lived at his court. His book is lost, but pieces survive in later Greek and Roman writers. Chandragupta's son Bindusara pushed the empire south into the Deccan. The Mauryas ran a large government with a standing army and officials, and kept up a great royal road running from the northwest to Pataliputra.
 
 ### Ashoka: a ruler who changed course
 
@@ -237,7 +237,7 @@ He ended the royal hunts, and Buddhist tradition says he built many stupas (dome
 
 !!! mascot-tip "Ashoka is on your money"
     ![Mora giving a tip](../../img/mascot/tip.png){ class="mascot-admonition-img" }
-    Look at an Indian rupee note or coin. The four lions are India's state emblem, adapted from a pillar top Ashoka put up at Sarnath, and the 24-spoked wheel in the middle of India's flag is the Ashoka Chakra.
+    Look at an Indian rupee note. The lion emblem on it is India's state emblem, adapted from the four-lion pillar top Ashoka put up at Sarnath, and the 24-spoked wheel in the middle of India's flag is the Ashoka Chakra.
 
 ### The Edicts of Ashoka
 
@@ -282,7 +282,7 @@ The Tamil south grew rich from sea trade. Ports like **Muziris**, on the Malabar
 Ancient history happened across the region, not only in today's India.
 
 - In **Sri Lanka**, **Anuradhapura** became the capital of a Sinhala kingdom in the 4th century BCE (377 BCE, according to the chronicles) and stayed a capital for well over a thousand years. Tradition says Sanghamitta brought a cutting of the Bodhi tree there in the 3rd century BCE, and a tree grown from it still stands. The city became a center of Theravada Buddhism. UNESCO listed the Sacred City of Anuradhapura as a World Heritage Site in 1982.
-- In **Bangladesh**, **Mahasthangarh**, in today's Bogra District, is the earliest city site found so far. A limestone slab carved with six lines of Prakrit in the Brahmi script, found there in 1931, shows the city existed by at least the 3rd century BCE, when it was an important town under the Mauryas. Zara's Nanu calls it "very, very old," and she's right.
+- In **Bangladesh**, **Mahasthangarh**, in today's Bogura (Bogra) District, is the earliest city site found so far. A limestone slab carved with six lines of Prakrit in the Brahmi script, found there in 1931, shows the city existed by at least the 3rd century BCE, when it was an important town under the Mauryas. Zara's Nanu calls it "very, very old," and she's right.
 
 ## 2.12 The Gupta Empire and Nalanda
 
@@ -459,4 +459,4 @@ Then look for overlaps: at 100 CE, two bands are highlighted at once, the Kushan
 
 !!! mascot-celebration "Seven thousand years, done!"
     ![Mora celebrating](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
-    You just crossed about 7,000 years of history, and you can now explain why Ben's tiny seal is such a big deal. Next, in Chapter 3, new empires rise, Islam and Sikhism arrive and grow, and European ships appear on the horizon.
+    You just crossed about 7,000 years of history, and you can now explain why Ben's tiny seal is such a big deal. Next, in Chapter 3, new empires rise, Islam arrives and spreads, Sikhism begins in Punjab, and European ships appear on the horizon.

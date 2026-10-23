@@ -113,7 +113,7 @@ Open the katori on almost any thali and you'll find three building blocks that m
 
 **Dal** (दाल, *DAHL*) means split pulses, the dried seeds of plants like lentils, peas and beans, and also the soupy or thick dish made from them. Red lentils (masoor), yellow split pigeon peas (toor), split mung beans (moong), black gram (urad) and split chickpeas (chana) are all dals. Pulses are cheap, keep for a long time and are full of protein, which matters a lot in a region where many people eat little or no meat.
 
-Every region makes dal its own way. A Gujarati dal is thin and often a little sweet and sour, with jaggery (unrefined cane sugar) or a squeeze of lemon. A Bengali masoor dal is light and fragrant. Punjabi cooks slow-cook whole black urad; the rich restaurant version, dal makhani, with butter and cream, was created in Delhi in the 1950s by Punjabi cooks who had moved from Peshawar after Partition. In Nepal, cooks flavor dal with jimbu, a dried Himalayan herb fried in ghee. In Sri Lanka, red-lentil parippu is often cooked with coconut milk.
+Every region makes dal its own way. A Gujarati dal is thin and often a little sweet and sour, with jaggery (unrefined cane sugar) or a squeeze of lemon. A Bengali masoor dal is light and fragrant. Punjabi cooks slow-cook whole black urad; the rich restaurant version, dal makhani, with butter and cream, is usually credited to Punjabi cooks in Delhi in the 1950s who had moved from Peshawar after Partition. In Nepal, cooks flavor dal with jimbu, a dried Himalayan herb fried in ghee. In Sri Lanka, red-lentil parippu is often cooked with coconut milk.
 
 ### Masala
 
@@ -146,7 +146,7 @@ In wheat country, bread is the staple. **Roti and Naan** are the two names most 
 
 Roti (रोटी, *ROH-tee*) is a flat, unleavened bread made from whole-wheat flour (atta) and water and cooked on a flat griddle called a tava. It's also called chapati or phulka, and in Pakistan and Bangladesh a similar thin bread is also simply "roti." For many families in northern India and Pakistan, roti is eaten at nearly every meal, torn by hand and used to scoop up dal and vegetables. "Roti" can even mean "food" or "a living," the way "bread" sometimes does in English.
 
-Naan (नान, Urdu نان, *NAHN*) comes from the Persian word *nan*, which simply means "bread." It is usually made from white flour, leavened (allowed to rise), and slapped onto the inside wall of a tandoor, a very hot clay oven. The earliest mention of naan in South Asia is in the memoirs of the poet Amir Khusrau, in the 1300s. Because few homes have a tandoor, naan in India is mostly a restaurant or special-occasion bread. In Afghanistan and in Pakistani cities, though, naan from a neighborhood tandoor bakery is an everyday bread. So naan is common in some places and rare in others, which surprises many people who only know it from restaurants abroad.
+Naan (नान, Urdu نان, *NAHN*) comes from the Persian word *nan*, which simply means "bread." It is usually made from white flour, leavened (allowed to rise), and slapped onto the inside wall of a tandoor, a very hot clay oven. The earliest mention of naan in South Asia is in the memoirs of the poet Amir Khusrau, in the 1300s. Because few homes have a tandoor, naan in India is mostly a restaurant or special-occasion bread. In Afghanistan and in Pakistani cities, though, naan from a neighborhood tandoor bakery is an everyday bread.
 
 Other breads fill out the picture: paratha (layered, pan-fried bread), puri (puffed, deep-fried bread), bajra rotla (millet bread) in Gujarat, the Maldivian roshi, and the godamba roti of Sri Lanka.
 
@@ -167,7 +167,7 @@ Biryani shows how a dish can belong to many places at once, which comes up again
 
 South Asian cooking had no chili peppers until about 500 years ago, which surprises a lot of people.
 
-Chili peppers come from the Americas. So do potatoes, tomatoes, maize (corn), peanuts, cashews, pineapples and papaya. After Christopher Columbus crossed the Atlantic in 1492, plants, animals, people and diseases began moving between the Americas and the rest of the world. Historian Alfred Crosby named this the **Columbian Exchange** in a 1972 book. It changed diets on every continent: wheat and cattle went to the Americas, and corn, potatoes and chilies went to Europe, Africa and Asia.
+Chili peppers come from the Americas. So do potatoes, tomatoes, maize (corn), peanuts, cashews, pineapples and papaya. After Christopher Columbus crossed the Atlantic in 1492, plants, animals, people and diseases began moving between the Americas and the rest of the world. Historian Alfred Crosby named this the **Columbian Exchange** in a 1972 book. It changed diets around the world: wheat and cattle went to the Americas, and corn, potatoes and chilies went to Europe, Africa and Asia.
 
 The Portuguese reached India by sea in 1498 and took the port of Goa in 1510. Their ships carried chili peppers from Brazil, and by the 1500s chilies were growing in Goa. Chilies were easy to grow and cheaper than black pepper, the region's older source of heat, so farmers and cooks across the subcontinent took them up. Within a few centuries chilies were everywhere.
 
@@ -197,7 +197,7 @@ So chai is both a product of colonial business and a very South Asian creation. 
 
 ### Street food
 
-**Street Food** is food made and sold by vendors at stalls, carts and tiny shops, eaten standing up or on the go. It's often cheap, fast, and the thing people miss most after they move abroad.
+**Street Food** is food made and sold by vendors at stalls, carts and tiny shops, eaten standing up or on the go. It's often cheap and fast, and it's one of the things people miss most after they move abroad.
 
 One snack shows how street food changes from city to city: a hollow, crisp ball of fried dough filled with potato or chickpeas and dipped in spiced, tangy water. In Mumbai and much of India, and in Nepal, it's called panipuri. In Delhi and Pakistan it's golgappa. In Kolkata and Bangladesh it's phuchka, often sour and very spicy, and in Bangladesh it's filled with chotpoti and topped with egg. Phuchka even crossed oceans: by 2018 a Bangladeshi immigrant was selling it from a cart in Jackson Heights, New York City.
 
@@ -205,7 +205,7 @@ Many other street foods belong to a family called chaat (चाट, *CHAHT*), fr
 
 - **Sri Lanka:** kottu roti, chopped flatbread stir-fried on a hot griddle with vegetables, egg or meat. It began as an inexpensive street meal in eastern Sri Lanka in the 1960s or 1970s.
 - **Nepal:** momos, steamed dumplings filled with meat or vegetables and served with a tomato-based achar.
-- **Pakistan:** nihari, a slow-cooked meat stew whose name comes from the Arabic word for "morning" because it was first a breakfast dish, became a Karachi favorite after 1947, when migrants from north India opened restaurants there.
+- **Pakistan:** nihari, a slow-cooked meat stew whose name comes from the Arabic *nahar* (daytime) because it was first eaten as a morning meal, became a Karachi favorite after 1947, when migrants from north India opened restaurants there.
 - **India and Bangladesh:** samosas, pakoras, and endless fried and grilled snacks.
 
 ### Mithai
@@ -224,7 +224,7 @@ Some well-known examples:
 Mithai are tied to big moments. Families hand out sweets for good exam results, new babies, weddings, Eid and Diwali, and a box of sweets is one of the most common gifts when visiting someone's home.
 
 !!! abstract "Whose Story?"
-    Who does a dish belong to? In 2017 India's registry of Geographical Indications (labels that tie a product to a place) gave West Bengal a tag for "Banglar Rasogolla," and in 2019 it gave Odisha one for "Odisha Rasagola." Many people in Odisha trace the sweet to offerings at the Jagannath temple in Puri, while many in Bengal credit a Kolkata confectioner, Nobin Chandra Das, in the 1860s, and food historians still disagree about how much evidence supports each story. Biryani's origin is debated in a similar way: some historians credit the Mughal court, others earlier Persian travelers to the Deccan, and Hyderabad, Lucknow, Kolkata, Karachi and Dhaka each defend their own version. The two tags were given to two *different versions*, not to one "true" origin, and that may be the fairest answer.
+    Who does a dish belong to? In 2017 India's registry of Geographical Indications (labels that tie a product to a place) gave West Bengal a tag for "Banglar Rasogolla," and in 2019 it gave Odisha one for "Odisha Rasagola." Many people in Odisha trace the sweet to offerings at the Jagannath temple in Puri, while many in Bengal credit a Kolkata confectioner, Nobin Chandra Das, in the 1860s, and food historians still disagree about how much evidence supports each story. Biryani's origin is debated in a similar way: some historians credit the Mughal court, others earlier Persian travelers to the Deccan, and Hyderabad, Lucknow, Kolkata, Karachi and Dhaka each defend their own version. The two tags went to two *different versions* of the sweet and did not settle which one came first.
 
 ## 8.10 Food and Faith
 
@@ -276,7 +276,7 @@ Done well, it's a skill that children learn at the family table, and many people
 
 ### Hospitality Customs
 
-**Hospitality Customs** are the expected ways of welcoming and feeding guests. Across South Asia, being a generous host is a matter of family honor. A Sanskrit line from the Taittiriya Upanishad, *atithi devo bhava*, "the guest is like a god," is still quoted in India today. Families in Pakistan, Bangladesh, Afghanistan and Nepal have their own sayings and strong traditions of welcoming guests, too.
+**Hospitality Customs** are the expected ways of welcoming and feeding guests. In many families across South Asia, being a generous host is a matter of family honor. A Sanskrit line from the Taittiriya Upanishad, *atithi devo bhava*, "the guest is like a god," is still quoted in India today. Families in Pakistan, Bangladesh, Afghanistan and Nepal have their own sayings and strong traditions of welcoming guests, too.
 
 Some customs that many families share:
 
@@ -347,7 +347,7 @@ Next, tick **Non-vegetarian version** and step through all seven regions with th
 **Reality:** Many dishes are mild, sweet, sour or tangy. Spices like cumin, cardamom, cinnamon and turmeric add flavor, not heat, and many everyday dishes, like a Gujarati dal or Bengali mishti doi, are not spicy at all. Heat levels also vary by region and family.
 
 **Myth:** Most South Asians are vegetarian.  
-**Reality:** In India, the most vegetarian country in the region, 39% of adults said they were vegetarian in a 2019-2020 Pew survey, though 81% limit meat in some way. In Pakistan, Bangladesh, Afghanistan and the Maldives, most people eat meat or fish, and many people in Sri Lanka, Nepal and Bhutan do too.
+**Reality:** In India, 39% of adults said they were vegetarian in a 2019-2020 Pew survey, though 81% limit meat in some way. In Pakistan, Bangladesh, Afghanistan and the Maldives, most people eat meat or fish, and many people in Sri Lanka, Nepal and Bhutan do too.
 
 **Myth:** Chili peppers are native to India.  
 **Reality:** Chilies come from the Americas. Portuguese traders brought them to India in the 1500s, through Goa, as part of the Columbian Exchange. Before that, heat came from black pepper and other local spices.

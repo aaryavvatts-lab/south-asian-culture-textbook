@@ -88,6 +88,10 @@ Before meeting each faith, it helps to see where people of different faiths live
 | Pakistan | Islam, 96.35% | Hindus about 3.9 million, plus about 1.3 million in a separate Scheduled Castes category, many of them Hindu Dalit communities; Christians about 3.3 million | 2023 census |
 | Sri Lanka | Buddhism, 69.8% | Hindus 12.6%; Muslims 10.7%; Christians about 6.9% | 2024 census |
 
+The chart below shows the same idea a second way. It uses Pew Research Center's 2020 estimates, which apply one method to all eight countries, so its numbers differ a little from the census figures in the table. Hover over or tap a bar to see each share.
+
+<div class="rr-chart" data-chart="faiths"></div>
+
 A few things jump out. India's figures come from the 2011 census, so treat them as a snapshot from fifteen years ago. India's next census counts its population in February 2027. Even small percentages can mean huge numbers of people: India's 14.2% Muslim share in 2011 was about 172 million people, one of the largest Muslim populations in the world. And no country lines up with only one faith. Every country on the list is home to several.
 
 ## 5.4 Hinduism
@@ -96,7 +100,7 @@ A few things jump out. India's figures come from the 2011 census, so treat them 
 
 **Hinduism** is a family of related traditions, beliefs and practices that grew in South Asia over thousands of years, with no single founder, no single holy book and no single central authority. Most Hindus live in India and Nepal, the two Hindu-majority countries of South Asia. There are also large Hindu communities in Bangladesh, in Sri Lanka (mostly among Tamils in the north and east), in Pakistan (mostly in Sindh), in Bhutan, and around the world.
 
-The word "Hindu" was first used by outsiders, from the name of the Indus River (Sindhu). Many Hindus also call their tradition *Sanatana Dharma*, "the eternal way." Inside that family are many traditions. Some Hindus focus their devotion on Vishnu (often as Krishna or Rama), some on Shiva, and some on the Goddess (Devi) in forms such as Durga or Kali. Many worship several deities, and many describe them as forms of one divine reality. In Pew Research Center's 2021 survey of India, 84% of Hindus either picked more than one god as feeling close to them or said they have many personal gods, and 61% said there is one God with many manifestations.
+The word "Hindu" was first used by outsiders, from the name of the Indus River (Sindhu). Many Hindus also call their tradition *Sanatana Dharma*, "the eternal way." Inside that family are many traditions. Some Hindus focus their devotion on Vishnu (often as Krishna or Rama), some on Shiva, and some on the Goddess (Devi) in forms such as Durga or Kali. Many worship several deities, and many describe them as forms of one divine reality. In Pew Research Center's 2021 survey of India, 84% of Hindus who believe in God either picked more than one god as feeling close to them or said they have many personal gods, and 61% said there is one God with many manifestations.
 
 ### Sacred texts
 
@@ -133,7 +137,7 @@ Buddhism spread from South Asia across Asia and developed different schools. In 
 | Typical place | A vihara (monastery temple) with a stupa | A monastery; in Bhutan, many sit inside dzongs (fortress-like centers) |
 | Example | Dilan Perera's family in Kandy visits the Temple of the Tooth Relic | Nima Sherpa's family follows the Nyingma school of Tibetan Buddhism |
 
-The big Buddhist festival in Sri Lanka is Vesak (Sinhala වෙසක්, *VEH-suk*), held on the full moon of the month of Vesak, usually in May. In Theravada tradition it marks the Buddha's birth, enlightenment and passing. Streets and homes glow with lanterns called Vesak kudu, and volunteers set up stalls called dansalas that hand out free food and drinks to passersby. In Bangladesh, Buddhists are a small minority (0.61% in 2022), and almost all of them live in Chattogram Division, where Zara's parents grew up, especially in the Chittagong Hill Tracts to the east of the city.
+The big Buddhist festival in Sri Lanka is Vesak (Sinhala වෙසක්, *VEH-suk*), held on the full moon of the month of Vesak, usually in May. In Theravada tradition it marks the Buddha's birth, enlightenment and passing. Streets and homes glow with lanterns called Vesak kudu, and volunteers set up stalls called dansalas that hand out free food and drinks to passersby. In Bangladesh, Buddhists are a small minority (0.61% in 2022), and most of them live in Chattogram Division, where Zara's parents grew up, especially in the Chittagong Hill Tracts to the east of the city.
 
 ## 5.6 Jainism and Ahimsa
 
@@ -173,7 +177,7 @@ Both branches share the Quran, the Five Pillars and most beliefs, and in many So
 
 **Sikhism** is a faith founded in Punjab by Guru Nanak (1469 to 1539), which teaches devotion to one God, honest work, sharing with others, and the equality of all people. You met Guru Nanak in [Chapter 3](../03-empires-and-encounters/index.md). In Sikh tradition, nine more human Gurus followed him. The tenth, **Guru Gobind Singh**, created the **Khalsa**, the community of initiated Sikhs, on Vaisakhi in 1699. Initiated Sikhs keep five articles of faith, including uncut hair (often covered by a turban) and a steel bracelet called a kara.
 
-Sikhs believe in one God, expressed in the phrase **Ik Onkar**, "one creator," the opening words of their scripture. Most Sikhs live in Punjab in India, where they are the majority. Some of Sikhism's holiest places, including Nankana Sahib, Guru Nanak's birthplace, and Kartarpur, where he died, are in Pakistan. In 2019 a visa-free corridor opened so pilgrims from India could cross to the gurdwara at Kartarpur. India suspended it in May 2025 amid tensions between the two countries, and as of October 2026 it remained closed to Indian pilgrims, although Pakistan says its side is open.
+Sikhs believe in one God, expressed in the phrase **Ik Onkar**, "one creator," the opening words of their scripture. Most Sikhs live in Punjab in India, where they are the majority. Some of Sikhism's holiest places, including Nankana Sahib, Guru Nanak's birthplace, and Kartarpur, where he died, are in Pakistan. In 2019 a visa-free corridor opened so pilgrims from India could cross to the gurdwara at Kartarpur. India suspended it in May 2025 amid tensions between the two countries. It was still closed to Indian pilgrims at its sixth anniversary in November 2025, although Pakistan says its side is open.
 
 ### The Guru Granth Sahib
 
@@ -257,7 +261,7 @@ Some signs of shared life:
 - **Shared scripture.** The Guru Granth Sahib includes hymns by Hindu and Muslim saints.
 - **Shared values.** In the same survey, most Indians of every major faith said respecting all religions is very important to being truly Indian.
 
-But the same Pew report was titled "Tolerance and Segregation." It found that many people in India, while valuing respect for other faiths, said their close friends came mostly from their own group, and large majorities of both Hindus and Muslims said it was very important to stop members of their community from marrying outside the faith. Across the region, religious minorities have at times faced discrimination and violence, and communal violence has caused terrible suffering on all sides, as [Chapter 4](../04-colonialism-and-partition/index.md) shows for Partition. Pluralism is not automatic. It is something communities build and protect.
+But the same Pew report was titled "Tolerance and Segregation." It found that many people in India, while valuing respect for other faiths, said their close friends came mostly from their own group, and large majorities of both Hindus and Muslims said it was very important to stop members of their community from marrying outside the faith. Across the region, religious minorities have at times faced discrimination and violence, and communal violence has caused terrible suffering on all sides, as [Chapter 4](../04-colonialism-and-partition/index.md) shows for Partition.
 
 !!! abstract "Whose Story?"
     Who gets to define a faith? Many Hindus prefer the name Sanatana Dharma to "Hinduism," a label that grew from an outsider's word. Many Sikhs object when textbooks call Sikhism a "mix" of Hinduism and Islam, because in Sikh understanding it is a distinct revelation through Guru Nanak. In Pakistan, some church leaders say the 2023 census undercounted Christians, whom it counted at 1.37% of the population. Ahmadis describe themselves as Muslims, but most other Muslims reject their belief that their founder, Mirza Ghulam Ahmad, was a prophet. Since 1974, Pakistan's constitution has classified them as non-Muslims, so the same people are counted differently depending on who is counting. That's why this book describes each faith the way its own followers usually describe it, and notes where counts are disputed.
@@ -286,7 +290,7 @@ But the same Pew report was titled "Tolerance and Segregation." It found that ma
 
 The sim opens in Compare mode with Sikhism and Islam side by side through the Place of worship lens. Start there, then switch the lens to Sacred texts, A major festival and A core idea, and read both cards each time. Then tap different tiles to compare other pairs: Hinduism and Jainism on "A core idea," or Buddhism and Christianity on "Origins."
 
-As you compare, notice what is similar and what is different, and notice the note under the tiles: the order is alphabetical and every tile is the same size. Try writing one sentence for each pair that compares them without saying either is better. That's harder than it sounds, and it's exactly the skill this chapter is about.
+As you compare, notice what is similar and what is different, and notice the note under the tiles: the order is alphabetical and every tile is the same size. Try writing one sentence for each pair that compares them without saying either is better. That's harder than it sounds.
 
 ## Ask Your Elders
 

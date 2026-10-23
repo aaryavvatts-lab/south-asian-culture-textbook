@@ -52,7 +52,7 @@ Zara wants to do something with all of it. A booklet? A club night? A post? But 
 
 Ben Lindqvist has a different worry. He's been the club's first non-South Asian member all year. He ran the quiz games, learned to count Teentaal and ate more biryani than anyone. Now some new freshmen are asking to join, and one of them asked him, "Is it weird that you're in it?" Ben texts Zara: "How do I help the club without being the guy who takes over? Like, what's my actual job?"
 
-Two questions, one evening. How do you turn what you've learned into something that lasts, and how does everyone, whatever their background, take part in a way that's fair? This chapter answers both.
+Zara and Ben have two questions between them. How do you turn what you've learned into something that lasts, and how does everyone, whatever their background, take part in a way that's fair? This chapter answers both.
 
 ## 22.2 Who Am I? Cultural Identity
 
@@ -62,7 +62,7 @@ Identity works a lot like that.
 
 **Cultural Identity** is a person's sense of belonging to one or more cultural groups, built from family, language, faith, food, place, history and the people around them. It is partly given (you didn't choose your grandparents) and partly chosen (you decide what to carry forward), and it changes over a lifetime.
 
-For a teen with roots in South Asia, it might include a home region like Punjab, Kerala, Kandy or Chattogram, a language a grandparent speaks, a faith or a family's values, festival foods, and a Minnesota suburb with long winters and hockey. None of these makes someone "more" or "less" South Asian. Zara understands Bangla but answers in English, and that bothers her a little. She is not alone: in a Pew Research Center analysis of 2021-23 Census Bureau survey data, 28% of Indian Americans ages 5 and older spoke only English at home. Many heritage speakers understand far more than they say. That still counts.
+For a teen with roots in South Asia, it might include a home region like Punjab, Kerala, Kandy or Chattogram, a language a grandparent speaks, a faith or a family's values, festival foods, and a Minnesota suburb with long winters and hockey. None of these makes someone "more" or "less" South Asian. Zara understands Bangla but answers in English, and that bothers her a little. She is not alone: in a Pew Research Center analysis of 2021-23 Census Bureau survey data, 28% of Indian Americans ages 5 and older spoke only English at home. Many heritage speakers understand far more than they say, and that understanding counts.
 
 ### Labels and the hyphen
 
@@ -83,11 +83,11 @@ The word desi (देसी, *DAY-see*) comes from Hindi-Urdu and means "of the 
 
 **Third Culture Kids** are people who spent a large part of their childhood living in a culture different from their parents', usually because a parent's job moved the family between countries. The term comes from Ruth Useem, a sociologist at Michigan State University, who first used it in the 1960s for the children of Americans working abroad. She had developed the idea of a "third culture" with her husband, John Useem, after a year-long research stay in India. The "first culture" is the parents' home culture, the "second" is where the family lives, and the "third" is the blend the child builds from both.
 
-Strictly speaking, children of immigrants who settle in one country, like Zara, aren't usually called third culture kids. But many second-generation teens say the idea fits how they feel: at home in two places, and fully at home in neither. Arjun Reddy, a friend from school, says he's "Hyderabad at dinner and Minnesota at practice." That in-between space isn't a problem to fix. A lot of creativity comes from it.
+Strictly speaking, children of immigrants who settle in one country, like Zara, aren't usually called third culture kids. But many second-generation teens say the idea fits how they feel: at home in two places, and fully at home in neither. Arjun Reddy, a friend from school, says he's "Hyderabad at dinner and Minnesota at practice."
 
 !!! mascot-thinking "Culture moves"
     ![Mora thinking](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
-    If culture never changed, nobody in South Asia would cook with chilies, which arrived from the Americas, probably with Portuguese traders, in the 1500s. When you mix traditions, you aren't breaking your culture. You're doing what every generation before you did.
+    If culture never changed, nobody in South Asia would cook with chilies, which arrived from the Americas, probably with Portuguese traders, in the 1500s. Mixing traditions is what every generation before you did too.
 
 ## 22.3 Stereotypes and Colorism
 
@@ -115,7 +115,7 @@ One well-documented example is Fair & Lovely, a skin-lightening cream made by Hi
 
 ## 22.4 Appreciation or Appropriation?
 
-Picture a jacket. In one version, a friend asks to borrow your grandfather's old jacket, learns the story behind it and tells people, "This was Zara's grandfather's." In another, someone takes it without asking, wears it as a joke costume and later sells copies under their own name. Same jacket, very different relationship.
+Picture a jacket. In one version, a friend asks to borrow your grandfather's old jacket, learns the story behind it and tells people, "This was Zara's grandfather's." In another, someone takes it without asking, wears it as a joke costume and later sells copies under their own name. It's the same jacket, but the relationship is very different.
 
 **Cultural Appropriation** is when someone, usually from a more powerful or dominant group, takes an element of another group's culture (clothing, symbols, music, sacred practices) in a way that ignores its meaning, gives no credit, or turns it into a costume or product without the community's involvement. It stings most when the people who created a tradition were mocked for the very same thing.
 
@@ -140,7 +140,7 @@ When you're not sure, ask yourself: Do I know what this means to the people it c
 
 Back to Ben's question: "What's my actual job?"
 
-**Allyship** is the ongoing practice of supporting a group you are not part of, by listening, learning, showing up and using whatever voice or access you have to back that group, while letting its members lead and speak for themselves. It's something you do again and again, not a title you give yourself.
+**Allyship** is the ongoing practice of supporting a group you are not part of, by listening, learning, showing up and using whatever voice or access you have to back that group, while letting its members lead and speak for themselves. You show it by what you keep doing, over and over.
 
 For Ben, that looks like:
 
@@ -166,7 +166,7 @@ A book can explain the monsoon, Partition or a wedding custom. It can't tell you
 
 **Intergenerational Dialogue** is conversation between people of different generations, such as grandparents, parents and teens, in which each side learns from the other. Teens ask, elders tell, and sometimes elders ask back: "Why does your club do Diwali in October? We did it differently." A structured interview often opens up stories that never come out at the dinner table.
 
-**Oral History** is the practice of recording people's memories of their own lives, in their own words, and keeping those recordings or notes so others can learn from them later. Memory isn't a database: two people can remember the same day differently. Oral history doesn't replace documents. It adds what documents leave out, like feelings, daily life and the voices of people who rarely appear in official records.
+**Oral History** is the practice of recording people's memories of their own lives, in their own words, and keeping those recordings or notes so others can learn from them later. Two people can remember the same day differently, so oral history works alongside documents. It adds what documents leave out, like feelings, daily life and the voices of people who rarely appear in official records.
 
 The Bangla word for "story" is গল্প (*GOL-po*), and the Urdu word is کہانی (*ka-HAA-nee*). Families across South Asia have passed down golpo and kahani for generations without writing them down. Oral history makes sure they aren't lost when the storytellers are gone.
 
@@ -243,20 +243,20 @@ At a larger scale, UNESCO keeps lists of intangible cultural heritage, meaning l
 | Tradition | Country | Added to UNESCO's lists |
 |---|---|---|
 | Durga Puja in Kolkata | India | 2021 |
-| Mangal Shobhajatra, the Pohela Boishakh new year procession (renamed in Dhaka in [April 2025](https://en.prothomalo.com/bangladesh/city/8b8g0qv0ow) to an earlier name, Barshabaran Ananda Shobhajatra) | Bangladesh | 2016 |
+| Mangal Shobhajatra, the Pohela Boishakh new year procession in Dhaka (its organizers renamed it Barshabaran Ananda Shobhajatra, close to its first name from 1989, in [April 2025](https://en.prothomalo.com/bangladesh/city/8b8g0qv0ow), and Baishakhi Shobhajatra in [April 2026](https://www.thedailystar.net/culture/news/baishakhi-shobhajatra-turns-vibrant-after-years-disruption-4151416)) | Bangladesh | 2016 |
 | Suri Jagek, the Kalasha people's way of reading the sun, moon and stars to plan the farming year | Pakistan | 2018 |
 | Rūkada Nātya, string puppet drama | Sri Lanka | 2018, the country's first element |
 | Drametse Ngacham, the mask dance of the drums from Drametse | Bhutan | proclaimed 2005, inscribed 2008 |
 
 When the Drametse mask dance was first proclaimed, the listing noted that fewer people were practicing it, partly because young people were losing interest. Lists help, but a tradition survives only when people, often young people, keep doing it.
 
-Preservation is not the same as freezing. Durga Puja in Kolkata today, with its giant themed pandals, looks different from a century ago, and it's still Durga Puja. A family that serves biryani next to the turkey at Thanksgiving is a living culture adapting, not one being lost.
+Preservation is not the same as freezing. Durga Puja in Kolkata today, with its giant themed pandals, looks different from a century ago, and it's still Durga Puja. A family that serves biryani next to the turkey at Thanksgiving is keeping its culture alive by adapting it.
 
 ## 22.8 Bring It Home: Clubs, Organizing and Impact
 
 The last step is the one in the chapter's title: doing something with what you've learned.
 
-**Student Clubs** are student-run groups at a school, usually with a faculty advisor, that meet regularly around a shared interest or identity. A South Asian Student Association is one kind. Clubs give students a place to belong and a chance to practice leading. Under a 2023 Minnesota law, every Minnesota high school must offer an ethnic studies course starting in the 2026-27 school year, and a club can be a natural partner for that class. The [Club Kit](../../club-kit.md) has a two-year plan of 45-minute meetings mapped to the chapters, officer roles, food and allergy notes, and a guide to Ask Your Elders nights.
+**Student Clubs** are student-run groups at a school, usually with a faculty advisor, that meet regularly around a shared interest or identity. A South Asian Student Association is one kind. Clubs give students a place to belong and a chance to practice leading. Under a 2023 Minnesota law, every Minnesota public high school must offer an ethnic studies course starting this school year, 2026-27 (it is not a graduation requirement), and a club can be a natural partner for that class. The [Club Kit](../../club-kit.md) has a two-year plan of 45-minute meetings mapped to the chapters, officer roles, food and allergy notes, and a guide to Ask Your Elders nights.
 
 **Community Organizing** is people working together, in a planned way, toward a shared goal for their community, by finding out what people need, building relationships, dividing up the work and acting together. For a club, it might go like this:
 
@@ -338,7 +338,7 @@ Press **New questions** to see other questions from the same theme, then **Print
 **Reality:** The difference lies in meaning, invitation, credit and power. Wearing a saree to a friend's wedding when invited is very different from wearing a bindi as a party costume or selling a tradition without credit.
 
 **Myth:** You need to speak your heritage language fluently to really belong.  
-**Reality:** Many heritage speakers understand more than they speak, and in 2021-23, 28% of Indian Americans ages 5 and older spoke only English at home (Pew Research Center). Belonging comes from connection, curiosity and relationships, not a language test.
+**Reality:** Many heritage speakers understand more than they speak, and in 2021-23, 28% of Indian Americans ages 5 and older spoke only English at home (Pew Research Center). Belonging grows from connection and relationships, and nobody has to pass a language test first.
 
 **Myth:** One person's story speaks for the whole community.  
 **Reality:** Every oral history is one person's experience and memory. A Partition story from one family in Lahore and another from a family in Amritsar can both be true and still be very different. That's why oral historians collect many voices.

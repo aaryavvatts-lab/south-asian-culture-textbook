@@ -116,7 +116,7 @@ What is a key reason the India-Pakistan cricket rivalry is so intense?
 </div>
 
 ??? question "Show Answer"
-    The correct answer is **C**. The rivalry has been shaped by history and politics, including no matches from 1962 to 1977 and no bilateral series since a short one in 2012 to 2013, so rare tournament meetings carry huge weight. Option A is wrong: they meet rarely, which is part of what makes each match special.
+    The correct answer is **C**. The rivalry has been shaped by history and politics, including no matches from 1961 to 1978 and no bilateral series since a short one in 2012 to 2013, so rare tournament meetings carry huge weight. Option A is wrong: they meet rarely, which is part of what makes each match special.
 
     **Concept Tested:** India-Pakistan Rivalry
     **Bloom's Level:** Understand

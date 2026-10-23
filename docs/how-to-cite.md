@@ -9,15 +9,15 @@ If you use Roots & Rivers in a class, a project or a paper, please cite it.
 
 **APA (7th edition)**
 
-Sharma, A. (2026). *Roots & Rivers: An interactive guide to South Asian cultures for high school students* (Version 1.0). https://aaryavvatts-lab.github.io/south-asian-culture-textbook/
+Sharma, A. (2026). *Roots & Rivers: An interactive guide to South Asian cultures for high school students* (Version 1.1). https://aaryavvatts-lab.github.io/south-asian-culture-textbook/
 
 **MLA (9th edition)**
 
-Sharma, Aaryav. *Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students*. Version 1.0, 2026, aaryavvatts-lab.github.io/south-asian-culture-textbook/.
+Sharma, Aaryav. *Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students*. Version 1.1, 2026, aaryavvatts-lab.github.io/south-asian-culture-textbook/.
 
 **Chicago**
 
-Sharma, Aaryav. *Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students*. Version 1.0. 2026. https://aaryavvatts-lab.github.io/south-asian-culture-textbook/.
+Sharma, Aaryav. *Roots & Rivers: An Interactive Guide to South Asian Cultures for High School Students*. Version 1.1. 2026. https://aaryavvatts-lab.github.io/south-asian-culture-textbook/.
 
 **BibTeX**
 
@@ -26,7 +26,7 @@ Sharma, Aaryav. *Roots & Rivers: An Interactive Guide to South Asian Cultures fo
   author    = {Sharma, Aaryav},
   title     = {Roots \& Rivers: An Interactive Guide to South Asian Cultures for High School Students},
   year      = {2026},
-  edition   = {Version 1.0},
+  edition   = {Version 1.1},
   url       = {https://aaryavvatts-lab.github.io/south-asian-culture-textbook/},
   note      = {Open textbook, CC BY-NC-SA 4.0}
 }

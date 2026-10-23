@@ -102,7 +102,7 @@ What Diwali celebrates depends on who you ask.
 - **Jains** mark Diwali as the anniversary of the *nirvana* (final liberation) of Mahavira, the last of the Jain Tirthankaras.
 - **Newar Buddhists** of Nepal's Kathmandu Valley also celebrate the festival, which they call Swanti.
 
-Diwali is a public holiday in India (8 November in 2026, according to the Government of India's holiday list), and Hindu communities in Pakistan, Bangladesh and Sri Lanka celebrate it too. In Nepal, the five-day festival of the same season is called Tihar (Section 7.4). In 2025, a resolution introduced in the US House of Representatives recognized Diwali as a festival celebrated by "Hindus, Sikhs, Jains, and others" across the United States.
+Diwali is a public holiday in India (8 November in 2026, according to the Government of India's holiday list), and Hindu communities in Pakistan, Bangladesh and Sri Lanka celebrate it too. In Nepal, the five-day festival of the same season is called Tihar (Section 7.4). In the United States, California made Diwali a state holiday under a law signed in October 2025 that took effect in 2026, following Pennsylvania (2024) and Connecticut (2025). That same month, a resolution introduced in the US House of Representatives described Diwali as a festival celebrated by "Hindus, Sikhs, Jains, and others" across the country.
 
 ### Holi
 
@@ -116,7 +116,7 @@ Because Holi follows a lunisolar calendar, it can fall anywhere from late Februa
 
 ### Navaratri and Durga Puja
 
-**Navaratri and Durga Puja** are two names for the great autumn festival of the goddess. *Navaratri* (नवरात्रि, *nuh-vuh-RAHT-ree*) means "nine nights." It begins the day after the new moon of the month of Ashvin, usually in September or October, and the tenth day is Vijayadashami, often called Dussehra, "the tenth day of victory." In 2026, India's central government listed Dussehra on 20 October.
+**Navaratri and Durga Puja** are two names for the great autumn festival of the goddess. *Navaratri* (नवरात्रि, *nuh-vuh-RAHT-ree*) means "nine nights." It begins the day after the new moon that opens the month of Ashvin (so about a month before Diwali's new moon), usually in September or October, and the tenth day is Vijayadashami, often called Dussehra, "the tenth day of victory." In 2026, India's central government listed Dussehra on 20 October.
 
 The same nine nights look very different across the region.
 
@@ -128,7 +128,7 @@ The same nine nights look very different across the region.
 
 **Dashain and Tihar** are Nepal's two biggest festivals, about three weeks apart in the autumn.
 
-**Dashain** (दशैं, *duh-SHAIN*) is Nepal's version of the Navaratri season. It is the longest and most important festival in the country's calendar, lasting 15 days, usually in September or October. On the first day, families plant barley seeds indoors. By the tenth day the seeds have grown into pale yellow shoots called *jamara*. On that day, elders put a *tika* (a mark of red rice and yogurt) on the foreheads of younger relatives, tuck *jamara* behind their ears and give their blessing. Dashain is celebrated by Nepali families of many backgrounds, and also in Bhutan and in Nepali-speaking parts of India.
+**Dashain** (दशैं, *duh-SHAIN*) falls on the same autumn days as Navaratri. It is the longest and most important festival in the country's calendar, lasting 15 days, usually in September or October. On the first day, families plant barley seeds indoors. By the tenth day the seeds have grown into pale yellow shoots called *jamara*. On that day, elders put a *tika* (a mark of red rice and yogurt) on the foreheads of younger relatives, tuck *jamara* behind their ears and give their blessing. Dashain is celebrated by Nepali families of many backgrounds, and also in Bhutan and in Nepali-speaking parts of India. It is not shared by everyone in Nepal, though. Since the 1990s some Indigenous (Janajati) groups have chosen not to celebrate it, because they see it as a Hindu festival the old Hindu monarchy expected every community to keep, while other Janajati families celebrate it in their own way.
 
 **Tihar** (तिहार, *tee-HAAR*) is Nepal's five-day festival of lights, in the same season as Diwali. Each day honors someone different: crows on the first day, dogs on the second (Kukur Tihar, when dogs get flower garlands and treats), cows and the goddess Lakshmi on the third, oxen on the fourth, and siblings on the last day, Bhai Tika, when sisters bless their brothers. Children go house to house singing songs called Deusi and Bhailo, a little like caroling. Among Newar communities of the Kathmandu Valley the festival is called Swanti.
 
@@ -167,11 +167,11 @@ Zara's family wakes up before dawn for *sehri* (the predawn meal; in Arabic it's
 
 ## 7.6 New Years and Harvests Set by the Sun
 
-A surprising number of South Asia's new years land in mid-April. That's because many regional calendars start the year when the sun enters Mesha (the sign of Aries in the Indian zodiac), around 13 to 15 April. Since these festivals follow the sun, their dates barely move.
+Many of South Asia's new years land in mid-April. That's because many regional calendars start the year when the sun enters Mesha (the sign of Aries in the Indian zodiac), around 13 to 15 April. Since these festivals follow the sun, their dates barely move.
 
 ### Vaisakhi
 
-**Vaisakhi** (*VAI-saa-khee*), also spelled Baisakhi, falls on 13 or 14 April and is both a harvest festival and a new year in Punjab and in much of North India. For Sikhs, it is one of the most important days of the year. In Sikh tradition, on Vaisakhi in 1699 the tenth Guru, Guru Gobind Singh, founded the Khalsa, the community of initiated Sikhs, at Anandpur. Sikhs mark the day with prayers at the gurdwara and *nagar kirtan*, processions with hymn singing through the streets. Because many of Sikhism's holiest sites are in present-day Pakistan, thousands of Sikh pilgrims from India cross the border each year for Vaisakhi, with the main gathering at Gurdwara Panja Sahib in Hasan Abdal, in Pakistan's Punjab province. Simran Kaur Gill, the club treasurer, tells Ben that her grandparents in Ludhiana start the day at the gurdwara and spend the afternoon at a fair.
+**Vaisakhi** (*VAI-saa-khee*), also spelled Baisakhi, falls on 13 or 14 April and is both a harvest festival and a new year in Punjab and in much of North India. For Sikhs, it is one of the most important days of the year. In Sikh tradition, on Vaisakhi in 1699 the tenth Guru, Guru Gobind Singh, founded the Khalsa, the community of initiated Sikhs, at Anandpur. Sikhs mark the day with prayers at the gurdwara and *nagar kirtan*, processions with hymn singing through the streets. Because many of Sikhism's holiest sites are in present-day Pakistan, thousands of Sikh pilgrims from India cross the border for Vaisakhi in most years (Pakistan issued more than 2,800 visas for it in April 2026). The main ceremony has traditionally been held at Gurdwara Panja Sahib in Hasan Abdal, in Pakistan's Punjab province. Simran Kaur Gill, the club treasurer, tells Ben that her grandparents in Ludhiana start the day at the gurdwara and spend the afternoon at a fair.
 
 The same mid-April date is also Vishu in Kerala, Puthandu (Tamil New Year) in Tamil Nadu, and Bohag Bihu in Assam. In Sri Lanka, Sinhala and Tamil families celebrate the Sinhala and Tamil New Year on 13 or 14 April. Dilan Perera's family in Kandy waits for the exact auspicious time, set by astrologers, to light the hearth and cook *kiribath* (milk rice), and many neighbors do the same at the same minute.
 
@@ -184,7 +184,7 @@ In Dhaka, the day starts at dawn with songs by the cultural group Chhayanaut in 
 Shopkeepers close the old year's accounts and open new account books, a custom called *haal khata*. In recent decades many families in Dhaka have also made *panta bhat* (cooked rice soaked overnight in water) part of the day's breakfast.
 
 !!! abstract "Whose Story?"
-    Who invented the Bengali year? Many Bangladeshi textbooks and writers credit the Mughal emperor Akbar, who in the 1500s wanted a calendar that matched the harvest so taxes could be collected after the crops came in. Other historians point to older Bengali rulers, and to temple inscriptions that suggest a Bengali year was counted before Akbar's time. Some writers stress the festival's roots in Hindu solar new year traditions, while in Bangladesh it is also celebrated as a shared, secular Bengali holiday by Muslims, Hindus, Buddhists and Christians alike. Even the date is a border story: Dhaka celebrates on the 14th every year, while Kolkata sometimes celebrates on the 15th, because the two cities now use different versions of the same calendar.
+    Who invented the Bengali year? Many Bangladeshi textbooks and writers credit the Mughal emperor Akbar, who in the 1500s wanted a calendar that matched the harvest so taxes could be collected after the crops came in. Other historians point to older Bengali rulers, and to temple inscriptions that suggest a Bengali year was counted before Akbar's time. Some writers stress the festival's roots in Hindu solar new year traditions, while in Bangladesh it is also celebrated as a shared, secular Bengali holiday by Muslims, Hindus, Buddhists and Christians alike. The date also differs across the border. Dhaka celebrates on the 14th every year, while Kolkata sometimes celebrates on the 15th, because the two cities now use different versions of the same calendar.
 
 ### Pongal and Makar Sankranti
 
@@ -224,7 +224,7 @@ Christmas is a public holiday in India. In Bangladesh it is called Borodin (ব�
 
 !!! mascot-encourage "You can read any calendar now"
     ![Mora cheering you on](../../img/mascot/encouraging.png){ class="mascot-admonition-img" }
-    Notice the pattern: the sun-based festivals (Vaisakhi, Pohela Boishakh, Pongal, Nowruz, Christmas) are the ones you could predict years ahead. You now know more about calendars than most people who use them every day.
+    Notice the pattern: the sun-based festivals (Vaisakhi, Pohela Boishakh, Pongal, Nowruz, Christmas) are the ones you could predict years ahead, and now you know why.
 
 ## 7.9 The Whole Year at a Glance
 
@@ -249,7 +249,7 @@ Here is the full list, sorted by calendar type. The 2026 dates come from the Gov
 | Eid al-Adha | Lunar | Moves through all seasons | 28 May (moved from 27 May) | Muslim communities across South Asia |
 | Ashura | Lunar | Moves through all seasons | 26 June (listed as Muharram) | Pakistan, India, Bangladesh, Afghanistan |
 
-One curious entry: India's holiday list puts "Parsi New Year's Day" in August, not March, because many Parsi families in India also follow a traditional Zoroastrian calendar whose new year now falls in late summer.
+India's holiday list also puts "Parsi New Year's Day" in August, not March, because many Parsi families in India also follow a traditional Zoroastrian calendar whose new year now falls in late summer.
 
 #### Diagram: Festival Wheel
 
@@ -275,7 +275,7 @@ One curious entry: India's holiday list puts "Parsi New Year's Day" in August, n
 
 Start in 2026 and click a few dots to read about them. Then drag the **Year** slider forward one year at a time and watch the three colors. The gold dots (solar festivals) never move. The teal dots (lunisolar festivals) hop back and forth, but Holi always stays in spring and Diwali always stays in autumn. The orange dots (Islamic festivals) march steadily counterclockwise, and the faint trail behind them shows where they were in earlier years.
 
-Now select Eid al-Fitr and press **Play years**. Pause when Eid reaches December. How many years did it take to get there from March? Try the year 2033, when Eid al-Fitr falls twice in one Gregorian year. And notice the small print in the panel: the sim's dates are calculated, so they can be a day off from the date your community actually uses. That isn't a bug. The Government of India had to move Eid al-Adha in 2026 for the same reason.
+Now select Eid al-Fitr and press **Play years**. Pause when Eid reaches December. How many years did it take to get there from March? Try the year 2033, when Eid al-Fitr falls twice in one Gregorian year. And notice the small print in the panel: the sim's dates are calculated, so they can be a day off from the date your community actually uses. The Government of India had to move Eid al-Adha in 2026 for the same reason.
 
 ## Ask Your Elders
 

@@ -7,6 +7,17 @@ description: "Who Roots & Rivers is reaching and what readers learn, reported ho
 
 This page will report who uses Roots & Rivers and what they learn, with real numbers only. Version 1.0 was published in October 2026, so there is nothing to report yet. It will be updated as results come in, and every number will say where it came from.
 
+## Live counts
+
+These numbers are read from the book's public GitHub forms each time this page loads, so they stay current and nobody types them in by hand.
+
+<div class="rr-stats">
+<div class="rr-stat"><b class="rr-count" data-label="impact">...</b><span>classrooms, clubs and readers who reported using the book</span></div>
+<div class="rr-stat"><b class="rr-count" data-label="story">...</b><span>stories shared for the Story Archive</span></div>
+<div class="rr-stat"><b class="rr-count" data-label="accuracy">...</b><span>errors reported by readers</span></div>
+<div class="rr-stat"><b class="rr-count" data-label="expert-review">...</b><span>expert reviewers who volunteered</span></div>
+</div>
+
 ## What we will measure
 
 | Question | How we'll measure it |

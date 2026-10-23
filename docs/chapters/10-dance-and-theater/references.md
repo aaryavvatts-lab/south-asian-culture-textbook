@@ -5,7 +5,7 @@ description: "Curated readings and sources for Chapter 10."
 
 # References: Dance and Theater
 
-1. [About Us](https://www.sangeetnatak.gov.in/about-us) - Sangeet Natak Akademi - The official page of India's national academy of music, dance and drama, set up in 1953. It explains the Akademi's role, its awards, and its dance institutions such as the Kathak Kendra and the Manipur dance academy in Imphal.
+1. [About Us](https://www.sangeetnatak.gov.in/about-us) - Sangeet Natak Akademi - The official page of India's national academy of music, dance and drama, created by the Indian government in 1952 and inaugurated in 1953. It explains the Akademi's role, its awards, and its dance institutions such as the Kathak Kendra and the Manipur dance academy in Imphal.
 
 2. [Garba of Gujarat](https://ich.unesco.org/en/RL/garba-of-gujarat-01962) - UNESCO Intangible Cultural Heritage - UNESCO's 2023 listing for Garba, with a description of the circle dance around a lit clay pot during Navaratri and how the tradition is passed on. Includes photos and a short video.
 

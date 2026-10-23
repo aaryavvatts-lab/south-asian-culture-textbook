@@ -116,7 +116,7 @@ Which statement about Hindi in India is accurate?
 </div>
 
 ??? question "Show Answer"
-    The correct answer is **A**. Hindi is the largest single language, but about 43.6% of Indians named it as their mother tongue in 2011. English continues alongside Hindi for national official use under the Official Languages Act of 1963, and Hindi is Indo-Aryan, not Dravidian.
+    The correct answer is **A**. Hindi is the largest single language, but about 43.6% of Indians named it as their mother tongue in 2011. English continues alongside Hindi for national official use under the Official Languages Act of 1963 (amended in 1967), and Hindi is Indo-Aryan, not Dravidian.
 
     **Concept Tested:** Unity in Diversity
     **Bloom's Level:** Understand

@@ -49,7 +49,7 @@ Students will be able to identify the major waves of South Asian migration (inde
 
 **Activity:**
 
-1. (3 min) Students write down when they think South Asians first came to the United States, then check their guess against the "Early United States" wave.
+1. (3 min) Students write down when they think South Asians first came to the United States, then check their guess against the "Early North America" wave.
 2. (7 min) Students play the timeline and pause at 1850, 1910, 1960, 1980 and 2010, filling in a table of active waves for each year.
 3. (5 min) Students click every region and sort the waves by cause: empire and plantations, railways and trade, postwar labor, oil, a new law, or expulsion.
 4. (5 min) Pairs discuss: Which waves were tied to the British Empire? Which wave might match their own family's story, or a friend's?

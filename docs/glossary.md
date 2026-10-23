@@ -635,7 +635,7 @@ A social system, built over many centuries and still continuing, in which people
 
 Black tea grown on Sri Lanka's hill-country plantations and still sold around the world under the island's old name.
 
-**Example:** In the first nine months of 2025, Sri Lanka's tea exports earned about 1.16 billion US dollars.
+**Example:** In 2025, Sri Lanka's tea exports earned more than 1.5 billion US dollars.
 
 **See also:** [Chai](#chai), [Sri Lanka](#sri-lanka)
 
@@ -883,7 +883,7 @@ Afghanistan's two official national languages, a status first set out in the 196
 
 #### Dashain and Tihar
 
-Nepal's two biggest festivals, about three weeks apart in the autumn. Dashain is a 15-day festival, Nepal's version of the Navaratri season, and Tihar is a five-day festival of lights.
+Nepal's two biggest festivals, about three weeks apart in the autumn. Dashain is a 15-day festival that falls on the same autumn days as Navaratri, and Tihar is a five-day festival of lights.
 
 **Script and sound:** दशैं, *duh-SHAIN* (Dashain); तिहार, *tee-HAAR* (Tihar)
 
@@ -895,7 +895,7 @@ Nepal's two biggest festivals, about three weeks apart in the autumn. Dashain is
 
 #### Deccan Plateau
 
-A large raised tableland of about 422,000 square km covering much of central and southern India, with an average height of about 600 m (2,000 ft). Its name comes from the Sanskrit word for "south."
+A large raised tableland covering much of central and southern India, with an average height of about 600 m (2,000 ft). Its name comes from the Sanskrit word for "south."
 
 **Script and sound:** दक्षिण, *DUK-shin*, "south"
 
@@ -1023,7 +1023,7 @@ The festival of lights, held on the new moon at the end of the lunar month of As
 
 #### Dravidian Languages
 
-A language family not related to Indo-European, whose four largest members, Tamil, Telugu, Kannada and Malayalam, are spoken by about 20% of India's people, mostly in the south.
+A language family not related to Indo-European, whose four largest members are Tamil, Telugu, Kannada and Malayalam. In 2011 the family as a whole was the mother tongue of about 20% of India's people, mostly in the south.
 
 **Example:** Brahui, spoken mainly in Balochistan, Pakistan, is a Dravidian language far to the northwest.
 
@@ -1435,7 +1435,7 @@ An Arabic word meaning "permitted," which in Islamic law describes food Muslims 
 
 #### Harappa and Mohenjo-daro
 
-The two best-known cities of the Indus Valley Civilization, both in present-day Pakistan: Harappa in Punjab, identified in 1921, and Mohenjo-daro in Sindh, identified in 1922.
+The two best-known cities of the Indus Valley Civilization, both in present-day Pakistan: Harappa in Punjab, where excavations began in 1921, and Mohenjo-daro in Sindh, where they began in 1922.
 
 **Example:** Dholavira and Rakhigarhi in India are other large Indus cities found after Harappa and Mohenjo-daro.
 
@@ -1479,7 +1479,7 @@ The shared spoken language that underlies both Hindi and Urdu, which are two sta
 
 #### Hindu Kush
 
-A mountain range about 800 km (500 miles) long that stretches from central and eastern Afghanistan into northwestern Pakistan. Its highest peak, Tirich Mir (7,708 m), is the highest mountain outside the Himalaya and Karakoram ranges.
+A mountain range about 800 km (500 miles) long that stretches from central and eastern Afghanistan into northwestern Pakistan. Its highest peak, Tirich Mir (about 7,700 m), is the highest mountain outside the Himalaya and Karakoram ranges.
 
 **Example:** Tirich Mir, in Pakistan's Chitral District, is the tallest peak of the Hindu Kush.
 
@@ -1489,7 +1489,7 @@ A mountain range about 800 km (500 miles) long that stretches from central and e
 
 #### Hindu Temple Architecture
 
-The shared design traditions used to build Hindu temples as homes for a deity, centered on a small sanctum called the *garbhagriha* with a tower rising above it.
+The shared design traditions used to build Hindu temples, which many Hindus see as homes for a deity, centered on a small sanctum called the *garbhagriha* with a tower rising above it.
 
 **Example:** Northern temples have a *shikhara* tower, and southern temples have a *vimana*.
 
@@ -1597,7 +1597,7 @@ A system in which workers signed a contract, or indenture, to work for a set num
 
 The competition between the national cricket teams of India and Pakistan, often called the most intense rivalry in the sport, shaped by politics since the teams first played Test matches in 1952.
 
-**Example:** No cricket was played between the two teams from 1962 to 1977.
+**Example:** No cricket was played between the two teams from 1961 to 1978.
 
 **See also:** [Cricket](#cricket)
 
@@ -1975,7 +1975,7 @@ The continuing disagreement, mainly between India and Pakistan, over who should 
 
 #### Kathak
 
-A classical dance from northern India that grew from traveling storytellers and was later danced in royal courts, including Mughal courts. Its name comes from *katha*, "story."
+A classical dance from northern India that many dancers trace to traveling storytellers (historians debate how direct that link is) and that was later danced in royal courts, including Mughal courts. Its name comes from *katha*, "story."
 
 **Script and sound:** *KUH-thuk*
 
@@ -3231,7 +3231,7 @@ The practice of singing notes with the syllables sa, re, ga, ma, pa, dha, ni, na
 
 #### Sattriya
 
-A classical dance from Assam that began in the *sattras*, Vaishnava monasteries founded after the teacher Srimanta Sankardev in the 1400s and 1500s.
+A classical dance from Assam that began in the *sattras*, Vaishnava monasteries started by the teacher Srimanta Sankardev (1449 to 1568) and his followers.
 
 **Script and sound:** *SUT-tree-yuh*
 
@@ -3243,7 +3243,7 @@ A classical dance from Assam that began in the *sattras*, Vaishnava monasteries 
 
 #### Satyagraha
 
-Gandhi's method of nonviolent resistance in which people openly refuse to obey unjust laws, accept the punishment, and try to win over their opponents rather than defeat them. The Gujarati word combines *satya*, truth, and *agraha*, insistence.
+Gandhi's method of nonviolent resistance in which people openly refuse to obey unjust laws, accept the punishment, and try to win over their opponents rather than defeat them. Gandhi chose the word in South Africa as a Gujarati name for his campaign, combining *satya*, truth, and *agraha*, firmness or insistence.
 
 **Script and sound:** સત્યાગ્રહ, *SUT-yaa-gruh*, "holding firmly to truth"
 
@@ -3339,7 +3339,7 @@ Raising silkworms, unwinding or spinning their cocoon thread and weaving it into
 
 #### Sindh
 
-Pakistan's southeastern province, the land of the lower Indus River and its delta, with Karachi as its capital. It takes its name from the river, known as the Sindhu.
+Pakistan's southeastern province, the land of the lower Indus River and its delta, with Karachi as its capital. It takes its name from the river's ancient name, Sindhu.
 
 **Example:** Mohenjo-daro, a UNESCO World Heritage Site, is in Sindh.
 

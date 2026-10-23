@@ -22,3 +22,5 @@ description: "Curated readings and sources for Chapter 8."
 8. [Thali](https://en.wikipedia.org/wiki/Thali) - Wikipedia - Describes thali meals in different regions, the katori bowls, and related meals such as the banana-leaf feasts of South India. Follow its citations to regional cookbooks and food histories.
 
 9. [Rasgulla](https://en.wikipedia.org/wiki/Rasgulla) - Wikipedia - Lays out the competing Odisha and Bengal histories of the rasgulla and the 2017 and 2019 Geographical Indication decisions discussed in the Whose Story? box.
+
+10. [Religion in India: Tolerance and Segregation, chapter 8: Religion and food](https://www.pewresearch.org/religion/2021/06/29/religion-and-food/) - Pew Research Center (2021) - The full report chapter behind the survey numbers, with vegetarianism by religion (including Sikhs, 59%) and by region among Hindus (East 18%, Northeast 19%, South 30%).

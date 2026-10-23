@@ -142,17 +142,17 @@ India has several famous ikat centers:
 For many people in Sindh, ajrak is a badge of identity. Families give an ajrak shawl to honor a guest, and it appears at weddings and cultural events. Some writers even point out that the famous stone bust of a "priest-king" from Mohenjo-daro, more than 4,000 years old, wears a robe with a trefoil (three-lobed) pattern that looks a little like ajrak. That link can't be proven, but it shows how strongly people feel the cloth belongs to the Indus region.
 
 !!! abstract "Whose Story?"
-    Cloth often crosses borders that were drawn long after the craft began, so different groups tell its story differently. In Pakistan, ajrak is celebrated as a symbol of Sindhi culture, and in 2025 the Government of Sindh even put an ajrak-inspired design on new vehicle license plates. Across the border, block printers in Kutch in India make ajrak too, and they tell it as the story of their own families, who brought the craft from Sindh. In Bhutan, the government describes the gho and kira as national dress that protects a distinct Bhutanese identity, but when the dress code became mandatory in 1989, some Lhotshampa (Nepali-speaking Bhutanese in the south) resented being required to wear clothes from another community's tradition. Asking "whose cloth is this?" usually has more than one true answer.
+    Cloth often crosses borders that were drawn long after the craft began, so different groups tell its story differently. In Pakistan, ajrak is celebrated as a symbol of Sindhi culture, and in 2025 the Government of Sindh even put an ajrak-inspired design on new vehicle license plates. Across the border, block printers in Kutch in India make ajrak too, and they tell it as the story of their own families, who brought the craft from Sindh. In Bhutan, the government describes the gho and kira as national dress that protects a distinct Bhutanese identity, but many Lhotshampa (Nepali-speaking Bhutanese in the south) saw the 1989 dress rule as forcing another community's tradition on them. The rule was part of wider identity and citizenship policies, and after protests in 1990 more than 100,000 Lhotshampa left or were forced out to refugee camps in Nepal, events that Bhutan's government and the refugees still describe very differently. Asking "whose cloth is this?" usually has more than one true answer.
 
 ## 12.5 Khadi: Cloth as Protest
 
 **Khadi** (खादी, *KHAH-dee*) is cloth that is both hand-spun and hand-woven, made from cotton, silk or wool. Its importance comes from the role it played in India's freedom movement.
 
-Under British rule, raw cotton was often shipped from India to mills in Britain, woven there by machine, and sold back to Indians as finished cloth. Mohandas K. Gandhi, the leader of the Indian independence movement, argued that buying that cloth kept India poor and dependent. He called on people to boycott foreign cloth and to spin their own thread on a **charkha**, a hand-turned spinning wheel. This was part of **swadeshi**, a movement whose name means "of one's own country."
+Under British rule, raw cotton was often shipped from India to mills in Britain, woven there by machine, and sold back to Indians as finished cloth. Mohandas K. Gandhi, a leader of the Indian independence movement, argued that buying that cloth kept India poor and dependent. He called on people to boycott foreign cloth and to spin their own thread on a **charkha**, a hand-turned spinning wheel. This was part of **swadeshi**, a movement whose name means "of one's own country."
 
-The first piece of hand-woven cloth at Gandhi's Sabarmati Ashram, in Gujarat, was made in 1917-18. He began spinning himself in 1919 and asked members of the Indian National Congress to spin and even pay their dues in yarn. In 1921, he began wearing only a simple dhoti, often without a shirt, to show his solidarity with India's rural poor. That same year he visited the Comilla region, now in Bangladesh, to encourage local weavers, and weaving centers grew up there.
+The first piece of hand-woven cloth at Gandhi's Sabarmati Ashram, in Gujarat, was made in 1917-18. He began spinning himself in 1919 and asked members of the Indian National Congress to spin and even pay their dues in yarn. In 1921, he began wearing only a simple dhoti, often without a shirt, to show his solidarity with India's rural poor. That same year, according to local histories, he visited the Comilla region, now in Bangladesh, to encourage local weavers, and weaving centers grew up there.
 
-After independence, India's government set up the Khadi and Village Industries Commission in April 1957, under a 1956 law, to support khadi and other village crafts. Khadi is still sold across India today. In Bangladesh, a khadi tradition continued in the Comilla area too, and in 2025 Bangladesh gave Comilla khadi Geographical Indication status.
+After independence, India's government set up the Khadi and Village Industries Commission in April 1957, under a 1956 law, to support khadi and other village crafts. Khadi is still sold across India today. In Bangladesh, a khadi tradition continued in the Comilla area too, and in May 2025 Bangladesh gave Comilla khadi Geographical Indication status.
 
 Khadi is also a symbol of self-reliance, and many politicians in India still wear it for that reason.
 
@@ -164,7 +164,7 @@ Many South Asian clothes are not cut and sewn at all. They are long, unstitched 
 
 The **Saree** (also spelled sari; Hindi साड़ी, Bangla শাড়ি, *SAH-ree*) is a long, unstitched length of cloth that a woman wraps around her waist and drapes over one shoulder. A saree is usually between 4.5 and 9 yards (about 4 to 8 meters) long. It is worn over a petticoat (a long underskirt) and a fitted blouse, which is called a choli in northern India and a cholo in Nepal. The loose end that hangs over the shoulder is the **pallu**, and it is often richly decorated.
 
-The saree is worn in India, Bangladesh, Nepal, Sri Lanka and parts of Pakistan. It is the national attire for women in Bangladesh, which is why Zara's Jamdani makes perfect sense there. Sri Lanka has its own famous style, the **osariya** or Kandyan saree, which comes from the old Kandyan kingdom in the hill country. It has a frill at the waist and is worn with a full blouse that covers the midriff, and many women in Sri Lankan public life wear it.
+The saree is worn in India, Bangladesh, Nepal, Sri Lanka and parts of Pakistan. In Bangladesh it is widely seen as the national dress for women, which is why Zara's Jamdani makes perfect sense there. Sri Lanka has its own famous style, the **osariya** or Kandyan saree, which comes from the old Kandyan kingdom in the hill country. It has a frill at the waist and is worn with a full blouse that covers the midriff, and many women in Sri Lankan public life wear it.
 
 There isn't one right way to drape a saree. The most common style today is the **Nivi** drape, with pleats tucked in at the front and the pallu over the shoulder. But there are many regional drapes. In the Deccan region of western and central India, for example, the Nauvari style passes the pleats between the legs and tucks them in at the back, which makes it easy to move in. Some Newar women in Nepal traditionally fold the saree to knee length and wrap a shawl across the chest instead of the pallu.
 
@@ -178,9 +178,9 @@ The **Dhoti** (धोती, *DHOH-tee*) is a man's unstitched lower garment, a 
 
 ### The lungi
 
-The **Lungi** (লুঙ্গি, *LOONG-gee*) is a length of cloth worn by men around the waist like a skirt, without passing between the legs. It is usually cotton, often in checks or stripes, and it is loved for staying cool in hot, humid weather. In Bangladesh, the lungi is the most commonly seen everyday clothing for men, usually sewn into a tube, though it is not worn for formal occasions. Elaborate silk lungis are often given to a Bangladeshi groom as a wedding gift.
+The **Lungi** (লুঙ্গি, *LOONG-gee*) is a length of cloth worn by men around the waist like a skirt, without passing between the legs. It is usually cotton, often in checks or stripes, and it is loved for staying cool in hot, humid weather. In Bangladesh, the lungi is the most commonly seen everyday clothing for men, usually sewn into a tube, though it is not worn for formal occasions.
 
-Wrapped garments like this have different names in different places. In Kerala, a white or cream wrap with a decorative border is called a **mundu**. In Sri Lanka, it is a **sarama**, which is what Dilan wore to culture day. Across the Bay of Bengal in Myanmar, it is a longyi. They are cousins, not copies.
+Wrapped garments like this have different names in different places. In Kerala, a white or cream wrap with a decorative border is called a **mundu**. In Sri Lanka, it is a **sarama**, which is what Dilan wore to culture day. Across the Bay of Bengal in Myanmar, it is a longyi.
 
 ## 12.7 Stitched Garments: Kurta, Shalwar Kameez and Dupatta
 
@@ -245,7 +245,7 @@ In 1989, the government made the dress code mandatory in public during business 
 
 ## 12.9 Head, Forehead and Wrist: Turbans, Bindis and Bangles
 
-Some of the most noticeable things people wear are small, and they often carry the deepest meanings.
+Some of the most noticeable things people wear are small, and many of them carry religious or family meanings.
 
 ### The turban and the dastar
 
@@ -334,7 +334,7 @@ As you play, look for the pattern behind the details. The cotton traditions clus
 ## Common Misconceptions
 
 **Myth:** The saree is only Indian.  
-**Reality:** The saree is worn in India, Bangladesh, Nepal and Sri Lanka, and in parts of Pakistan. It is the national attire for women in Bangladesh, and Sri Lanka has its own Kandyan style, the osariya.
+**Reality:** The saree is worn in India, Bangladesh, Nepal and Sri Lanka, and in parts of Pakistan. It is widely seen as the national dress for women in Bangladesh, and Sri Lanka has its own Kandyan style, the osariya.
 
 **Myth:** The shalwar kameez is only Pakistani.  
 **Reality:** It is Pakistan's national dress, but it is also widely worn in India (especially Punjab), Bangladesh and Afghanistan, by people of many faiths.

@@ -75,7 +75,7 @@ As of October 2026, Pakistan's prime minister is Shehbaz Sharif, in office since
 
 Pakistan had **255,219,554 people in 2025** (about 255 million, World Bank), making it one of the ten most populous countries on Earth. Pakistan's own 2023 census, the country's seventh, counted 241.49 million people, with a growth rate of 2.55% a year. (The two numbers differ because they are from different years and use different methods.)
 
-About 96% of Pakistanis are Muslim, most of them Sunni, with a large Shia minority. The 2023 census counted Hindus at 1.61% of the population, the largest religious minority, and Christians at 1.37%. Some Christian leaders believe their community was undercounted. There are also smaller communities of Sikhs, Parsis and Ahmadis.
+About 96% of Pakistanis are Muslim, most of them Sunni, with a large Shia minority. The 2023 census counted Hindus at 1.61% of the population, the largest religious minority, and Christians at 1.37%. Some Christian leaders believe their community was undercounted. There are also smaller communities of Sikhs and Parsis, and of Ahmadis, who see themselves as Muslims but whom Pakistan's constitution has classed as non-Muslims since 1974.
 
 ### Islamabad
 
@@ -85,7 +85,7 @@ Just outside Islamabad lie the ruins of Taxila, an ancient city on the UNESCO Wo
 
 ## 18.4 The Provinces of Pakistan
 
-The **Provinces of Pakistan** are the four large regions, each with its own elected assembly and government, into which the country is divided: Punjab, Sindh, Khyber Pakhtunkhwa and Balochistan. The capital city has its own federal territory, the Islamabad Capital Territory. In the far north, Gilgit-Baltistan and Azad Jammu and Kashmir are areas administered by Pakistan that are part of the larger Kashmir region, whose status is disputed among Pakistan, India and China. Pakistan regards them as its territory with special arrangements, India claims them, and the dispute is unresolved.
+The **Provinces of Pakistan** are the four large regions, each with its own elected assembly and government, into which the country is divided: Punjab, Sindh, Khyber Pakhtunkhwa and Balochistan. The capital city has its own federal territory, the Islamabad Capital Territory. In the far north, Gilgit-Baltistan and Azad Jammu and Kashmir are areas administered by Pakistan that are part of the larger Kashmir region, whose status is disputed among Pakistan, India and China. Pakistan administers them under special arrangements and says the region's final status should be settled by the vote the United Nations called for in 1948, India claims them as part of India, and the dispute is unresolved.
 
 | Province | Capital | Population (2023 census) | Main first languages |
 |---|---|---|---|
@@ -111,7 +111,7 @@ Lahore's Mughal buildings are its pride. The Lahore Fort was built in part by th
 
 ### Sindh
 
-**Sindh** is Pakistan's southeastern province, the land of the lower Indus River and its delta, with Karachi as its capital. The province even takes its name from the river, which is known as the Sindhu in Pakistan. Sindh was one of the heartlands of the Indus Valley Civilization more than 4,000 years ago, and its most famous city, Mohenjo-daro, is a UNESCO World Heritage site (1980) ([Chapter 2](../02-ancient-roots/index.md)).
+**Sindh** is Pakistan's southeastern province, the land of the lower Indus River and its delta, with Karachi as its capital. The province takes its name from the river's ancient name, Sindhu. Sindh was one of the heartlands of the Indus Valley Civilization more than 4,000 years ago, and its most famous city, Mohenjo-daro, is a UNESCO World Heritage site (1980) ([Chapter 2](../02-ancient-roots/index.md)).
 
 Sindh also has a special place in the history of Islam in South Asia: the Arab conquest of Sindh in 711 CE was one of the first ways Islam came into the subcontinent. Today Karachi, on the Arabian Sea, is Pakistan's largest city and main port, drawing people from every part of the country. In the 2023 census, about 60% of people in Sindh spoke Sindhi as their first language and about 22% spoke Urdu.
 
@@ -121,7 +121,7 @@ Sindh also has a special place in the history of Islam in South Asia: the Arab c
 
 The province rises from the fertile Vale of Peshawar into the Hindu Kush. Most people are Pashtuns, Pashto is the main language (spoken by 81% as a first language in the 2023 census), and nearly everyone is Muslim. Peshawar is one of the oldest cities in the region and a center of Pashtun culture.
 
-In October 2026 the province was in the news: on 11 October the federal government declared an emergency there and suspended the provincial government, which had been led by the PTI party, citing security concerns. PTI leaders called the move undemocratic. Events were still unfolding as this book was written.
+In October 2026 the province was in the news. On 11 October the federal government declared an emergency there and imposed governor's rule, suspending the provincial government, which had been led by the PTI party. The government cited worsening law and order and militant attacks. On 15 October a joint sitting of Parliament approved the measures (news reports differed on how long governor's rule would last). PTI leaders called the move undemocratic. Events were still unfolding as this book was written.
 
 ### Balochistan
 
@@ -194,7 +194,7 @@ In August 2021, as US and NATO forces withdrew, the Taliban, an Islamist movemen
 
 Most countries have not formally recognized the Taliban as Afghanistan's government. In July 2025 Russia became the first country to do so, and as of October 2026 it was still the only one, though several countries, including China and the United Arab Emirates, keep diplomatic ties and talk with Taliban officials. Much of the world's hesitation centers on restrictions on women and girls. Girls have been barred from secondary school since March 2022, and women from universities since December 2022. In August 2026, UNESCO estimated that about 2.4 million girls were shut out of secondary education, and said Afghanistan was the only country in the world with such a ban. The government has rejected calls to lift the ban, calling it an internal matter.
 
-Culture has changed too. For example, Nowruz, the spring new year on 21 March that many Afghans have celebrated for centuries, is no longer an official public holiday. In 2025 the government said people could still mark it privately.
+Culture has changed too. For example, Nowruz, the spring new year on 21 March that many Afghans have celebrated for centuries, has not been an official public holiday since 2022. As recently as 2025, the government said people could still mark it privately.
 
 Ordinary Afghans carry on, keeping traditions alive at home and in a large worldwide diaspora. Millions of Afghans have lived as refugees in Pakistan and Iran over the decades. Since 2023, Pakistan has sent more than a million Afghans back across the border under a campaign against people living in Pakistan without legal status.
 
@@ -221,13 +221,13 @@ Kinship is the base of Pashtun society. Tribes trace descent from a common ances
 Like any code, Pashtunwali is lived differently by different families, in the city and the village, at home and abroad. Outsiders often focus on badal and blood feuds, but hospitality is just as central. Ben's welcome at the Qureshis' table (a Punjabi family, not a Pashtun one) shows how seriously hospitality is taken across this whole region.
 
 !!! abstract "Whose Story?"
-    The border between Pakistan and Afghanistan is called the Durand Line, after the British official who negotiated it with Afghanistan's ruler in 1893. It runs about 2,600 km and split the Pashtun homeland in two. Pakistan inherited the line in 1947 and treats it as a settled international border; it began building a fence along it in 2017. Every Afghan government since 1947, whoever was in power, has said the line is void because it was imposed by the British, and some Pashtuns on both sides see it as cutting through one people. In 2025 and again in early 2026, fighting along the border led Pakistan to close crossings such as Torkham for weeks. Ask a Pakistani and an Afghan to draw "the border," and you may get two different answers, and two different histories.
+    The border between Pakistan and Afghanistan is called the Durand Line, after the British official who negotiated it with Afghanistan's ruler in 1893. It runs about 2,600 km and split the Pashtun homeland in two. Pakistan inherited the line in 1947 and treats it as a settled international border; it began building a fence along it in 2017. Every Afghan government since 1947, whoever was in power, has refused to accept the line as the border, and many have called it void because it was imposed by the British. Some Pashtuns on both sides see it as cutting through one people. Since 2025, fighting and disputes along the border have closed crossings such as Torkham several times, once for weeks. Ask a Pakistani and an Afghan to draw "the border," and you may get two different answers.
 
 ## 18.9 The Khyber Pass
 
 The **Khyber Pass** (*KY-ber*) is the mountain pass that connects Peshawar in Pakistan with Kabul in Afghanistan, crossing the hills at the end of the Spin Ghar ("White Mountains") range. The pass winds about 53 km (33 miles) from near the town of Jamrud, Pakistan, to the border post of Torkham. In places it is a narrow gorge between cliffs of shale and limestone 180 to 300 m high. Its highest point, at Landi Kotal, is about 1,072 m above sea level.
 
-Few mountain passes in the world have seen so much history:
+Armies, traders and pilgrims have used the pass for more than 2,000 years:
 
 - In the 500s BCE, the Persian king Darius I conquered the area around Kabul and marched through the pass to the Indus.
 - In the 200s BCE, under the Mauryan emperor Ashoka, Buddhism flourished in and around the Khyber, and Buddhist stupas still stand near the pass.
@@ -264,7 +264,7 @@ Pakistan's heritage stretches across every era of South Asian history. Here are 
 | Buddhist Ruins of Takht-i-Bahi | Khyber Pakhtunkhwa | 1980 | A Buddhist monastery founded in the 1st century CE on a high hilltop |
 | Fort and Shalamar Gardens in Lahore | Punjab | 1981 | Mughal palaces and gardens |
 
-Put these next to Bamiyan and Jam and a pattern appears. The Buddhist sites of Takht-i-Bahi and Taxila in Pakistan and Bamiyan in Afghanistan belong to the same Gandharan world, joined by the same roads. Modern borders cut across a shared past.
+Put these next to Bamiyan and Jam and a pattern appears. The Buddhist sites of Takht-i-Bahi and Taxila in Pakistan and Bamiyan in Afghanistan belong to the same Gandharan world, joined by the same roads, long before the modern border existed.
 
 ## 18.11 Afghan Carpets
 
@@ -294,7 +294,7 @@ This table compares the two countries:
 | Capital | Islamabad | Kabul |
 | Population (2025, World Bank) | 255,219,554 (about 255 million) | 43,844,111 (about 44 million) |
 | Official or national languages | Urdu (national), English (official) | Dari and Pashto |
-| Most common first language | Punjabi | Dari is the most widely understood |
+| Most common first language | Punjabi | No recent census; Dari is the most widely understood |
 | Main faith | Islam (about 96%) | Islam (nearly all) |
 | Coastline? | Yes, on the Arabian Sea | No, landlocked |
 | Government (October 2026) | Federal parliamentary republic | Taliban government, recognized only by Russia |

@@ -51,7 +51,7 @@ const lanes = [
       fact: 'A Tamil kingdom in the north of the island. The Portuguese took it over in 1619.' },
     { name: 'Kingdom of Kandy', short: 'Kandy', start: 1469, end: 1815, row: 0, more: true, until: 'lasted until 1815',
       capital: 'Kandy (Senkadagalapura)',
-      fact: 'The last Sinhala kingdom. It resisted the Portuguese and Dutch and kept the Temple of the Tooth Relic until the British took Kandy in 1815.' }
+      fact: 'The last independent kingdom on the island. It resisted the Portuguese and Dutch and kept the Temple of the Tooth Relic until the British took Kandy in 1815.' }
   ]},
   { lane: 'Delhi Sultanate', color: '#9ED3DD', segs: [
     { name: 'Delhi Sultanate', start: 1206, end: 1526, row: 0,

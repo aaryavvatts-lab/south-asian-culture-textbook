@@ -109,7 +109,7 @@ In the 2010s and 2020s, a new generation of Pakistani filmmakers drew attention 
 
 ### Pakistani Dramas
 
-Many South Asians would say Pakistan's biggest screen export is not its films but its TV. **Pakistani Dramas** are Pakistani television serials, usually in Urdu, known for family stories, romance and social issues, and for running a set number of episodes instead of going on for years.
+Many South Asians would say Pakistan's biggest screen export is its TV, more than its films. **Pakistani Dramas** are Pakistani television serials, usually in Urdu, known for family stories, romance and social issues, and for running a set number of episodes instead of going on for years.
 
 One famous example is **Humsafar** (2011 to 2012), a 23-episode drama on Hum TV based on a novel by Farhat Ishtiaq and starring Fawad Khan and Mahira Khan. In 2014 an Indian channel called Zindagi launched and began airing Pakistani dramas, including Humsafar, for Indian audiences, and promoted their short runs compared with India's very long serials. Today many families in the diaspora, like Zara's cousins in London, watch Pakistani dramas online.
 
@@ -120,7 +120,7 @@ One famous example is **Humsafar** (2011 to 2012), a 23-episode drama on Hum TV 
 
 In most song scenes in South Asian movies, the actor on screen isn't really singing. That surprises a lot of people who are new to these films.
 
-**Playback Singing** is the practice of recording songs with professional singers, called playback singers, whose voices are then played back while actors lip-sync on camera. Playback singers don't appear in the scene, but in South Asia many of them are as famous as the actors, sometimes more. Many Indian and Pakistani films typically include six or seven songs.
+**Playback Singing** is the practice of recording songs with professional singers, called playback singers, whose voices are then played back while actors lip-sync on camera. Playback singers don't appear in the scene, but in South Asia many of them are as famous as the actors, sometimes more. Many Indian and Pakistani films include six or seven songs.
 
 A few of the best known:
 
@@ -190,7 +190,7 @@ Scoring works like this:
 - If the ball reaches the **boundary** rope after bouncing, that's **4 runs**. If it crosses the boundary without bouncing, that's **6 runs**.
 - A batter is **out** in several ways. For example, they're **bowled** if the ball hits the stumps, and **caught** if a fielder catches the hit before it bounces.
 
-And here's the answer to Ben's question. An **over** is a set of **6 legal balls** bowled by one bowler from one end of the pitch. After each over, the next over is bowled from the other end, and the rules say the same bowler cannot bowl two overs in a row. If a bowler sends down a **wide**, a ball too far from the batter to hit, the batting side gets **1 extra run** and the ball doesn't count toward the six, so it has to be bowled again. That's why everyone cheered when "nothing happened": a dot ball (no runs) under pressure, or a wide that gave away a free run, can be a big moment.
+Now for Ben's first question. An **over** is a set of **6 legal balls** bowled by one bowler from one end of the pitch. After each over, the next over is bowled from the other end, and the rules say the same bowler cannot bowl two overs in a row. If a bowler sends down a **wide**, a ball too far from the batter to hit, the batting side gets **1 extra run** and the ball doesn't count toward the six, so it has to be bowled again. That's why everyone cheered when "nothing happened": a dot ball (no runs) under pressure, or a wide that gave away a free run, can be a big moment.
 
 ### Three formats
 
@@ -226,7 +226,7 @@ The 2024 Men's T20 World Cup was co-hosted by the United States and the West Ind
 
 ### The India-Pakistan Rivalry
 
-The **India-Pakistan Rivalry** is the competition between the national cricket teams of India and Pakistan, often called the most intense rivalry in the sport. The two teams first played Test matches in 1952, when Pakistan toured India. Politics has shaped the rivalry ever since. No cricket was played between them from 1962 to 1977, a period that included the wars of 1965 and 1971. Cricket has also been used for diplomacy, with leaders and fans crossing the border for matches.
+The **India-Pakistan Rivalry** is the competition between the national cricket teams of India and Pakistan, often called the most intense rivalry in the sport. The two teams first played Test matches in 1952, when Pakistan toured India. Politics has shaped the rivalry ever since. No cricket was played between them from 1961 to 1978, a period that included the wars of 1965 and 1971. Cricket has also been used for diplomacy, with leaders and fans crossing the border for matches.
 
 The last full tour with Test matches was Pakistan's tour of India in 2007. After the 2008 Mumbai attacks, bilateral cricket almost stopped: the only series since then was a short one-day and T20 series in India in 2012 to 2013, so the two teams now meet mostly at ICC tournaments and the Asia Cup.
 
@@ -393,7 +393,7 @@ Then switch to the cricket tab and press **Start**. Watch the scoreboard: the "L
 
 10. Some people say sports rivalries like India vs Pakistan make political tensions worse; others say they bring people together. Which view does the evidence in this chapter support better, and why?
 
-    *Hint: consider the 1962 to 1977 gap, cricket diplomacy and diaspora watch parties.*
+    *Hint: consider the 1961 to 1978 gap, cricket diplomacy and diaspora watch parties.*
 
 ### Create
 

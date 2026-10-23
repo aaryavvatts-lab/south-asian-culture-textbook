@@ -154,7 +154,7 @@ Your club is making a map of ancient sites by present-day country. Which site be
 </div>
 
 ??? question "Show Answer"
-    The correct answer is **D**. Mahasthangarh, in Bogra District, is the earliest city site found in Bangladesh, dated by a Brahmi inscription to at least the 3rd century BCE. Pataliputra (C) was in Magadha, in today's Bihar, India, which is west of Bangladesh, not inside it.
+    The correct answer is **D**. Mahasthangarh, in Bogura (Bogra) District, is the earliest city site found in Bangladesh, dated by a Brahmi inscription to at least the 3rd century BCE. Pataliputra (C) was in Magadha, in today's Bihar, India, which is west of Bangladesh, not inside it.
 
     **Concept Tested:** Maurya Empire
     **Bloom's Level:** Apply

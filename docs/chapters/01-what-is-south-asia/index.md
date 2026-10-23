@@ -98,7 +98,7 @@ The sizes are very uneven: India alone has more people than the other seven coun
 Some lists differ a little. Afghanistan is sometimes grouped with Central Asia instead, and Myanmar or Tibet are occasionally included. This book follows the SAARC list of eight, which is the most widely used.
 
 !!! abstract "Whose Story?"
-    Even the name of the region depends on who is talking. "The Indian subcontinent" became common in the British Empire in the early 1900s and is still widely used in Britain and in India, where many writers like it because it points to the culture the region shares. Many people in Pakistan and Bangladesh, which became separate countries in 1947 and 1971, find the phrase uncomfortable because it puts India's name on everyone, and they usually say "South Asia," as historians increasingly do. Afghans may describe their country as part of Central Asia, South Asia or both. Even international bodies differ: since mid-2025 the World Bank groups Afghanistan and Pakistan with the Middle East and North Africa in its regional statistics, though both remain SAARC members.
+    Even the name of the region depends on who is talking. "The Indian subcontinent" became common under the British Empire and is still widely used in Britain and in India, where many writers like it because it points to the culture the region shares. Many people in Pakistan and Bangladesh, which became separate countries in 1947 and 1971, find the phrase uncomfortable because it puts India's name on everyone, and they usually say "South Asia," as historians increasingly do. Afghans may describe their country as part of Central Asia, South Asia or both. Even international bodies differ: since mid-2025 the World Bank groups Afghanistan and Pakistan with the Middle East and North Africa in its regional statistics, though both remain SAARC members.
 
 ## 1.4 How Many People Live in South Asia?
 
@@ -118,6 +118,10 @@ Here's how the total breaks down.
 | Sri Lanka | about 1.1% |
 | Bhutan | about 0.04% |
 | Maldives | about 0.03% |
+
+The chart shows the same 2025 numbers as bars. Hover over a bar, or tap it, to see the exact figure. Then press **Hide India** to compare the other seven countries on their own scale.
+
+<div class="rr-chart" data-chart="population"></div>
 
 !!! mascot-warning "Watch out for this number trap"
     ![Mora with a warning](../../img/mascot/warning.png){ class="mascot-admonition-img" }
@@ -150,13 +154,13 @@ The mountains matter for people in two big ways. They block the cold air of Cent
 
 ### The Hindu Kush
 
-West of the Himalaya, another range takes over. The **Hindu Kush** is a mountain range about 800 km (500 miles) long that stretches from central and eastern Afghanistan into northwestern Pakistan, with a small piece in far southeastern Tajikistan. Its highest peak is Tirich Mir, 7,708 m (25,289 ft), in the Chitral District of Pakistan. It is the highest mountain anywhere outside the Himalaya and Karakoram ranges.
+West of the Himalaya, another range takes over. The **Hindu Kush** is a mountain range about 800 km (500 miles) long that stretches from central and eastern Afghanistan into northwestern Pakistan, with a small piece in far southeastern Tajikistan. Its highest peak is Tirich Mir, about 7,700 m, in the Chitral District of Pakistan. It is the highest mountain anywhere outside the Himalaya and Karakoram ranges.
 
 The Hindu Kush has been both a wall and a doorway, with routes that carried traders, travelers and armies between Central Asia and South Asia. Buddhism was once widespread in its valleys, and the giant Buddha statues carved into the cliffs at Bamiyan, in Afghanistan, stood until they were destroyed in 2001. Today most people in the region are Muslim.
 
 ## 1.6 Three Great Rivers
 
-Mountains collect snow, the snow melts into rivers, and the rivers carry soil down to the plains. That chain is the reason so many people live in South Asia. Three rivers matter most.
+Mountains collect snow, the snow melts into rivers, and the rivers carry soil down to the plains. That chain is a big reason so many people live in South Asia. Three rivers matter most.
 
 ### The Indus
 
@@ -168,7 +172,7 @@ Most of Pakistan's farming depends on the Indus. It's also the river that gave t
 
 The **Ganges (Ganga) River** is about 2,525 km (1,569 miles) long. In India it is called the Ganga (गंगा, *GUNG-gaa*), and in Bangladesh it is called the Padma. It rises in the western Himalaya in the Indian state of Uttarakhand, flows east across the northern plains of India, picks up major tributaries such as the Yamuna and several rivers coming down from Nepal, then crosses into Bangladesh.
 
-Hundreds of millions of people depend on the Ganga, and many big cities stand on it or its connected rivers, including Varanasi, Patna, Kolkata and Dhaka. In Hinduism the Ganga is worshipped as a goddess, and many Hindus bathe in it as an act of devotion. You'll learn more in [Chapter 5](../05-faiths-of-south-asia/index.md).
+Hundreds of millions of people depend on the Ganga, and many big cities stand on it or its connected rivers, including Varanasi, Patna, Kolkata and Dhaka. Many Hindus revere the Ganga as a goddess and bathe in it as an act of devotion. You'll learn more in [Chapter 5](../05-faiths-of-south-asia/index.md).
 
 ### The Brahmaputra
 
@@ -186,6 +190,8 @@ That's the land Zara's family comes from: wet, green, flat, crossed by rivers, a
 | Ganges (Ganga) | 2,525 km | Uttarakhand, India | India, Bangladesh | Bay of Bengal | Padma (in Bangladesh) |
 | Brahmaputra | 3,000 km | Tibet (China) | China, India, Bangladesh | Bay of Bengal (through the delta) | Yarlung Tsangpo, Jamuna |
 
+River lengths are approximate. Sources differ by a few hundred kilometers, depending on where they place a river's source and how they trace its channels.
+
 ## 1.7 Plains, Plateau, Ghats and Desert
 
 Between the mountains and the sea, the land changes a lot. Four landforms explain most of the map.
@@ -198,7 +204,7 @@ The rivers built the plain themselves. Flood after flood, they spread fine mud c
 
 ### The Deccan Plateau
 
-South of the plain, the land rises. The **Deccan Plateau** is a large raised tableland that covers much of central and southern India, about 422,000 square km. Its average height is about 600 m (2,000 ft). The name Deccan comes from the Sanskrit word दक्षिण (*DUK-shin*), "south."
+South of the plain, the land rises. The **Deccan Plateau** is a large raised tableland that covers much of central and southern India. Its average height is about 600 m (2,000 ft). The name Deccan comes from the Sanskrit word दक्षिण (*DUK-shin*), "south."
 
 The plateau tilts gently from west to east, so most of its big rivers, such as the Godavari, the Krishna and the Kaveri, flow east and empty into the Bay of Bengal. The northwest part of the plateau is made of thick layers of dark volcanic rock called the Deccan Traps, laid down by enormous lava flows about 66 million years ago. Much of the land there has dark black soil. Because mountains on its western edge block rain, much of the Deccan is drier than the coasts, with a semi-arid climate.
 
@@ -243,7 +249,7 @@ The Himalaya matters here too. It acts like a wall that stops the monsoon clouds
 
 ### When it arrives
 
-The southwest monsoon arrives on a fairly regular schedule. According to the IMD, it normally reaches the state of Kerala, at India's southwest tip, around **1 June**, then moves north in surges and covers the whole of India around **8 July**. Rain moves up the west coast from the Arabian Sea, while low-pressure systems that form over the Bay of Bengal carry heavy rain westward across the land. The monsoon begins to pull back from northwest India in September and has usually withdrawn from the country by October. Those are average dates, though. In any real year the monsoon can come early or late, and people watch the forecasts closely.
+The southwest monsoon arrives on a fairly regular schedule. According to the IMD, it normally reaches the state of Kerala, at India's southwest tip, around **1 June**, then moves north in surges and covers the whole of India around **8 July**. Rain moves up the west coast from the Arabian Sea, while low-pressure systems that form over the Bay of Bengal carry heavy rain westward across the land. The monsoon begins to pull back from northwest India in September and has usually withdrawn from the whole country by mid-October. Those are average dates, though. In any real year the monsoon can come early or late, and people watch the forecasts closely.
 
 The amount of rain changes a lot from place to place. Mawsynram and Cherrapunji, two towns in the hills of the Indian state of Meghalaya, just north of Bangladesh, trade places as the wettest spots on Earth. Meanwhile, the Thar Desert gets only a little. And Afghanistan sits mostly outside the monsoon zone altogether; most of its rain and snow falls in winter and spring.
 
@@ -265,7 +271,7 @@ South Asia's southern half is a peninsula, which means water on three sides. Two
 
 The **Bay of Bengal** is the northeastern part of the Indian Ocean, lying east of India and south of Bangladesh, with Myanmar on its eastern side and Sri Lanka at its southwestern edge. It covers about 2.2 million square km (about 840,000 square miles). Many of the subcontinent's biggest rivers flow into it, including the Ganga, the Brahmaputra, the Godavari, the Krishna and the Kaveri.
 
-The bay's coasts include the Sundarbans mangrove forest and some of the longest natural beaches in the world, such as Cox's Bazar in Bangladesh and Marina Beach in Chennai, India. Severe cyclones also form over the bay, which is one reason coastal Bangladesh and eastern India plan so carefully for storms. Chattogram, where Zara's parents grew up, is Bangladesh's busiest port, right on the bay.
+The bay's coasts include the Sundarbans mangrove forest, Cox's Bazar in Bangladesh, one of the longest natural sea beaches in the world, and Marina Beach in Chennai, India, one of the longest city beaches. Severe cyclones also form over the bay, which is one reason coastal Bangladesh and eastern India plan so carefully for storms. Chattogram, where Zara's parents grew up, is Bangladesh's busiest port, right on the bay.
 
 The **Indian Ocean** is the third-largest of the world's five oceans, covering about 70.6 million square km, or about 20% of the water on Earth's surface. It has Asia to the north, Africa to the west and Australia to the east. It's also the warmest ocean, and monsoons shape the climate all around it. The Arabian Sea, to the west of India and south of Pakistan, and the Bay of Bengal are both arms of it.
 

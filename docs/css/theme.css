@@ -122,3 +122,27 @@
   .rr-parts { grid-template-columns: 1fr; }
   .md-typeset h1 { font-size: 1.9em; }
 }
+
+/* Data charts (palette validated with the dataviz skill: CVD and normal-vision checks pass in both modes) */
+.rr-chart { --c-s1:#2a78d6; --c-s2:#eb6834; --c-s3:#1baf7a; --c-s4:#eda100; --c-s5:#e87ba4; --c-ink:#1E2552; --c-soft:#4A5180; --c-surf:#ffffff;
+  position: relative; margin: 1.2em 0 1.6em; padding: 1rem 1.1rem 0.6rem; border-radius: 14px; background: var(--c-surf); box-shadow: 0 6px 18px rgba(27,35,86,.08); border: 1px solid rgba(27,35,86,.12); }
+[data-md-color-scheme="slate"] .rr-chart { --c-s1:#3987e5; --c-s2:#d95926; --c-s3:#199e70; --c-s4:#c98500; --c-s5:#d55181; --c-ink:#F6EBD6; --c-soft:#B9B6CF; --c-surf:#171C45; border-color: rgba(246,235,214,.15); }
+.rr-chart svg { display: block; overflow: visible; }
+.rr-chart .rr-lbl { fill: var(--c-ink); font-size: 13px; font-weight: 600; }
+.rr-chart .rr-val { fill: var(--c-soft); font-size: 12.5px; }
+.rr-chart .rr-in { fill: #ffffff; font-size: 12px; font-weight: 700; pointer-events: none; }
+.rr-chart .rr-s1 { fill: var(--c-s1); background: var(--c-s1); }
+.rr-chart .rr-s2 { fill: var(--c-s2); background: var(--c-s2); }
+.rr-chart .rr-s3 { fill: var(--c-s3); background: var(--c-s3); }
+.rr-chart .rr-s4 { fill: var(--c-s4); background: var(--c-s4); }
+.rr-chart .rr-s5 { fill: var(--c-s5); background: var(--c-s5); }
+.rr-chart rect:hover { opacity: .85; }
+.rr-chart .rr-legend { display: flex; flex-wrap: wrap; gap: .4rem 1rem; margin: 0 0 .6rem; font-size: .78rem; color: var(--c-ink); }
+.rr-chart .rr-sw { display: inline-block; width: 12px; height: 12px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
+.rr-chart .rr-note { margin: 0 0 .5rem; font-size: .8rem; color: var(--c-soft); }
+.rr-chart .rr-toggle { margin: 0 0 .7rem; font-size: .72rem; padding: .3em 1em; }
+.rr-chart .rr-src { margin: .5rem 0 .2rem; font-size: .68rem; color: var(--c-soft); }
+.rr-chart .rr-table { margin: .2rem 0 .3rem; font-size: .72rem; box-shadow: none; }
+.rr-chart .rr-table table { font-size: .72rem; }
+.rr-chart .rr-tip { display: none; position: absolute; z-index: 5; max-width: 240px; padding: .45rem .6rem; border-radius: 8px; background: #1B2356; color: #FBF1E1; font-size: .72rem; line-height: 1.35; pointer-events: none; box-shadow: 0 4px 12px rgba(0,0,0,.2); }
+.rr-chart .rr-tipnote { opacity: .8; }

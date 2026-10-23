@@ -23,6 +23,8 @@ nav:
   - Club Kit: club-kit.md
   - Oral History Project: oral-history.md
   - Impact: impact.md
+  - Get Involved: get-involved.md
+  - Explore the Data: data.md
   - Downloads (PDF): downloads.md
   - Course Description: course-description.md
   - Chapters:
@@ -153,7 +155,9 @@ nav:
       - Chapter Metrics: learning-graph/chapter-metrics.md
   - Glossary: glossary.md
   - FAQ: faq.md
+  - How This Book Was Made: methods.md
   - Accuracy and Corrections: accuracy.md
+  - Contributors: contributors.md
   - Roadmap: roadmap.md
   - How to Cite: how-to-cite.md
   - License: license.md
@@ -253,6 +257,8 @@ extra_css:
 
 extra_javascript:
   - javascripts/mathjax.js
+  - javascripts/charts.js
+  - javascripts/impact.js
   - https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js
 
 exclude_docs: |
@@ -271,8 +277,8 @@ extra:
       link: https://github.com/aaryavvatts-lab/south-asian-culture-textbook
   schema: https://dmccreary.github.io/intelligent-textbooks/ns/textbook/v1
   textbook_name: 'Roots & Rivers'
-  textbook_version: '1.0'
-  development_stage: 'Complete (v1.0)'
+  textbook_version: '1.1'
+  development_stage: 'Complete (v1.1)'
   # The author adds Google Analytics later (needs their own GA4 ID):
   # analytics:
   #   provider: google

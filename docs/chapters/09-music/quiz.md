@@ -59,7 +59,7 @@ Baul songs, placed on UNESCO's Representative List of the Intangible Cultural He
 </div>
 
 ??? question "Show Answer"
-    The correct answer is **D**. The Bauls are wandering mystic singers of Bangladesh and West Bengal, and their most famous figure, Lalon, lived near Kushtia in present-day Bangladesh. Punjab is the home of bhangra, not Baul music.
+    The correct answer is **D**. The Bauls are wandering devotional singers of Bangladesh and West Bengal, and their most famous figure, Lalon, lived near Kushtia in present-day Bangladesh. Punjab is the home of bhangra, not Baul music.
 
     **Concept Tested:** Baul Music
     **Bloom's Level:** Remember

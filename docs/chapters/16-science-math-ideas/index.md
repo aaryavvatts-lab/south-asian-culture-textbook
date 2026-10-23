@@ -78,7 +78,7 @@ Keep the odometer in mind. The story of this chapter is how people in South Asia
 
 Brahmi numerals were not yet a place value system. They had separate signs for 1 through 9, and then extra signs for 10, 20, 30 and so on, and for 100 and 1,000. To write 256, a scribe would use the sign for 200, then the sign for 50, then the sign for 6. There was no zero, because no empty place ever needed filling.
 
-Even so, these signs matter a lot. Historians of mathematics trace the shapes of our modern digits, through many small changes over many centuries, back to Brahmi. The first three signs seem to have started as simple strokes, one, two and three lines, which is easy to imagine if you've ever kept score with tally marks.
+Even so, our digits grew out of them. Historians of mathematics trace the shapes of our modern digits, through many small changes over many centuries, back to Brahmi. The first three signs seem to have started as simple strokes, one, two and three lines, which is easy to imagine if you've ever kept score with tally marks.
 
 Some descendants of Brahmi numerals are still used today. Look at the same ten digits in four South Asian writing systems:
 
@@ -90,7 +90,7 @@ Some descendants of Brahmi numerals are still used today. Look at the same ten d
 | five | 5 | ५ | ৫ | ௫ | ۵ |
 | nine | 9 | ९ | ৯ | ௯ | ۹ |
 
-Zara's Nanu can read the Bangla digits at a glance, because they still appear in newspapers and on calendars in Bangladesh. Urdu newspapers and shop signs in Pakistan often use the Eastern Arabic style of digits, which, as you'll see in Section 16.6, came back to the region after a long journey through the Arab and Persian world. Tamil is a special case: traditional Tamil numbering had its own signs for ten (௰), one hundred (௱) and one thousand (௲), and in everyday life today most Tamil speakers simply use the digits 0 to 9.
+Zara's Nanu can read the Bangla digits at a glance, because they still appear in newspapers and on calendars in Bangladesh. Urdu newspapers and shop signs in Pakistan often use the Eastern Arabic style of digits, which, as you'll see in Section 16.6, came back to the region after a long journey through the Arab and Persian world. Tamil is a special case: traditional Tamil numbering had its own signs for ten (௰), one hundred (௱) and one thousand (௲), and in everyday life today most Tamil speakers use the digits 0 to 9.
 
 ## 16.4 Place Value and the Zero
 
@@ -174,7 +174,7 @@ This simplified timeline shows that journey.
 | When | Where | What happened |
 |---|---|---|
 | 662 CE | Syria (on the Euphrates) | A Christian bishop, Severus Sebokht, praised the Indians' way of calculating with nine signs. |
-| 776 CE | Baghdad | An Indian scholar brought an astronomy book to the court of the caliph, and it was translated into Arabic. Some historians think it was Brahmagupta's. |
+| 770s CE | Baghdad | An Indian scholar brought an astronomy book to the court of the caliph al-Mansur, and it was translated into Arabic. (Sources give dates from 771 to 776.) Some historians think it was Brahmagupta's. |
 | 800s | Baghdad | The scholar al-Khwarizmi wrote a book on Indian reckoning. Its Latin title was *Algoritmi de numero Indorum*, and his name gave English the word **algorithm**. |
 | mid-900s | Arab world | Al-Uqlidisi wrote the oldest surviving book on "Hindu arithmetic" for pen and paper. |
 | 976 | Spain | A monk copied the digits into a manuscript, the first surviving example in Europe. |
@@ -193,9 +193,9 @@ The digits changed shape as they moved. Scribes in Baghdad and Persia developed 
 
 **Al-Biruni** (973 to 1048) was a Muslim scholar born in Khwarazm in Central Asia, who wrote one of the most careful early books about South Asian science and society. After 1017 he went to Ghazni (in today's Afghanistan) after Mahmud of Ghazni conquered his home region, probably as a prisoner at first, and he spent the rest of his life connected to that court. He traveled into the Punjab and northern India with Mahmud's expeditions and measured the positions of towns there.
 
-What makes al-Biruni special is how he studied. He learned Sanskrit so he could read Indian texts in the original, and he translated several of them into Arabic. Around 1030 he finished a long book usually called *India*. It describes Indian religion, philosophy, social customs, writing, numbers, geography, astronomy and the calendar. He compared Indian ideas with Greek ones, pointed out where he thought each side was right or wrong, and tried to describe beliefs as their followers understood them.
+Al-Biruni is remembered for how he studied. He learned Sanskrit so he could read Indian texts in the original, and he translated several of them into Arabic. Around 1030 he finished a long book usually called *India*. It describes Indian religion, philosophy, social customs, writing, numbers, geography, astronomy and the calendar. He compared Indian ideas with Greek ones, pointed out where he thought each side was right or wrong, and tried to describe beliefs as their followers understood them.
 
-He wrote it during a time of war, when Mahmud's armies were raiding Indian cities and temples. So al-Biruni is a complicated figure: a scholar who admired Indian learning, working for a ruler many Indians remember as a destroyer. Historians read his book both as a valuable record and as one outsider's view.
+He wrote it during a time of war, when Mahmud's armies were raiding Indian cities and temples. So al-Biruni is a complicated figure: a scholar who admired Indian learning, working for a ruler many people in India remember as a destroyer of temples, while some in Afghanistan and Pakistan remember him as a hero. Historians read his book both as a valuable record and as one outsider's view.
 
 ## 16.8 The Kerala School: Infinite Series
 
@@ -219,9 +219,9 @@ Not every big idea in this chapter is about numbers.
 
 **Panini's Grammar**, the *Ashtadhyayi* ("eight chapters"), is a complete description of the Sanskrit language written as just under 4,000 short rules called *sutras*. Panini came from Shalatula, a town near Attock on the Indus River, in what is now Pakistan. Nobody knows exactly when he lived. Scholars have suggested dates from about the 7th to the 4th century BCE.
 
-Why does a grammar book belong in a chapter about science? Because of how it works. Panini's rules are written like a computer program. Short rules apply in a set order, some rules override others, and special marker sounds act like labels that tell you which rule to use. Feed the rules a root word and some endings, and they produce correct Sanskrit sentences.
+A grammar book belongs in a science chapter because of how it works. Panini's rules are written like a computer program. Short rules apply in a set order, some rules override others, and special marker sounds act like labels that tell you which rule to use. Feed the rules a root word and some endings, and they produce correct Sanskrit sentences.
 
-In 1959, the computer scientist John Backus created a notation for describing programming languages, now called Backus-Naur Form. Historians of mathematics have pointed out that Panini's notation is just as powerful, and it is more than 2,000 years older. That's why Panini is often called a forerunner of the formal language theory used in computer science, and why linguists around the world still study him.
+In 1959, the computer scientist John Backus created a notation for describing programming languages, now called Backus-Naur Form. In 1967 the computer scientist Peter Ingerman suggested calling it "Panini-Backus Form," because Panini had used a notation just as powerful more than 2,000 years earlier. That's why Panini is often called a forerunner of the formal language theory used in computer science, and why linguists around the world still study him.
 
 !!! abstract "Whose Story?"
     Ask "Who invented zero?" and you'll hear different answers depending on who is speaking. Many popular books and speeches in India tell it as a proud national achievement, sometimes with dates pushed earlier than the evidence supports. In the Arab world the digits are often called "Indian numbers," while for centuries Europeans called the same digits "Arabic," because that's who they learned them from. Historians of mathematics such as the team behind the MacTutor archive tell a longer relay story: Babylonian placeholders, Greek astronomers, Indian place value and zero, Arabic-language scholars, then Europe. And the Bakhshali debate shows that even experts in Britain, the United States, France, Japan, New Zealand and Canada can disagree about the evidence until new tests settle it.
@@ -271,7 +271,7 @@ On 11 December 2014, the United Nations proclaimed 21 June the International Day
 
 **Chaturanga** is an old board game from India, first clearly mentioned in the 6th or 7th century CE, that is the earliest known ancestor of chess. The name is Sanskrit for "four limbs," meaning the four parts of an old Indian army: elephants, chariots, cavalry (horses) and infantry (foot soldiers). It was played on an 8-by-8 board called the *ashtapada*. One of the earliest texts to name it is the *Harshacharita*, a biography of King Harsha written around 625 CE.
 
-From India the game traveled to Persia, where it became *chatrang* and then *shatranj*. Arabic-speaking players spread shatranj across the Middle East and North Africa, and it reached Europe in the Middle Ages. Over the centuries the pieces changed. The elephant became the bishop, the chariot (*rukh* in Persian) became the rook, and the counselor, a weak piece that moved one square, was renamed the queen in Europe and later became the strongest piece on the board. So chess as you play it today is a group project, with an Indian beginning.
+From India the game traveled to Persia, where it became *chatrang* and then *shatranj*. Arabic-speaking players spread shatranj across the Middle East and North Africa, and it reached Europe in the Middle Ages. Over the centuries the pieces changed. The elephant became the bishop, the chariot (*rukh* in Persian) became the rook, and the counselor, a weak piece that moved one square, was renamed the queen in Europe and later became the strongest piece on the board. So the chess you play today began in India and was reshaped in Persia, the Arab world and Europe.
 
 ### Wootz steel
 
@@ -283,7 +283,7 @@ Sri Lanka has its own steel story. At Samanalawewa, in Sri Lanka's hill country,
 
 ## 16.12 Modern Scientists of the Region
 
-The story doesn't stop in the distant past. Here are four modern scientists, from three of today's countries.
+The story doesn't stop in the distant past. Here are four modern scientists, born or working in three of today's countries.
 
 ### Srinivasa Ramanujan
 
@@ -358,7 +358,7 @@ Then switch the digit set to Bengali, Tamil and Urdu and watch the same number c
 ## Common Misconceptions
 
 **Myth:** Indians invented all of mathematics.  
-**Reality:** South Asian mathematicians made major contributions, especially place value with zero, rules for zero and negative numbers, and early infinite series. But mathematics was built by many peoples, including Babylonians, Egyptians, Greeks, Chinese, Maya and scholars writing in Arabic and Persian. Overclaiming actually hides the real achievements.
+**Reality:** South Asian mathematicians made major contributions, especially place value with zero, rules for zero and negative numbers, and early infinite series. But mathematics was built by many peoples, including Babylonians, Egyptians, Greeks, Chinese, Maya and scholars writing in Arabic and Persian. Overclaiming hides the real achievements.
 
 **Myth:** Zero was invented by one person on one day.  
 **Reality:** Zero grew over centuries. Placeholder marks appeared in Babylon, Greece, the Maya world and South Asia. Brahmagupta, in 628 CE, was the first known writer to give rules for zero as a number, but he was building on earlier Indian place value and the dot used for an empty place.
@@ -429,7 +429,7 @@ Then switch the digit set to Bengali, Tamil and Urdu and watch the same number c
 
 7. Compare how Aryabhata, al-Biruni and Fibonacci each helped the numbers you use reach your classroom. What role did each one play: inventor, explainer or carrier?
 
-    *Hint: use the timeline in Section 16.6.*
+    *Hint: use Sections 16.5 to 16.7, including the timeline in Section 16.6.*
 
 8. The Bakhshali manuscript's date changed after new tests. Analyze what this teaches about how to read a news headline that says "oldest ever."
 
@@ -457,13 +457,13 @@ Then switch the digit set to Bengali, Tamil and Urdu and watch the same number c
 
 ## Key Takeaways
 
-- Brahmi numerals, from the 3rd century BCE, are the ancestors of the digits 0 to 9, but they were not yet a place value system.
+- Brahmi numerals, from the 3rd century BCE, are the ancestors of the shapes of our digits 1 to 9, but they were not yet a place value system.
 - A place value system gives each digit a value by its position. Zero holds empty places, and South Asian mathematicians were the first known to treat zero as a number, with Brahmagupta writing its rules in 628 CE.
 - The digits traveled from South Asia through Baghdad and North Africa to Europe, which is why they're called Hindu-Arabic numerals; al-Khwarizmi's name gave us "algorithm."
 - Aryabhata, Brahmagupta, the Kerala School and Panini made real, specific contributions. Describing them accurately, including their mistakes, honors them more than exaggerating.
 - Ayurveda, the Sushruta Samhita, Unani medicine and yoga are long healing traditions with real history; they are traditions, not proven cures, and this is not medical advice.
 - Chaturanga is the ancestor of chess, and wootz steel from South India and Sri Lanka was prized across the world.
-- Modern scientists from India, Pakistan and Bangladesh, including Ramanujan, Raman, Bose and Salam, continued the story into the 20th century.
+- Modern scientists born or working in what are now India, Pakistan and Bangladesh, including Ramanujan, Raman, Bose and Salam, continued the story into the 20th century.
 
 !!! mascot-celebration "You've cracked the code of zero!"
     ![Mora celebrating](../../img/mascot/celebration.png){ class="mascot-admonition-img" }

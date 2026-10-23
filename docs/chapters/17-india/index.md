@@ -39,7 +39,7 @@ India is the most populous country on Earth and the largest country in South Asi
 
 !!! mascot-welcome "One country, many homes"
     ![Mora waving hello](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
-    Hi, I'm Mora! India is where my own feathers come from: the peacock is India's national bird. If your family is from India, you've probably noticed that "Indian" can mean very different things to a cousin in Chennai and an uncle in Lucknow. If it isn't, India still touches your world in more ways than you might expect, even the phone in your pocket. This chapter helps you read the whole map, not just one corner of it.
+    Hi, I'm Mora! India is where my own feathers come from: the peacock is India's national bird. If your family is from India, you've probably noticed that "Indian" can mean very different things to a cousin in Chennai and an uncle in Lucknow. If it isn't, India still touches your world in more ways than you might expect, even the phone in your pocket. This chapter walks you across the whole map, from Ladakh to Kerala.
 
 ## 17.1 "Like 28 Countries in One"
 
@@ -154,7 +154,7 @@ Here is the full list, with the capitals given by the National Portal of India. 
 | Assam | State | Dispur | Assamese, Bodo (Bengali in the Barak Valley) |
 | Bihar | State | Patna | Hindi (Urdu additional) |
 | Chhattisgarh | State | Raipur | Hindi |
-| Goa | State | Panaji | Konkani, English |
+| Goa | State | Panaji | Konkani (Marathi and English also used) |
 | Gujarat | State | Gandhinagar | Gujarati |
 | Haryana | State | Chandigarh | Hindi |
 | Himachal Pradesh | State | Shimla | Hindi (Sanskrit second) |
@@ -224,7 +224,7 @@ So was Kavya right that India is "28 countries in one"? In one sense, yes: many 
 
 ### Hindi, English and the language question
 
-India's constitution named Hindi in Devanagari script as the official language of the Union and planned for English to be phased out by 1965. In South India, especially in Tamil Nadu, many people strongly opposed having Hindi imposed on them. The Official Languages Act of 1963 settled the issue for the time being: English continues alongside Hindi for official purposes indefinitely.
+India's constitution named Hindi in Devanagari script as the official language of the Union and planned for English to be phased out by 1965. In South India, especially in Tamil Nadu, many people strongly opposed having Hindi imposed on them. After protests in Tamil Nadu, the Official Languages Act of 1963, and an amendment to it in 1967, settled the issue for now: English continues alongside Hindi for official purposes, with no end date.
 
 How many Indians speak Hindi? In the 2011 census, about 43.6% of Indians named Hindi as their mother tongue. That number includes many related regional tongues, such as Bhojpuri and Braj, that the census groups under Hindi. So Hindi is the biggest single language, but more than half of India grows up speaking something else. Bengali came second, at about 8%.
 
@@ -246,7 +246,7 @@ The Northeast covers almost 8% of India's area but held only about 4% of its peo
 
 Faiths vary widely too. Assam and Tripura have Hindu majorities and Assam has a large Muslim population. Nagaland, Mizoram and Meghalaya have Christian majorities. Sikkim and Arunachal Pradesh have important Buddhist communities. Many communities keep Indigenous faiths alongside or instead of these.
 
-Many people from the Northeast who move to big Indian cities have reported facing prejudice and being treated as "foreigners" in their own country. This chapter treats the Northeast as a full part of India's story, not a footnote.
+Many people from the Northeast who move to big Indian cities have reported facing prejudice and being treated as "foreigners" in their own country. This chapter treats the Northeast as a full part of India's story.
 
 !!! mascot-warning "Not all Indians look alike"
     ![Mora with a warning](../../img/mascot/warning.png){ class="mascot-admonition-img" }
@@ -272,7 +272,7 @@ You've already seen the diversity: 22 scheduled languages and hundreds more spok
 - **Shared history:** the independence movement, which brought people from every region together against colonial rule.
 - **Shared culture across lines:** cricket ([Chapter 15](../15-cinema-cricket-pop-culture/index.md)), Hindi and regional films, festivals that neighbors of different faiths often celebrate together, and food that travels between states.
 
-Unity in diversity is a goal, not an automatic fact. India has seen violence between religious communities, conflicts in Kashmir and parts of the Northeast, and arguments over language. Indians debate, loudly, how a big democracy should balance majority and minority, center and state. Those debates are part of how a diverse country works out living together.
+Unity in diversity is a goal that India keeps working toward. India has seen violence between religious communities, conflicts in Kashmir and parts of the Northeast, and arguments over language. Indians debate, loudly, how a big democracy should balance majority and minority, center and state. Those debates are part of how a diverse country works out living together.
 
 ## 17.12 National Symbols of India
 
@@ -286,7 +286,7 @@ Unity in diversity is a goal, not an automatic fact. India has seen violence bet
 | National song | "Vande Mataram," by Bankim Chandra Chatterjee | Honored equally with the anthem |
 | National animal | Tiger | |
 | National bird | Indian peafowl (peacock) | Since 1963 |
-| National flower | Lotus | |
+| National flower | Lotus | Listed on the National Portal of India, though a 2019 government answer in Parliament said no official notice names a national flower |
 | National calendar | The Saka calendar, used alongside the Gregorian calendar | Adopted 22 March 1957 |
 
 Many of these symbols reach back into older history. The wheel on the flag and the lions on the emblem come from the reign of the emperor Ashoka in the 200s BCE ([Chapter 2](../02-ancient-roots/index.md)). The anthem connects India to its neighbors: Tagore also wrote "Amar Shonar Bangla," the national anthem of Bangladesh, which you'll meet in [Chapter 19](../19-bangladesh-and-sri-lanka/index.md).
@@ -310,13 +310,13 @@ Since economic reforms in 1991 opened India more to trade and investment, its ec
 
 The **Indian Rupee** is India's currency, written ₹ and divided into 100 paise. The word "rupee" comes from the Hindi rupaya (रुपया, *ROOP-yah*), from a Sanskrit word for wrought silver. The rupee goes back to a silver coin called the rupiya, first issued by the ruler Sher Shah Suri between 1540 and 1545 and later by the Mughals, and several neighbors also call their money rupees: Pakistan, Nepal and Sri Lanka all do.
 
-The ₹ symbol is new. In 2010, India's government held an open competition for a rupee sign, and on 15 July 2010 it chose a design by D. Udaya Kumar, a young designer from IIT Bombay. The symbol blends the Devanagari letter र (*ra*) with the Latin letter R, and its two horizontal lines echo the flag. In October 2026, about 95 rupees bought one US dollar, according to Britannica.
+The ₹ symbol is new. In 2010, India's government held an open competition for a rupee sign, and on 15 July 2010 it chose a design by D. Udaya Kumar, a young designer from IIT Bombay. The symbol blends the Devanagari letter र (*ra*) with the Latin letter R, and its two horizontal lines echo the flag. In 2026, one US dollar cost more than 90 rupees (US Federal Reserve exchange-rate data, February 2026).
 
 ## 17.14 ISRO and India in Space
 
 **ISRO**, the Indian Space Research Organisation, is India's national space agency, which builds and launches rockets and satellites and sends missions to the Moon and beyond. It grew out of a space research committee set up in 1962, at the urging of the physicist Vikram Sarabhai, and took the name ISRO in 1969. Its headquarters are in Bengaluru, and it launches rockets from Sriharikota, an island on the coast of Andhra Pradesh.
 
-ISRO is known for doing ambitious things on small budgets. Its satellites forecast weather, map crops, guide fishing boats and broadcast TV across the country.
+ISRO is known for doing ambitious things on small budgets: its Mars Orbiter Mission, which reached Mars in September 2014, cost about 450 crore rupees (roughly 74 million US dollars). Its satellites forecast weather, map crops, guide fishing boats and broadcast TV across the country.
 
 Its most famous recent mission is **Chandrayaan-3** ("Moon craft"). Launched on 14 July 2023, it landed its Vikram lander near the Moon's south pole on 23 August 2023, and a small rover called Pragyan drove across the surface. India became the fourth country to land softly on the Moon, after the Soviet Union, the United States and China, and the first to land near the lunar south pole, a region scientists study because it may hold water ice. The rover's instruments confirmed sulfur in the soil near the pole.
 

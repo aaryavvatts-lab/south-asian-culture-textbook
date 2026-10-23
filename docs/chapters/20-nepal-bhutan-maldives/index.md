@@ -10,7 +10,7 @@ version: 1.0
 
 ## Summary
 
-Nepal, Bhutan and the Maldives are three of the smallest countries in South Asia by population, but between them they hold both the highest point on Earth and the lowest-lying country on Earth. This chapter tours each one: Nepal's Kathmandu Valley, Lumbini, Mount Everest, the Sherpa people, the Gurkhas and the republic Nepal became in 2008; Bhutan's language, its fortress-monasteries and its idea of Gross National Happiness; and the Maldives' coral atolls, its capital Malé, its language Dhivehi and the danger that rising seas pose to it. Along the way you'll compare how altitude and sea level shape farming, faith, work and the future in all three.
+Bhutan and the Maldives are the two smallest countries in South Asia by population, and Nepal sits in the middle of the list, but between them the three hold both the highest point on Earth and the lowest-lying country on Earth. This chapter tours each one: Nepal's Kathmandu Valley, Lumbini, Mount Everest, the Sherpa people, the Gurkhas and the republic Nepal became in 2008; Bhutan's language, its fortress-monasteries and its idea of Gross National Happiness; and the Maldives' coral atolls, its capital Malé, its language Dhivehi and the danger that rising seas pose to it. Along the way you'll compare how altitude and sea level shape farming, faith, work and the future in all three.
 
 ## Concepts Covered
 
@@ -48,7 +48,7 @@ It's the third meeting of the South Asian Student Association at Prairie Ridge H
 
 Ben Lindqvist leans forward. "Okay, the Everest guy is your grandpa? That's amazing." Zara Hossain is already scrolling the club's list of the eight South Asian countries. "And look," she says. "The Maldives is on the same list. That's the country that's basically at sea level."
 
-Ben does the math out loud. "So the highest mountain on the planet and the lowest country on the planet are in the same region? How does that even work?" Nima laughs. "Also, my grandpa wasn't a porter because he's a Sherpa. Sherpa is who we are, not a job." The room goes quiet for a second. How do three small countries, one on top of the world and one barely above the waves, fit into one region, and what does living at those heights mean for the people there? That's what this chapter is about.
+Ben does the math out loud. "So the highest mountain on the planet and the lowest country on the planet are in the same region? How does that even work?" Nima laughs. "Also, my grandpa wasn't a porter because he's a Sherpa. Sherpa is who we are, not a job." The room goes quiet for a second. How do these countries, one on top of the world and one barely above the waves, fit into one region, and what does living at those heights mean for the people there? That's what this chapter is about.
 
 ## 20.2 Three Small Countries, One Huge Staircase
 
@@ -76,9 +76,9 @@ There's another thing they share. None of them was ruled directly as a British c
 
 Nepal is a fairly narrow country from south to north, yet inside that short distance the land climbs from about 59 m above sea level to the top of the world. Geographers divide it into three belts that run east to west like stripes:
 
-- **The Terai** is the strip of flat, hot plain along the southern edge, the northern rim of the great plain you met in Chapter 1. It is low, mostly below about 300 m above sea level. Rice, wheat and sugarcane grow here, and many of Nepal's people live here. The Terai covers about 17% of the country.
-- **The Hills** (Pahad) cover about 68% of the country. These are green ridges and valleys, many with terraced fields cut into the slopes like giant steps. Kathmandu is here.
-- **The Himal** is the high mountain belt along the northern border, about 15% of the country, with snowfields, glaciers and the world's highest peaks.
+- **The Terai** is the strip of flat, hot plain along the southern edge, the northern rim of the great plain you met in Chapter 1. It is low, mostly below about 300 m above sea level. Rice, wheat and sugarcane grow here, and many of Nepal's people live here. It is the smallest of the three belts by area.
+- **The Hills** (Pahad) are the largest belt. These are green ridges and valleys, many with terraced fields cut into the slopes like giant steps. Kathmandu is here.
+- **The Himal** is the high mountain belt along the northern border, with snowfields, glaciers and the world's highest peaks.
 
 Nepal is home to many ethnic groups and languages. Most Nepalis are Hindu: in the 2021 census, about 81% said they were Hindu, about 8% Buddhist and about 5% Muslim, with smaller groups following Kirat, an Indigenous faith, or Christianity. Many families mix Hindu and Buddhist practice, so the lines between faiths are often softer than a census table suggests. Nepal's flag is the only national flag in the world that isn't a rectangle: it's two stacked triangles, a shape called a double pennon.
 
@@ -110,7 +110,7 @@ The strongest physical evidence at Lumbini is a stone pillar put up by the Maury
 
 !!! mascot-thinking "One person, many homes"
     ![Mora thinking](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
-    The Buddha was born in what is now Nepal, became enlightened at Bodh Gaya in what is now India, and his teachings spread to Sri Lanka, Bhutan and far beyond. When a famous figure "belongs" to many modern countries, which one gets to tell the story? I think the honest answer is: all of them, a little differently.
+    The Buddha was born in what is now Nepal, became enlightened at Bodh Gaya in what is now India, and his teachings spread to Sri Lanka, Bhutan and far beyond. When a famous figure "belongs" to many modern countries, which one gets to tell the story? I think all of them do, each a little differently.
 
 ### Mount Everest
 
@@ -136,7 +136,7 @@ The **Gurkhas** are soldiers from Nepal (and Nepali-speaking communities in Indi
 
 Between 1814 and 1816, Nepal fought a war against the British East India Company. Nepal lost and, under the 1816 Treaty of Sugauli, gave up land in the west and south. But the British were so impressed by Nepal's soldiers that they began recruiting them even before the war ended. Gurkhas fought for Britain in both World Wars and in many other conflicts. They are known for their curved knife, the *khukuri*, and for their reputation for courage.
 
-For many hill families, especially Gurung and Magar families, serving as a Gurkha has been a respected path to steady income and travel, and it helped create Nepali communities in Britain and elsewhere. It also raised questions of fairness: Gurkhas long received smaller pensions than other British soldiers until public campaigns won equal pensions for those who joined after 1997 (announced in 2007) and the right for retired Gurkhas to settle in Britain (2009).
+For many hill families, especially Gurung, Magar, Rai and Limbu families, serving as a Gurkha has been a respected path to steady income and travel, and it helped create Nepali communities in Britain and elsewhere. It also raised questions of fairness: Gurkhas long received smaller pensions than other British soldiers until public campaigns won equal pensions for those who joined after 1997 (announced in 2007) and the right for retired Gurkhas to settle in Britain (2009).
 
 ### Nepal's Republic (2008)
 
@@ -144,7 +144,7 @@ For about 240 years, from 1768, Nepal was a kingdom ruled by the Shah dynasty, a
 
 The late 1900s and early 2000s brought big changes. Protests in 1990 forced the king to accept multiparty democracy. From 1996 to 2006 a civil war between government forces and Maoist rebels killed more than 17,000 people. After mass protests in 2006 and a peace deal, Nepal held elections for a Constituent Assembly, a special body chosen to write a new constitution, on 10 April 2008.
 
-**Nepal's Republic (2008)** refers to the moment Nepal ended its monarchy and became a republic: at its very first meeting, on 28 May 2008, the Constituent Assembly voted to declare Nepal a federal democratic republic. The last king, Gyanendra, left the royal palace in Kathmandu in June 2008, and it became a museum. Nepal also became officially secular, with no state religion. Writing the constitution took years, and it finally came into effect on 20 September 2015. It made Nepal a federal republic divided into seven provinces, each with its own government.
+**Nepal's Republic (2008)** refers to the moment Nepal ended its monarchy and became a republic: at its very first meeting, on 28 May 2008, the Constituent Assembly voted to declare Nepal a federal democratic republic. The last king, Gyanendra, left the royal palace in Kathmandu in June 2008, and it became a museum. Nepal had already been declared officially secular, with no state religion, in 2006. Writing the constitution took years, and it finally came into effect on 20 September 2015. It made Nepal a federal republic divided into seven provinces, each with its own government.
 
 Nepal's politics have kept changing. In September 2025, large youth-led protests, often called the "Gen Z" protests, broke out against corruption, after the government banned many social media platforms. The protests turned deadly, and Prime Minister K. P. Sharma Oli resigned on 9 September 2025. Sushila Karki, a former chief justice, became interim prime minister. In an early election on 5 March 2026, the Rastriya Swatantra Party won 182 of the 275 seats in the House of Representatives, and Balendra (Balen) Shah, a former mayor of Kathmandu, was sworn in as prime minister on 27 March 2026. (Leaders change; check the news for the latest.)
 
@@ -226,7 +226,7 @@ Dhivehi is written in a script called Thaana, which is written from right to lef
 
 Buddhism was the main faith in the Maldives for centuries. Arab and Persian traders crossing the Indian Ocean brought Islam, and by tradition the last Buddhist king converted in 1153. The monarchy lasted more than 800 years in all. In 1887 an agreement recorded the Maldives as a British protectorate, and it gained full independence on 26 July 1965, a date Maldivians celebrate as Independence Day. The sultanate ended and a republic was declared on 11 November 1968. Today the Maldives' constitution makes Islam the state religion and says a non-Muslim may not become a citizen; nearly all Maldivians are Sunni Muslims, and Eid al-Fitr and Eid al-Adha are major national holidays.
 
-Life follows the sea. For centuries Maldivians were known as skilled sailors and fishers, and tuna, especially skipjack tuna, is still the most important catch. Fishing remains the second-largest part of the economy; tourism, which began in the early 1970s, is now the largest. Many resorts take up a whole island each, while most Maldivians live on separate "local islands" with their own mosques, schools, football fields and harbors. That gap means many visitors see only resorts and never meet the 500,000 or so people who live there.
+Life follows the sea. For centuries Maldivians were known as skilled sailors and fishers, and tuna, especially skipjack tuna, is still the most important catch. Fishing is still one of the main industries, after tourism, which began in the early 1970s and is now the largest. Many resorts take up a whole island each, while most Maldivians live on separate "local islands" with their own mosques, schools, football fields and harbors. That gap means many visitors see only resorts and never meet the 500,000 or so people who live there.
 
 ### Sea-Level Rise
 
@@ -245,7 +245,7 @@ The Maldives has worked hard to get the world to notice. On 17 October 2009, Pre
 
 !!! mascot-tip "Same planet, different worries"
     ![Mora giving a tip](../../img/mascot/tip.png){ class="mascot-admonition-img" }
-    Here's a neat way to remember this chapter: warming is one cause with two faces in South Asia. Up high in Nepal and Bhutan, it melts glaciers; down low in the Maldives, that meltwater and warmer oceans help raise the sea.
+    Warming affects both ends of South Asia's staircase. Up high in Nepal and Bhutan, it melts glaciers; down low in the Maldives, that meltwater and warmer oceans help raise the sea.
 
 ## 20.6 Mountains to Atolls: Comparing the Three
 
@@ -260,7 +260,7 @@ Now put the three countries side by side and ask the question from the hook: how
 | Big money-maker | Remittances, tourism, farming | Hydropower, tourism | Tourism, fishing |
 | How faith shapes the landscape | Hindu temples and Buddhist stupas side by side | Dzongs, monasteries and prayer flags | Mosques on every inhabited island |
 
-Some patterns stand out. In the mountain countries, steep land makes farming and travel hard, but fast rivers are good for hydropower and the peaks draw visitors. The atoll country has almost no farmland, but its ocean is full of fish and reefs. In all three, many young people leave home to study or work, and climate change threatens land that families have lived with for generations.
+In the mountain countries, steep land makes farming and travel hard, but fast rivers are good for hydropower and the peaks draw visitors. The atoll country has almost no farmland, but its ocean is full of fish and reefs. In all three, many young people leave home to study or work, and climate change threatens land that families have lived with for generations.
 
 Back at the club meeting, Ben sketches a line on the whiteboard that starts flat at the bottom left and shoots up on the right. Zara adds a wavy blue line along the bottom. "If the ocean goes up a little, Kathmandu won't notice," she says. "Down here, it matters a lot." Ben nods. "One region, two totally different problems."
 

@@ -19,6 +19,12 @@ This appendix gives a one-table snapshot of each of the eight countries of South
     ![Mora giving a tip](../img/mascot/tip.png){ class="mascot-admonition-img" }
     Every number on this page has a year attached, because populations, faith shares and even site lists change. If you use one in a project, copy the year and the source along with it.
 
+## Faiths at a glance
+
+This chart shows the main faiths in each country, side by side, using one source so the countries can be compared fairly. Hover over a bar (or tap it on a phone) to see the exact share, or open the table under the chart.
+
+<div class="rr-chart" data-chart="faiths"></div>
+
 ## Afghanistan
 
 | | |

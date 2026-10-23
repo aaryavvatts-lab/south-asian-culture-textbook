@@ -304,7 +304,7 @@ function drawPanel() {
       ['Units', '28 states and 8 union territories (2026)'],
       ['Union languages', 'Hindi (Devanagari script) and English'],
       ['Eighth Schedule', '22 languages'],
-      ['Try this', 'Look at the Language family colors: most southern tiles share one color. Many states were drawn around languages in the 1950s. Then switch the menu to Region.']
+      ['Try this', wide ? 'Look at the Language family colors: most southern tiles share one color. Many states were drawn around languages in the 1950s. Then switch the menu to Region.' : 'Switch the menu to Region.']
     ];
     y = drawRows(lines, y, tw);
     return;

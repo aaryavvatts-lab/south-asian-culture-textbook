@@ -90,7 +90,7 @@ const neighbours = [
   { name: 'Afghanistan', note: 'not colonized', x: 0.02, y: 0.02, w: 0.25 },
   { name: 'Nepal', note: 'kingdom', x: 0.42, y: 0.02, w: 0.16 },
   { name: 'Bhutan', note: 'kingdom', x: 0.62, y: 0.02, w: 0.16 },
-  { name: 'Maldives', note: 'protectorate to 1965', x: 0.04, y: 0.82, w: 0.30 }
+  { name: 'Maldives', note: 'protectorate 1887-1965', x: 0.04, y: 0.82, w: 0.30 }
 ];
 
 let dx, dy, dw, dh, px, py, pw, ph, wide;

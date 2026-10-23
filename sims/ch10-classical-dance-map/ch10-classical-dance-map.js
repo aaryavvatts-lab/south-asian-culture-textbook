@@ -41,7 +41,7 @@ const dances = [
     costume: 'A full skirt (lehenga) or flared tunic (anarkali), or a sari; ankle bells (ghungroo).' },
   { name: 'Sattriya', cx: 0.78, cy: 0.24, kind: 'classical',
     region: 'Assam (northeast India)',
-    features: 'Began in Vaishnava monasteries (sattras) after Sankardev, 1400s-1500s. Krishna stories. Recognized in 2000, the newest of the eight.',
+    features: 'Began in Vaishnava monasteries (sattras) started by Sankardev and his followers. Krishna stories. Recognized in 2000, the newest of the eight.',
     costume: 'Traditionally white or raw-silk colors, often in Assam silk; Assamese gold jewelry.' },
   { name: 'Manipuri', cx: 0.83, cy: 0.37, kind: 'classical',
     region: 'Manipur (northeast India); also Sylhet, Bangladesh',

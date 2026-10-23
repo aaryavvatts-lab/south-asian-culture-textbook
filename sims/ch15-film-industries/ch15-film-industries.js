@@ -75,7 +75,7 @@ const industries = [
   { short: 'Sinhala', name: 'Sri Lankan cinema', u: 0.62, v: 0.935, color: '#C7B3E0',
     lang: 'Sinhala and Tamil', center: 'Sri Lanka',
     landmark: 'Rekava (1956) by Lester James Peries, shown in competition at Cannes in 1957.',
-    note: 'Sri Lankan cinema began in 1947 with Kadawunu Poronduwa. Films are made in Sinhala and Tamil.' }
+    note: 'Kadawunu Poronduwa (1947) was the first Sinhala-language film. Films are made in Sinhala and Tamil.' }
 ];
 let selectedFilm = 3; // start on Hindi, to show it is one tile among many
 

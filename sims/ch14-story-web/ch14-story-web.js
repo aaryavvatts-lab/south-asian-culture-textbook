@@ -57,7 +57,7 @@ const nodes = [
     date: 'Mostly compiled about 300 BCE to 300 CE', place: 'North India',
     sum: 'A war between two sets of royal cousins, told in more than 100,000 verses: one of the longest poems ever composed.' },
   { id: 'gita', label: 'Bhagavad Gita', era: 0, group: 'classical', langs: ['Sanskrit'],
-    date: 'About 2nd to 1st century BCE', place: 'North India (inside the Mahabharata)',
+    date: 'Debated; often placed about 2nd to 1st century BCE', place: 'North India (inside the Mahabharata)',
     sum: 'About 700 verses in which Krishna answers Prince Arjuna\'s doubts on the eve of battle. Many Hindus treat it as sacred.' },
   { id: 'jataka', label: 'Jataka tales', era: 0, group: 'classical', langs: ['Pali'],
     date: 'Verses older than the prose; collected about 500 CE', place: 'India, Sri Lanka and Buddhist Asia',

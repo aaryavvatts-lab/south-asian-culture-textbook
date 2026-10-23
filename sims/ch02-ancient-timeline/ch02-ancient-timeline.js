@@ -110,7 +110,7 @@ const places = [
   { name: 'Mehrgarh', side: 'R', u: 0.20, v: 0.32, from: -7000, to: -2500, country: 'Pakistan',
     note: 'One of the oldest farming villages in South Asia, about 7000 BCE (some say later).' },
   { name: 'Harappa', side: 'L', u: 0.33, v: 0.21, from: -3300, to: -1700, country: 'Pakistan',
-    note: 'The first Indus city found (1921). It gave the civilization its other name, Harappan.' },
+    note: 'The first Indus city excavated (1921). It gave the civilization its other name, Harappan.' },
   { name: 'Mohenjo-daro', side: 'R', u: 0.24, v: 0.42, from: -2500, to: -1700, country: 'Pakistan',
     note: 'A planned Indus city with grid streets, drains and the Great Bath. A UNESCO site since 1980.' },
   { name: 'Taxila', side: 'R', u: 0.30, v: 0.13, from: -600, to: 550, country: 'Pakistan',

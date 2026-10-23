@@ -5,7 +5,7 @@
 // sample low atoll island. The sea-level slider raises the ocean: the rise
 // is invisible at mountain scale but floods much of the low island.
 // Elevations: Everest 8,848.86 m (2020 China-Nepal survey); Kathmandu about
-// 1,400 m; Thimphu about 2,250-2,650 m; Terai about 67-300 m; Maldives
+// 1,400 m; Thimphu about 2,250-2,650 m; Terai about 59-300 m; Maldives
 // average ground about 1.5 m, highest natural point about 2.4 m.
 // IPCC AR6 WGI SPM (2021) likely global sea-level rise by 2100 vs 1995-2014:
 // 0.28-0.55 m (SSP1-1.9, very low emissions); 0.63-1.01 m (SSP5-8.5, very high).
@@ -50,7 +50,7 @@ const places = [
     country: 'Maldives', note: 'Low coral islands in 26 atolls. Fishing, tourism and life on the water. Biggest worry: sea-level rise.' },
   { name: 'Indian Ocean', short: 'Ocean', x: 0.13, e: 0, elev: 'sea level (0 m)',
     country: 'Between the Maldives and the mainland', note: 'Global average sea level rose about 0.20 m from 1901 to 2018 (IPCC).' },
-  { name: 'Terai plains', short: 'Terai', x: 0.30, e: 150, elev: 'about 67 to 300 m',
+  { name: 'Terai plains', short: 'Terai', x: 0.30, e: 150, elev: 'about 59 to 300 m',
     country: 'Nepal', note: 'Flat, hot farmland at the northern edge of the great river plain. Rice, wheat and sugarcane.' },
   { name: 'Kathmandu', short: 'Kathmandu', x: 0.49, e: 1400, elev: 'about 1,400 m',
     country: 'Nepal (capital)', note: 'A valley of temples and stupas in the hills, with seven UNESCO monument zones.' },
@@ -213,7 +213,8 @@ function drawProfile() {
   fill('#333333');
   textSize(14);
   textAlign(LEFT, TOP);
-  text('At this scale, 1 m of sea-level rise is thinner than a line. See the close-up below.', plotL + 4, pTop + 4);
+  const note = (plotR - plotL) < 420 ? '1 m of sea rise is too thin to see here. See the close-up.' : 'At this scale, 1 m of sea-level rise is thinner than a line. See the close-up below.';
+  text(note, plotL + 4, pTop + 4, plotR - plotL - 120);
 }
 
 // ---------- info card ----------
@@ -232,6 +233,12 @@ function drawCard() {
   textStyle(NORMAL);
   textSize(14);
   fill(NAVY);
+  if (canvasWidth < 560) {
+    // Narrow screens: one wrapped block so nothing is clipped
+    textSize(13);
+    text('Elevation: ' + p.elev + '. ' + p.note, margin + 8, y0 + 26, canvasWidth - 2 * margin - 16, 64);
+    return;
+  }
   text('Elevation: ' + p.elev, margin + 8, y0 + 26, canvasWidth - 2 * margin - 16, 20);
   fill('#333333');
   text(p.note, margin + 8, y0 + 46, canvasWidth - 2 * margin - 16, 44);

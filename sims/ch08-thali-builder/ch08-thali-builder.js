@@ -41,7 +41,7 @@ const regions = [
     name: 'Punjab', where: 'Pakistan and India',
     why: 'Wheat country: cool winters and irrigated plains along the Indus and its tributaries. Dairy is important. Punjabi food is shared on both sides of the border.',
     staple: { name: 'Roti (wheat flatbread)', short: 'Roti', color: '#E8C48A', note: 'Whole-wheat bread cooked on a tava. In winter many families eat makki di roti, made from maize, a crop from the Americas.' },
-    dal: { name: 'Black urad dal', color: '#5A3A2A', note: 'Whole black lentils slow-cooked for hours. The rich dal makhani was created in Delhi in the 1950s by Punjabi cooks from Peshawar.' },
+    dal: { name: 'Black urad dal', color: '#5A3A2A', note: 'Whole black lentils slow-cooked for hours. The rich dal makhani is usually credited to Punjabi cooks from Peshawar who settled in Delhi in the 1950s.' },
     veg: { name: 'Sarson da saag', color: '#4F7F3A', note: 'Mustard greens cooked down with spices, a winter favorite, eaten with maize bread.' },
     mainVeg: { name: 'Chole (chickpeas)', color: '#B5651D', note: 'Chickpeas simmered in a tangy, spiced onion and tomato gravy.' },
     mainNon: { name: 'Chicken karahi', color: '#B23A1E', note: 'Chicken cooked fast in a karahi, a deep wok-like pan, with tomato, ginger and green chili. Popular in Pakistan and India.' },
@@ -80,7 +80,7 @@ const regions = [
     dal: { name: 'Gujarati dal', color: '#F2C14E', note: 'A thin dal that is a little sweet and a little sour, with jaggery and lemon.' },
     veg: { name: 'Shaak or undhiyu', color: '#6E9B45', note: 'A vegetable dish. In winter, undhiyu mixes many seasonal vegetables cooked together.' },
     mainVeg: { name: 'Kadhi', color: '#F6E27F', note: 'A yogurt and chickpea flour curry, tangy and gently sweet.' },
-    mainNon: { name: 'Fish (coastal families)', color: '#C0392B', note: 'Gujarat is mostly vegetarian, but some coastal communities, such as the Kharwa, cook fresh and dried fish.' },
+    mainNon: { name: 'Fish (coastal families)', color: '#C0392B', note: 'Many Gujarati families are vegetarian, but others eat meat or fish, and some coastal communities, such as the Kharwa, cook fresh and dried fish.' },
     extra: { name: 'Farsan: dhokla', color: '#F7E08A', note: 'A steamed savory cake of fermented batter, one of many farsan (snacks) on a thali.' },
     sweet: { name: 'Shrikhand', color: '#F6D58E', note: 'Thick strained yogurt sweetened with sugar and flavored with cardamom or saffron.' },
     spice: { name: 'Mustard seed, cumin, asafoetida (hing), jaggery', color: '#B8860B', note: 'The vaghar (tadka) often uses hing, which helps replace onion and garlic in Jain cooking.' }
